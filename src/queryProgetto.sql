@@ -14,9 +14,12 @@ WHERE o1.ID <> o2.ID AND o1.artista <> o2.artista;
 
 -- Artista che ha partecipato al numero massimo di esibizioni 
 
-SELECT artista, COUNT(*) AS num_esib
+SELECT artista, MAX(num_esib)
+FROM temp 
+GROUP BY artista;
+
+SELECT o.artista, COUNT(*) AS num_esib INTO temp 
 FROM ogg_esib AS e JOIN ogg_arte AS o ON e.ID_ogg = o.ID
-GROUP BY o.artista
-WHERE MAX(num_esib); 
+GROUP BY o.artista;
 --da sistemare 
 
