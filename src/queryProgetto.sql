@@ -24,3 +24,23 @@ GROUP BY artista;
 
 --da sistemare 
 
+#Coppie di oggetti d'arte che sono sempre stati esposti assieme
+SELECT ogg1.ID, ogg2.ID
+FROM ogg_esib AS ogg1 JOIN ogg_esib AS ogg2 ON ogg1.nomeEsibizione = ogg2.nomeEsibizione
+WHERE ogg1.ID < ogg2.ID AND NOT EXISTS (
+    SELECT ogg3.nomeEsibizione
+    FROM ogg_esib AS ogg3
+    WHERE ogg3.ID=ogg1.ID
+    EXCEPT
+    SELECT ogg4.nomeEsibizione
+    FROM ogg_esib AS ogg4
+    WHERE ogg4.ID=ogg2.ID 
+) AND NOT EXISTS (
+    SELECT ogg5.nomeEsibizione
+    FROM ogg_esib AS ogg5
+    WHERE ogg5.ID=ogg2.ID
+    EXCEPT
+    SELECT ogg6.nomeEsibizione
+    FROM ogg_esib AS ogg6
+    WHERE ogg6.ID=ogg1.ID
+)
