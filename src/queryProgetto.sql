@@ -47,8 +47,15 @@ WHERE ogg1.ID < ogg2.ID AND NOT EXISTS (
 )
 
 -- Trovare le esibizioni uniche ossia quelle che espongono almeno un oggetto d'arte che non si trova in nessun altra esposizione
-SELECT esibizione.nome
-FROM esibizione 
+SELECT DISTINCT e.nome
+FROM esibizione AS e
+WHERE e.nome NOT IN (
+	SELECT e1.nome
+	FROM esibizione AS e1
+	JOIN ogg_esib ON e1.nome=ogg_esib.nomeEsibizione
+	GROUP BY ogg_esib.ID_ogg
+	HAVING COUNT(ogg_esib.ID_ogg)>1
+)
 
 
 -- Per ogni artista e il suo stile trovare la tipologia di ogg arte più frequentemente creata
