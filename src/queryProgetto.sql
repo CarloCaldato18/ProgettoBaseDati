@@ -1,3 +1,4 @@
+-- Active: 1777990354116@@ep-holy-smoke-alb66fkq-pooler.c-3.eu-central-1.aws.neon.tech@5432@ProgettoMuseo
 -- Tutti gli artisti di cui abbiamo almeno due oggetti di antiquariato
 
 SELECT o.artista
@@ -44,3 +45,10 @@ WHERE ogg1.ID < ogg2.ID AND NOT EXISTS (
     FROM ogg_esib AS ogg6
     WHERE ogg6.ID=ogg1.ID
 )
+
+-- Trovare le esibizioni uniche ossia quelle che espongono almeno un oggetto d'arte che non si trova in nessun altra esposizione
+SELECT esibizione.nome
+FROM esibizione 
+
+
+-- Per ogni artista e il suo stile trovare la tipologia di ogg arte più frequentemente creata
