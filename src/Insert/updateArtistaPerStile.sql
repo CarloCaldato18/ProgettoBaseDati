@@ -1,100 +1,100 @@
-UPDATE Artista SET StileP = 'Realismo' WHERE Nome = 'Min Guin';
-UPDATE Artista SET StileP = 'Impressionismo' WHERE Nome = 'Fanechka Clere';
-UPDATE Artista SET StileP = 'Espressionismo' WHERE Nome = 'Carlo Wisham';
-UPDATE Artista SET StileP = 'Cubismo' WHERE Nome = 'Roarke Iglesiaz';
-UPDATE Artista SET StileP = 'Surrealismo' WHERE Nome = 'Van Doggrell';
-UPDATE Artista SET StileP = 'Futurismo' WHERE Nome = 'Stacie Gronav';
-UPDATE Artista SET StileP = 'Dadaismo' WHERE Nome = 'Loleta Anespie';
-UPDATE Artista SET StileP = 'Barocco' WHERE Nome = 'Arabele Mariette';
-UPDATE Artista SET StileP = 'Rococò' WHERE Nome = 'Warner O''Nions';
-UPDATE Artista SET StileP = 'Rinascimento' WHERE Nome = 'Vergil Godbert';
+UPDATE artista SET stileP = 'Realismo' WHERE nome = 'Min Guin';
+UPDATE artista SET stileP = 'Impressionismo' WHERE nome = 'Fanechka Clere';
+UPDATE artista SET stileP = 'Espressionismo' WHERE nome = 'Carlo Wisham';
+UPDATE artista SET stileP = 'Cubismo' WHERE nome = 'Roarke Iglesiaz';
+UPDATE artista SET stileP = 'Surrealismo' WHERE nome = 'Van Doggrell';
+UPDATE artista SET stileP = 'Futurismo' WHERE nome = 'Stacie Gronav';
+UPDATE artista SET stileP = 'Dadaismo' WHERE nome = 'Loleta Anespie';
+UPDATE artista SET stileP = 'Barocco' WHERE nome = 'Arabele Mariette';
+UPDATE artista SET stileP = 'Rococò' WHERE nome = 'Warner O''Nions';
+UPDATE artista SET stileP = 'Rinascimento' WHERE nome = 'Vergil Godbert';
 
-UPDATE Artista SET StileP = 'Neoclassicismo' WHERE Nome = 'Harmonia Lovat';
-UPDATE Artista SET StileP = 'Romanticismo' WHERE Nome = 'Quinlan Thrussell';
-UPDATE Artista SET StileP = 'Minimalismo' WHERE Nome = 'Curran Twinn';
-UPDATE Artista SET StileP = 'Pop Art' WHERE Nome = 'Tabbie Essame';
-UPDATE Artista SET StileP = 'Art Nouveau' WHERE Nome = 'Billy Schule';
-UPDATE Artista SET StileP = 'Art Déco' WHERE Nome = 'Bearnard Hemstead';
-
--- blank
-UPDATE Artista SET StileP = NULL WHERE Nome = 'Mario Rossi';
-
-UPDATE Artista SET StileP = 'Astrattismo' WHERE Nome = 'Olvan Schubert';
-UPDATE Artista SET StileP = 'Simbolismo' WHERE Nome = 'Micah Got';
-UPDATE Artista SET StileP = 'Fauvismo' WHERE Nome = 'Freeland Cracknell';
-UPDATE Artista SET StileP = 'Costruttivismo' WHERE Nome = 'Raquela Goodbar';
-UPDATE Artista SET StileP = 'Suprematismo' WHERE Nome = 'Lyle Quinnelly';
-UPDATE Artista SET StileP = 'Op Art' WHERE Nome = 'Yvette Jeske';
-UPDATE Artista SET StileP = 'Arte concettuale' WHERE Nome = 'Candida Skermer';
+UPDATE artista SET stileP = 'Neoclassicismo' WHERE nome = 'Harmonia Lovat';
+UPDATE artista SET stileP = 'Romanticismo' WHERE nome = 'Quinlan Thrussell';
+UPDATE artista SET stileP = 'Minimalismo' WHERE nome = 'Curran Twinn';
+UPDATE artista SET stileP = 'Pop Art' WHERE nome = 'Tabbie Essame';
+UPDATE artista SET stileP = 'Art Nouveau' WHERE nome = 'Billy Schule';
+UPDATE artista SET stileP = 'Art Déco' WHERE nome = 'Bearnard Hemstead';
 
 -- blank
-UPDATE Artista SET StileP = NULL WHERE Nome = 'Isidora Roan';
+UPDATE artista SET stileP = NULL WHERE nome = 'Mario Rossi';
 
-UPDATE Artista SET StileP = 'Street Art' WHERE Nome = 'Ogdon Tolan';
-UPDATE Artista SET StileP = 'Arte digitale' WHERE Nome = 'Colet Otham';
-UPDATE Artista SET StileP = 'Vaporwave' WHERE Nome = 'Leda Gamblin';
-UPDATE Artista SET StileP = 'Cyberpunk' WHERE Nome = 'Olvan Cinnamond';
-UPDATE Artista SET StileP = 'Steampunk' WHERE Nome = 'Laryssa McIsaac';
-UPDATE Artista SET StileP = 'Low Poly' WHERE Nome = 'Dmitri Bortolotti';
-UPDATE Artista SET StileP = 'Pixel Art' WHERE Nome = 'Adriena Arpe';
-UPDATE Artista SET StileP = 'Ukiyo-e' WHERE Nome = 'Hildegaard Wollard';
-
--- blank
-UPDATE Artista SET StileP = NULL WHERE Nome = 'Levin Iskowitz';
-
-UPDATE Artista SET StileP = 'Chiaroscuro' WHERE Nome = 'Gypsy Bardnam';
-UPDATE Artista SET StileP = 'Gotico' WHERE Nome = 'Zahara Etherton';
-UPDATE Artista SET StileP = 'Brutalismo' WHERE Nome = 'Marni Tesche';
-UPDATE Artista SET StileP = 'Bauhaus' WHERE Nome = 'Randell Bakhrushkin';
-UPDATE Artista SET StileP = 'Arte Naïf' WHERE Nome = 'Angie Snewin';
-UPDATE Artista SET StileP = 'Hyperrealismo' WHERE Nome = 'Raimundo Fowkes';
-UPDATE Artista SET StileP = 'Matte Painting' WHERE Nome = 'Ashely Vedishchev';
-UPDATE Artista SET StileP = 'Anime' WHERE Nome = 'Demetra Emmanuel';
-UPDATE Artista SET StileP = 'Manga' WHERE Nome = 'Alma Haggas';
+UPDATE artista SET stileP = 'Astrattismo' WHERE nome = 'Olvan Schubert';
+UPDATE artista SET stileP = 'Simbolismo' WHERE nome = 'Micah Got';
+UPDATE artista SET stileP = 'Fauvismo' WHERE nome = 'Freeland Cracknell';
+UPDATE artista SET stileP = 'Costruttivismo' WHERE nome = 'Raquela Goodbar';
+UPDATE artista SET stileP = 'Suprematismo' WHERE nome = 'Lyle Quinnelly';
+UPDATE artista SET stileP = 'Op Art' WHERE nome = 'Yvette Jeske';
+UPDATE artista SET stileP = 'Arte concettuale' WHERE nome = 'Candida Skermer';
 
 -- blank
-UPDATE Artista SET StileP = NULL WHERE Nome = 'Kiersten Lubbock';
+UPDATE artista SET stileP = NULL WHERE nome = 'Isidora Roan';
 
-UPDATE Artista SET StileP = 'Ghibli-style' WHERE Nome = 'Vincenty Blowing';
-UPDATE Artista SET StileP = 'Noir' WHERE Nome = 'Rachelle Mullenger';
-UPDATE Artista SET StileP = 'Synthwave' WHERE Nome = 'Wanids Meadmore';
-UPDATE Artista SET StileP = 'Retrofuturismo' WHERE Nome = 'Carilyn Amesbury';
-UPDATE Artista SET StileP = 'Biomeccanico' WHERE Nome = 'Feodora Duiged';
-UPDATE Artista SET StileP = 'Glitch Art' WHERE Nome = 'Barn Hessentaler';
-UPDATE Artista SET StileP = 'Graffiti' WHERE Nome = 'Lindi Gorelli';
-UPDATE Artista SET StileP = 'Arte psichedelica' WHERE Nome = 'Lillian Cowdray';
-UPDATE Artista SET StileP = 'Medievale' WHERE Nome = 'Kellsie Doveston';
-
--- blank
-UPDATE Artista SET StileP = NULL WHERE Nome = 'Lizabeth Wittey';
-
-UPDATE Artista SET StileP = 'Bizantino' WHERE Nome = 'Patience Caney';
-UPDATE Artista SET StileP = 'Preraffaellita' WHERE Nome = 'Poppy Gallafant';
-UPDATE Artista SET StileP = 'Tonalismo' WHERE Nome = 'Shayna Rainford';
-UPDATE Artista SET StileP = 'Divisionismo' WHERE Nome = 'Andreana Steffan';
-UPDATE Artista SET StileP = 'Puntinismo' WHERE Nome = 'Wolfie Beauchamp';
-UPDATE Artista SET StileP = 'Constructivist Poster' WHERE Nome = 'Oswald Filde';
-UPDATE Artista SET StileP = 'Flat Design' WHERE Nome = 'Bastian De L''Isle';
-UPDATE Artista SET StileP = 'Line Art' WHERE Nome = 'Malanie Dyers';
+UPDATE artista SET stileP = 'Street Art' WHERE nome = 'Ogdon Tolan';
+UPDATE artista SET stileP = 'Arte digitale' WHERE nome = 'Colet Otham';
+UPDATE artista SET stileP = 'Vaporwave' WHERE nome = 'Leda Gamblin';
+UPDATE artista SET stileP = 'Cyberpunk' WHERE nome = 'Olvan Cinnamond';
+UPDATE artista SET stileP = 'Steampunk' WHERE nome = 'Laryssa McIsaac';
+UPDATE artista SET stileP = 'Low Poly' WHERE nome = 'Dmitri Bortolotti';
+UPDATE artista SET stileP = 'Pixel Art' WHERE nome = 'Adriena Arpe';
+UPDATE artista SET stileP = 'Ukiyo-e' WHERE nome = 'Hildegaard Wollard';
 
 -- blank
-UPDATE Artista SET StileP = NULL WHERE Nome = 'Garrard Rushe';
+UPDATE artista SET stileP = NULL WHERE nome = 'Levin Iskowitz';
 
-UPDATE Artista SET StileP = 'Cartoon' WHERE Nome = 'Malissia Ginsie';
-UPDATE Artista SET StileP = 'Cel Shading' WHERE Nome = 'Prissie Rivalland';
-UPDATE Artista SET StileP = 'Acquerello' WHERE Nome = 'Zahara Chapelhow';
-UPDATE Artista SET StileP = 'Pittura a olio' WHERE Nome = 'Nerte Basden';
-UPDATE Artista SET StileP = 'Carboncino' WHERE Nome = 'Cristobal Copnar';
-UPDATE Artista SET StileP = 'Ink Wash' WHERE Nome = 'Boycey Sporrij';
-UPDATE Artista SET StileP = 'Collage' WHERE Nome = 'Pip Copelli';
-UPDATE Artista SET StileP = 'Paper Cut' WHERE Nome = 'Cristionna Premble';
+UPDATE artista SET stileP = 'Chiaroscuro' WHERE nome = 'Gypsy Bardnam';
+UPDATE artista SET stileP = 'Gotico' WHERE nome = 'Zahara Etherton';
+UPDATE artista SET stileP = 'Brutalismo' WHERE nome = 'Marni Tesche';
+UPDATE artista SET stileP = 'Bauhaus' WHERE nome = 'Randell Bakhrushkin';
+UPDATE artista SET stileP = 'Arte Naïf' WHERE nome = 'Angie Snewin';
+UPDATE artista SET stileP = 'Hyperrealismo' WHERE nome = 'Raimundo Fowkes';
+UPDATE artista SET stileP = 'Matte Painting' WHERE nome = 'Ashely Vedishchev';
+UPDATE artista SET stileP = 'Anime' WHERE nome = 'Demetra Emmanuel';
+UPDATE artista SET stileP = 'Manga' WHERE nome = 'Alma Haggas';
 
 -- blank
-UPDATE Artista SET StileP = NULL WHERE Nome = 'Frank Gregr';
+UPDATE artista SET stileP = NULL WHERE nome = 'Kiersten Lubbock';
 
-UPDATE Artista SET StileP = 'Arte tribale' WHERE Nome = 'Tabbi Wilcock';
-UPDATE Artista SET StileP = 'Arte celtica' WHERE Nome = 'Guntar Ockwell';
-UPDATE Artista SET StileP = 'Arte nordica' WHERE Nome = 'Faydra Fildes';
-UPDATE Artista SET StileP = 'Fantasy Art' WHERE Nome = 'Rab Lotze';
-UPDATE Artista SET StileP = 'Dark Fantasy' WHERE Nome = 'Rolfe Ellerker';
-UPDATE Artista SET StileP = 'Sci-Fi Art' WHERE Nome = 'Loleta Novacek';
+UPDATE artista SET stileP = 'Ghibli-style' WHERE nome = 'Vincenty Blowing';
+UPDATE artista SET stileP = 'Noir' WHERE nome = 'Rachelle Mullenger';
+UPDATE artista SET stileP = 'Synthwave' WHERE nome = 'Wanids Meadmore';
+UPDATE artista SET stileP = 'Retrofuturismo' WHERE nome = 'Carilyn Amesbury';
+UPDATE artista SET stileP = 'Biomeccanico' WHERE nome = 'Feodora Duiged';
+UPDATE artista SET stileP = 'Glitch Art' WHERE nome = 'Barn Hessentaler';
+UPDATE artista SET stileP = 'Graffiti' WHERE nome = 'Lindi Gorelli';
+UPDATE artista SET stileP = 'Arte psichedelica' WHERE nome = 'Lillian Cowdray';
+UPDATE artista SET stileP = 'Medievale' WHERE nome = 'Kellsie Doveston';
+
+-- blank
+UPDATE artista SET stileP = NULL WHERE nome = 'Lizabeth Wittey';
+
+UPDATE artista SET stileP = 'Bizantino' WHERE nome = 'Patience Caney';
+UPDATE artista SET stileP = 'Preraffaellita' WHERE nome = 'Poppy Gallafant';
+UPDATE artista SET stileP = 'Tonalismo' WHERE nome = 'Shayna Rainford';
+UPDATE artista SET stileP = 'Divisionismo' WHERE nome = 'Andreana Steffan';
+UPDATE artista SET stileP = 'Puntinismo' WHERE nome = 'Wolfie Beauchamp';
+UPDATE artista SET stileP = 'Constructivist Poster' WHERE nome = 'Oswald Filde';
+UPDATE artista SET stileP = 'Flat Design' WHERE nome = 'Bastian De L''Isle';
+UPDATE artista SET stileP = 'Line Art' WHERE nome = 'Malanie Dyers';
+
+-- blank
+UPDATE artista SET stileP = NULL WHERE nome = 'Garrard Rushe';
+
+UPDATE artista SET stileP = 'Cartoon' WHERE nome = 'Malissia Ginsie';
+UPDATE artista SET stileP = 'Cel Shading' WHERE nome = 'Prissie Rivalland';
+UPDATE artista SET stileP = 'Acquerello' WHERE nome = 'Zahara Chapelhow';
+UPDATE artista SET stileP = 'Pittura a olio' WHERE nome = 'Nerte Basden';
+UPDATE artista SET stileP = 'Carboncino' WHERE nome = 'Cristobal Copnar';
+UPDATE artista SET stileP = 'Ink Wash' WHERE nome = 'Boycey Sporrij';
+UPDATE artista SET stileP = 'Collage' WHERE nome = 'Pip Copelli';
+UPDATE artista SET stileP = 'Paper Cut' WHERE nome = 'Cristionna Premble';
+
+-- blank
+UPDATE artista SET stileP = NULL WHERE nome = 'Frank Gregr';
+
+UPDATE artista SET stileP = 'Arte tribale' WHERE nome = 'Tabbi Wilcock';
+UPDATE artista SET stileP = 'Arte celtica' WHERE nome = 'Guntar Ockwell';
+UPDATE artista SET stileP = 'Arte nordica' WHERE nome = 'Faydra Fildes';
+UPDATE artista SET stileP = 'Fantasy Art' WHERE nome = 'Rab Lotze';
+UPDATE artista SET stileP = 'Dark Fantasy' WHERE nome = 'Rolfe Ellerker';
+UPDATE artista SET stileP = 'Sci-Fi Art' WHERE nome = 'Loleta Novacek';
