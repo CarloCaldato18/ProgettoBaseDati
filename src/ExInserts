@@ -1,0 +1,21 @@
+-- Inserimento Esibizione
+
+BEGIN TRANSACTION;
+
+INSERT INTO ESIBIZIONE (Nome, DataInizio, DataFine) VALUES ('Egizia', '2026-01-01', '2026-12-31');
+
+INSERT INTO OGG_ESIB (ID_ogg, NomeEsibizione) VALUES (7000, 'Egizia');
+
+COMMIT;
+
+-- Inserimento Oggetto d'arte
+
+BEGIN TRANSACTION;
+
+INSERT INTO OGG_ARTE (ID, Titolo, Anno, Nazione, Descrizione, Artista, Stile) VALUES (7000, 'Nefertiti', 1345 B.C., 'Egitto', 'Ancient Egyptian bust', 'John Doe', 'Ancient');
+
+INSERT INTO PRESTITO (ID, CollezioneProvenienza, InizioPrestito, FinePrestito) VALUES (7000, 'Louvre', '2026-01-01', '2026-12-31');
+
+INSERT INTO SCULTURA (ID, Materiale, Altezza, Lunghezza, Statua) VALUES (7000, 'Calcare', 50, 30, 'Si');
+
+COMMIT;
