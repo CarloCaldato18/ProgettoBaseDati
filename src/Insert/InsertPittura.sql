@@ -1,250 +1,252 @@
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6076, 'tempera', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6071, 'tempera', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6249, 'acquerello', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6048, 'olio su tela', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6020, 'affresco', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6091, 'olio su tela', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6054, 'olio su tela', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6007, 'acquerello', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6134, 'olio su tela', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6044, 'altro', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6064, 'tempera', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6034, 'affresco', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6134, 'altro', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6033, 'olio su tela', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6118, 'altro', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6098, 'tempera', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6256, 'tempera', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6173, 'tempera', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6216, 'affresco', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6172, 'altro', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6116, 'acquerello', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6238, 'tempera', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6115, 'altro', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6094, 'tempera', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6177, 'affresco', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6052, 'olio su tela', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6255, 'acquerello', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6037, 'olio su tela', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6089, 'tempera', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6038, 'altro', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6248, 'tempera', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6047, 'affresco', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6058, 'acquerello', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6120, 'acquerello', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6039, 'acquerello', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6218, 'affresco', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6035, 'affresco', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6189, 'acquerello', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6030, 'olio su tela', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6196, 'tempera', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6244, 'altro', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6247, 'acquerello', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6047, 'acquerello', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6241, 'tempera', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6062, 'olio su tela', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6103, 'affresco', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6108, 'tempera', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6252, 'tempera', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6130, 'altro', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6082, 'altro', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6256, 'altro', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6049, 'affresco', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6046, 'acquerello', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6106, 'affresco', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6225, 'affresco', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6148, 'tempera', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6113, 'affresco', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6044, 'acquerello', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6062, 'acquerello', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6232, 'altro', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6175, 'altro', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6132, 'tempera', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6164, 'altro', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6200, 'affresco', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6226, 'olio su tela', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6218, 'acquerello', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6065, 'tempera', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6024, 'affresco', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6096, 'olio su tela', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6244, 'tempera', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6090, 'olio su tela', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6070, 'acquerello', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6231, 'acquerello', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6139, 'altro', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6031, 'affresco', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6041, 'olio su tela', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6215, 'tempera', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6245, 'affresco', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6221, 'tempera', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6236, 'altro', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6044, 'olio su tela', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6014, 'olio su tela', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6015, 'tempera', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6107, 'tempera', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6132, 'altro', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6167, 'affresco', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6095, 'altro', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6076, 'affresco', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6168, 'affresco', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6203, 'affresco', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6209, 'affresco', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6063, 'tempera', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6016, 'acquerello', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6120, 'acquerello', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6231, 'affresco', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6125, 'acquerello', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6017, 'olio su tela', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6112, 'affresco', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6066, 'altro', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6077, 'tempera', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6241, 'acquerello', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6159, 'altro', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6133, 'olio su tela', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6065, 'tempera', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6065, 'affresco', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6053, 'affresco', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6238, 'affresco', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6026, 'affresco', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6131, 'olio su tela', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6122, 'tempera', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6234, 'olio su tela', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6164, 'tempera', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6134, 'acquerello', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6155, 'acquerello', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6161, 'acquerello', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6117, 'tempera', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6080, 'altro', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6077, 'acquerello', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6134, 'altro', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6136, 'tempera', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6188, 'altro', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6117, 'acquerello', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6176, 'tempera', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6140, 'tempera', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6012, 'tempera', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6063, 'altro', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6210, 'acquerello', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6058, 'acquerello', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6210, 'olio su tela', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6032, 'altro', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6128, 'acquerello', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6009, 'affresco', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6162, 'tempera', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6050, 'olio su tela', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6069, 'acquerello', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6132, 'tempera', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6024, 'olio su tela', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6042, 'altro', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6172, 'olio su tela', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6212, 'olio su tela', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6192, 'altro', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6212, 'olio su tela', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6151, 'acquerello', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6239, 'altro', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6246, 'acquerello', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6249, 'affresco', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6160, 'olio su tela', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6027, 'tempera', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6016, 'acquerello', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6089, 'altro', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6163, 'olio su tela', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6196, 'affresco', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6007, 'affresco', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6177, 'affresco', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6080, 'acquerello', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6043, 'acquerello', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6021, 'acquerello', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6035, 'affresco', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6028, 'tempera', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6147, 'olio su tela', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6010, 'acquerello', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6242, 'altro', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6126, 'tempera', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6188, 'altro', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6237, 'acquerello', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6237, 'tempera', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6241, 'acquerello', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6078, 'acquerello', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6043, 'acquerello', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6053, 'affresco', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6175, 'olio su tela', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6138, 'altro', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6149, 'affresco', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6093, 'tempera', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6117, 'tempera', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6160, 'olio su tela', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6092, 'olio su tela', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6137, 'altro', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6033, 'acquerello', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6010, 'tempera', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6227, 'tempera', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6008, 'affresco', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6128, 'affresco', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6086, 'affresco', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6149, 'affresco', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6087, 'olio su tela', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6206, 'affresco', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6082, 'tempera', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6193, 'altro', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6188, 'acquerello', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6130, 'acquerello', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6068, 'altro', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6137, 'olio su tela', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6213, 'affresco', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6057, 'affresco', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6070, 'altro', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6221, 'olio su tela', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6109, 'altro', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6113, 'acquerello', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6101, 'affresco', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6059, 'affresco', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6119, 'affresco', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6249, 'olio su tela', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6248, 'affresco', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6066, 'acquerello', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6230, 'tempera', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6249, 'tempera', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6067, 'tempera', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6091, 'altro', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6066, 'tempera', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6176, 'tempera', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6248, 'acquerello', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6066, 'tempera', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6067, 'acquerello', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6174, 'altro', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6094, 'olio su tela', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6209, 'olio su tela', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6212, 'tempera', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6224, 'tempera', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6130, 'altro', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6113, 'affresco', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6186, 'olio su tela', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6160, 'tempera', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6035, 'olio su tela', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6007, 'tempera', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6107, 'altro', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6214, 'tempera', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6108, 'olio su tela', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6022, 'affresco', 'legno');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6060, 'affresco', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6088, 'tempera', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6227, 'olio su tela', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6088, 'acquerello', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6007, 'tempera', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6020, 'altro', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6089, 'tempera', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6028, 'affresco', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6061, 'altro', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6140, 'altro', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6056, 'olio su tela', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6042, 'affresco', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6247, 'affresco', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6178, 'olio su tela', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6157, 'affresco', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6234, 'affresco', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6251, 'acquerello', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6119, 'olio su tela', 'tela');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6256, 'affresco', 'altro');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6036, 'tempera', 'carta');
-insert into MOCK_DATA (ID, tipo, materialeSupporto) values (6150, 'acquerello', 'tela');
+INSERT INTO pittura (ID, tipo, materialeSupporto) VALUES 
+(6006, 'tempera', 'tela'),
+(6007, 'tempera', 'legno'),
+(6008, 'acquerello', 'carta'),
+(6009, 'olio su tela', 'legno'),
+(6010, 'affresco', 'carta'),
+(6011, 'olio su tela', 'altro'),
+(6012, 'olio su tela', 'legno'),
+(6013, 'acquerello', 'tela'),
+(6014, 'olio su tela', 'altro'),
+(6015, 'altro', 'legno'),
+(6016, 'tempera', 'carta'),
+(6017, 'affresco', 'legno'),
+(6018, 'altro', 'legno'),
+(6019, 'olio su tela', 'legno'),
+(6020, 'altro', 'altro'),
+(6021, 'tempera', 'carta'),
+(6022, 'tempera', 'legno'),
+(6023, 'tempera', 'tela'),
+(6024, 'affresco', 'carta'),
+(6025, 'altro', 'tela'),
+(6026, 'acquerello', 'altro'),
+(6027, 'tempera', 'altro'),
+(6028, 'altro', 'tela'),
+(6029, 'tempera', 'tela'),
+(6030, 'affresco', 'legno'),
+(6031, 'olio su tela', 'altro'),
+(6032, 'acquerello', 'altro'),
+(6033, 'olio su tela', 'legno'),
+(6034, 'tempera', 'legno'),
+(6035, 'altro', 'altro'),
+(6036, 'tempera', 'legno'),
+(6037, 'affresco', 'tela'),
+(6038, 'acquerello', 'altro'),
+(6039, 'acquerello', 'tela'),
+(6040, 'acquerello', 'tela'),
+(6041, 'affresco', 'legno'),
+(6042, 'affresco', 'carta'),
+(6043, 'acquerello', 'altro'),
+(6044, 'olio su tela', 'altro'),
+(6045, 'tempera', 'carta'),
+(6046, 'altro', 'altro'),
+(6047, 'acquerello', 'legno'),
+(6048, 'acquerello', 'carta'),
+(6049, 'tempera', 'tela'),
+(6050, 'olio su tela', 'tela'),
+(6051, 'affresco', 'altro'),
+(6052, 'tempera', 'carta'),
+(6053, 'tempera', 'tela'),
+(6054, 'altro', 'tela'),
+(6055, 'altro', 'tela'),
+(6056, 'altro', 'legno'),
+(6057, 'affresco', 'tela'),
+(6058, 'acquerello', 'carta'),
+(6059, 'affresco', 'carta'),
+(6060, 'affresco', 'altro'),
+(6061, 'tempera', 'legno'),
+(6062, 'affresco', 'carta'),
+(6063, 'acquerello', 'tela'),
+(6064, 'acquerello', 'carta'),
+(6065, 'altro', 'legno'),
+(6066, 'altro', 'tela'),
+(6067, 'tempera', 'tela'),
+(6068, 'altro', 'carta'),
+(6069, 'affresco', 'tela'),
+(6070, 'olio su tela', 'altro'),
+(6071, 'acquerello', 'tela'),
+(6072, 'tempera', 'altro'),
+(6073, 'affresco', 'legno'),
+(6074, 'olio su tela', 'tela'),
+(6075, 'tempera', 'legno'),
+(6076, 'olio su tela', 'altro'),
+(6077, 'acquerello', 'tela'),
+(6078, 'acquerello', 'legno'),
+(6079, 'altro', 'carta'),
+(6080, 'affresco', 'legno'),
+(6081, 'olio su tela', 'tela'),
+(6082, 'tempera', 'tela'),
+(6083, 'affresco', 'carta'),
+(6084, 'tempera', 'altro'),
+(6085, 'altro', 'legno'),
+(6086, 'olio su tela', 'tela'),
+(6087, 'olio su tela', 'tela'),
+(6088, 'tempera', 'tela'),
+(6089, 'tempera', 'legno'),
+(6090, 'altro', 'tela'),
+(6091, 'affresco', 'tela'),
+(6092, 'altro', 'legno'),
+(6093, 'affresco', 'tela'),
+(6094, 'affresco', 'carta'),
+(6095, 'affresco', 'carta'),
+(6096, 'affresco', 'legno'),
+(6097, 'tempera', 'legno'),
+(6098, 'acquerello', 'tela'),
+(6099, 'acquerello', 'tela'),
+(6100, 'affresco', 'legno'),
+(6101, 'acquerello', 'carta'),
+(6102, 'olio su tela', 'tela'),
+(6103, 'affresco', 'carta'),
+(6104, 'altro', 'altro'),
+(6105, 'tempera', 'altro'),
+(6106, 'acquerello', 'tela'),
+(6107, 'altro', 'carta'),
+(6108, 'olio su tela', 'tela'),
+(6109, 'tempera', 'tela'),
+(6110, 'affresco', 'carta'),
+(6111, 'affresco', 'carta'),
+(6112, 'affresco', 'tela'),
+(6113, 'affresco', 'legno'),
+(6114, 'olio su tela', 'altro'),
+(6115, 'tempera', 'tela'),
+(6116, 'affresco', 'carta'),
+(6117, 'affresco', 'carta'),
+(6118, 'affresco', 'tela'),
+(6119, 'affresco', 'legno'),
+(6120, 'olio su tela', 'altro'),
+(6121, 'tempera', 'carta'),
+(6122, 'olio su tela', 'tela'),
+(6123, 'tempera', 'carta'),
+(6124, 'acquerello', 'altro'),
+(6125, 'acquerello', 'carta'),
+(6126, 'acquerello', 'altro'),
+(6127, 'tempera', 'legno'),
+(6128, 'altro', 'tela'),
+(6129, 'acquerello', 'tela'),
+(6130, 'altro', 'altro'),
+(6131, 'tempera', 'carta'),
+(6132, 'altro', 'carta'),
+(6133, 'acquerello', 'carta'),
+(6134, 'tempera', 'legno'),
+(6135, 'tempera', 'altro'),
+(6136, 'tempera', 'legno'),
+(6137, 'altro', 'altro'),
+(6138, 'acquerello', 'tela'),
+(6139, 'acquerello', 'tela'),
+(6140, 'olio su tela', 'legno'),
+(6141, 'altro', 'tela'),
+(6142, 'acquerello', 'legno'),
+(6143, 'affresco', 'altro'),
+(6144, 'tempera', 'altro'),
+(6145, 'olio su tela', 'legno'),
+(6146, 'acquerello', 'carta'),
+(6147, 'tempera', 'tela'),
+(6148, 'olio su tela', 'tela'),
+(6149, 'altro', 'carta'),
+(6150, 'olio su tela', 'legno'),
+(6151, 'olio su tela', 'carta'),
+(6152, 'altro', 'legno'),
+(6153, 'olio su tela', 'altro'),
+(6154, 'acquerello', 'legno'),
+(6155, 'altro', 'carta'),
+(6156, 'acquerello', 'altro'),
+(6157, 'affresco', 'altro'),
+(6158, 'olio su tela', 'legno'),
+(6159, 'tempera', 'tela'),
+(6160, 'acquerello', 'legno'),
+(6161, 'altro', 'legno'),
+(6162, 'olio su tela', 'legno'),
+(6163, 'affresco', 'legno'),
+(6164, 'affresco', 'altro'),
+(6165, 'affresco', 'legno'),
+(6166, 'acquerello', 'tela'),
+(6167, 'acquerello', 'altro'),
+(6168, 'acquerello', 'carta'),
+(6169, 'affresco', 'altro'),
+(6170, 'tempera', 'legno'),
+(6171, 'olio su tela', 'tela'),
+(6172, 'acquerello', 'altro'),
+(6173, 'altro', 'legno'),
+(6174, 'tempera', 'tela'),
+(6175, 'altro', 'legno'),
+(6176, 'acquerello', 'carta'),
+(6177, 'tempera', 'legno'),
+(6178, 'acquerello', 'carta'),
+(6179, 'acquerello', 'tela'),
+(6180, 'acquerello', 'carta'),
+(6181, 'affresco', 'legno'),
+(6182, 'olio su tela', 'carta'),
+(6183, 'altro', 'carta'),
+(6184, 'affresco', 'altro'),
+(6185, 'tempera', 'tela'),
+(6186, 'tempera', 'legno'),
+(6187, 'olio su tela', 'tela'),
+(6188, 'olio su tela', 'altro'),
+(6189, 'altro', 'legno'),
+(6190, 'acquerello', 'altro'),
+(6191, 'tempera', 'tela'),
+(6192, 'tempera', 'altro'),
+(6193, 'affresco', 'carta'),
+(6194, 'affresco', 'altro'),
+(6195, 'affresco', 'altro'),
+(6196, 'affresco', 'carta'),
+(6197, 'olio su tela', 'tela'),
+(6198, 'affresco', 'legno'),
+(6199, 'tempera', 'carta'),
+(6200, 'altro', 'altro'),
+(6201, 'acquerello', 'altro'),
+(6202, 'acquerello', 'altro'),
+(6203, 'altro', 'altro'),
+(6204, 'olio su tela', 'altro'),
+(6205, 'affresco', 'legno'),
+(6206, 'affresco', 'tela'),
+(6207, 'altro', 'tela'),
+(6208, 'olio su tela', 'tela'),
+(6209, 'altro', 'tela'),
+(6210, 'acquerello', 'tela'),
+(6211, 'affresco', 'carta'),
+(6212, 'affresco', 'tela'),
+(6213, 'affresco', 'altro'),
+(6214, 'olio su tela', 'legno'),
+(6215, 'affresco', 'legno'),
+(6216, 'acquerello', 'carta'),
+(6217, 'tempera', 'legno'),
+(6218, 'tempera', 'altro'),
+(6219, 'tempera', 'tela'),
+(6220, 'altro', 'legno'),
+(6221, 'tempera', 'carta'),
+(6222, 'tempera', 'legno'),
+(6223, 'acquerello', 'tela'),
+(6224, 'tempera', 'legno'),
+(6225, 'acquerello', 'legno'),
+(6226, 'altro', 'altro'),
+(6227, 'olio su tela', 'carta'),
+(6228, 'olio su tela', 'legno'),
+(6229, 'tempera', 'carta'),
+(6230, 'tempera', 'carta'),
+(6231, 'altro', 'carta'),
+(6232, 'affresco', 'legno'),
+(6233, 'olio su tela', 'carta'),
+(6234, 'tempera', 'tela'),
+(6235, 'olio su tela', 'tela'),
+(6236, 'tempera', 'legno'),
+(6237, 'altro', 'tela'),
+(6238, 'tempera', 'tela'),
+(6239, 'olio su tela', 'altro'),
+(6240, 'affresco', 'legno'),
+(6241, 'affresco', 'altro'),
+(6242, 'tempera', 'carta'),
+(6243, 'olio su tela', 'carta'),
+(6244, 'acquerello', 'tela'),
+(6245, 'tempera', 'tela'),
+(6246, 'altro', 'altro'),
+(6247, 'tempera', 'carta'),
+(6248, 'affresco', 'altro'),
+(6249, 'altro', 'carta'),
+(6250, 'altro', 'carta'),
+(6251, 'olio su tela', 'altro'),
+(6252, 'affresco', 'altro'),
+(6253, 'affresco', 'altro'),
+(6254, 'olio su tela', 'tela'),
+(6255, 'affresco', 'tela'),
+(6256, 'affresco', 'carta');
