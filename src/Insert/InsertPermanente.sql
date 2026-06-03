@@ -1,501 +1,502 @@
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6006, '1953/07/24', '$1.16B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6007, '1906/06/11', '$9.73M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6008, '1956/03/19', '$163.2M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6009, '2004/11/02', '$55.6M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6010, '1992/06/20', '$2.3B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6011, '1934/08/17', '$6.66M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6012, '1910/03/31', '$4.13B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6013, '1946/03/12', '$4.99B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6014, '1957/04/24', '$290.46M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6015, '1987/06/26', '$1B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6016, '1980/05/26', '$84.39M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6017, '1998/06/15', '$79.41B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6018, '1959/03/08', 'n/a', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6019, '1967/09/04', '$5.04B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6020, '1992/09/06', '$62.92M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6021, '1914/07/19', 'n/a', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6022, '1925/04/25', '$62.74M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6023, '1985/06/29', 'n/a', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6024, '1932/06/18', '$200.32M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6025, '2008/02/20', '$664.15M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6026, '1972/07/03', 'n/a', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6027, '1951/07/25', '$21.87M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6028, '1911/03/27', 'n/a', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6029, '1924/06/01', '$43.94B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6030, '1954/07/18', '$4.03B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6031, '1941/07/24', '$808.23M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6032, '1931/03/03', '$259.78M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6033, '1901/12/15', 'n/a', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6034, '2022/03/08', '$6.7B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6035, '1988/09/28', '$458.45M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6036, '1950/09/17', '$1.21B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6037, '2017/11/18', '$654.76M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6038, '1917/08/04', '$1.03B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6039, '1910/04/09', '$85.5M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6040, '2011/01/24', '$629.54M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6041, '1999/06/10', '$3.49B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6042, '1969/02/12', '$127.36B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6043, '1907/09/10', '$178.04M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6044, '2009/02/15', '$485.04M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6045, '2008/02/29', '$1.6B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6046, '1900/07/18', 'n/a', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6047, '1949/03/29', '$1.41B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6048, '1944/05/04', '$663.3M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6049, '1987/07/27', '$884.58M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6050, '1915/11/19', '$24.88B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6051, '1938/04/16', '$58.64B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6052, '2024/04/02', '$369.43M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6053, '2010/05/31', 'n/a', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6054, '1909/01/02', '$436.58B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6055, '1909/07/26', '$219.92M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6056, '1914/03/12', '$148.93M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6057, '1994/04/08', '$778.92M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6058, '2017/07/17', '$440.37M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6059, '1936/01/05', '$21.91M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6060, '1940/01/01', '$5.18B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6061, '1978/01/05', '$15.38M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6062, '1946/03/25', '$5.39B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6063, '1981/01/13', '$673.15M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6064, '1921/02/25', '$25.39M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6065, '1966/05/06', '$339.02M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6066, '1924/01/24', '$320.72M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6067, '1972/01/21', '$51.1B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6068, '1971/12/07', '$23.84M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6069, '1985/05/14', '$386.58M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6070, '1962/01/24', '$774.33M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6071, '2023/07/25', 'n/a', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6072, '2015/08/04', '$6.65B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6073, '1948/05/31', '$1.1B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6074, '2009/04/02', '$472.08M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6075, '1987/01/08', '$654.14M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6076, '1900/06/27', '$362.86M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6077, '1906/05/13', 'n/a', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6078, '2024/08/18', '$51.07M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6079, '1931/09/25', '$4.24B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6080, '1950/11/15', '$1.82B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6081, '1956/03/07', '$1.55B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6082, '2004/05/19', '$555.08M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6083, '1906/04/18', '$2.29B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6084, '1900/10/25', '$18.66M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6085, '1942/11/30', '$38.27B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6086, '1993/04/16', '$8.51B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6087, '1932/06/27', '$1.78B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6088, '1942/04/28', '$8.39B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6089, '2011/05/24', 'n/a', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6090, '1935/10/16', '$748.44M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6091, '1971/12/25', '$3.79B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6092, '1983/11/02', 'n/a', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6093, '1968/06/16', 'n/a', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6094, '1927/11/10', '$6.4B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6095, '1923/04/22', '$2.29B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6096, '1950/08/26', '$61M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6097, '1902/07/15', '$22.77B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6098, '2000/10/21', '$21.62M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6099, '1907/05/21', '$1.63B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6100, '1928/02/04', 'n/a', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6101, '1911/06/27', 'n/a', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6102, '1992/04/20', '$124.92M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6103, '1917/09/04', 'n/a', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6104, '1905/03/02', '$18.8B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6105, '1935/04/08', 'n/a', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6106, '1955/08/30', '$150.3M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6107, '1938/05/13', '$120.19M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6108, '2020/09/11', '$8.73B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6109, '2024/11/02', '$1.72B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6110, '2020/09/26', '$458.45M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6111, '1955/05/03', '$13.13B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6112, '2019/07/24', '$1.8B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6113, '2021/10/10', '$826.02M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6114, '1905/10/27', '$2.41B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6115, '2007/11/12', '$681.36M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6116, '1954/05/28', '$408.18M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6117, '2023/06/12', '$1.07B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6118, '1970/10/16', '$51.52M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6119, '1973/12/04', '$144.44M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6120, '1934/07/04', '$814.69M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6121, '2025/11/08', '$404.69M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6122, '1999/01/31', '$210.14M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6123, '1947/12/23', '$204.83M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6124, '1901/04/19', '$18.8B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6125, '2011/03/15', 'n/a', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6126, '1987/04/25', '$5.07B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6127, '1930/03/25', '$211.28M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6128, '1970/01/09', '$4.23B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6129, '1966/07/31', '$22.92M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6130, '1994/07/25', '$127.42M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6131, '1915/05/05', '$1.06B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6132, '1939/05/05', '$1.38B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6133, '2025/11/09', '$3.32B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6134, '1962/12/28', '$468.65M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6135, '1994/02/19', '$471M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6136, '1926/12/02', '$160.52M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6137, '1996/11/29', '$306.09M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6138, '1953/01/10', '$317.4M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6139, '1985/12/21', '$548.36M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6140, '1996/10/19', '$4.34B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6141, '2003/06/06', '$9.39B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6142, '2005/07/24', '$21.78M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6143, '1901/01/05', '$36.89M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6144, '2017/11/23', '$1.59B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6145, '1900/07/21', '$18.98M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6146, '1929/05/30', '$217.53M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6147, '1990/03/31', '$1.05B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6148, '1952/06/16', '$2.75B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6149, '1993/02/17', '$1.17B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6150, '1964/03/05', '$54.29M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6151, '1961/06/04', '$3.1B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6152, '1961/03/06', '$45.01M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6153, '2012/06/04', '$610.36M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6154, '1967/08/22', '$27.99M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6155, '1914/01/10', '$9.57M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6156, '1975/05/13', '$4.11M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6157, '1950/02/03', '$3.1B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6158, '1998/05/25', '$504.86M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6159, '1911/10/04', '$288.75M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6160, '1904/07/13', '$357.95M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6161, '1955/07/16', '$142.06M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6162, '1996/03/06', 'n/a', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6163, '2017/11/01', '$119.57M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6164, '1938/11/14', '$128.8M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6165, '1963/02/20', '$396.21M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6166, '2013/04/20', '$85M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6167, '1939/08/28', '$6.47B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6168, '2002/09/12', '$6.33B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6169, '1946/12/22', '$255.93M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6170, '1936/05/11', 'n/a', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6171, '1913/09/08', '$600.56M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6172, '1906/12/21', '$311.18M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6173, '2012/03/27', 'n/a', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6174, '2015/09/10', '$1.23M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6175, '1945/10/06', '$101.28M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6176, '1957/10/24', '$153.73M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6177, '1960/12/12', '$33.73M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6178, '1916/01/05', '$61.21M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6179, '2018/11/10', '$18.56M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6180, '1956/02/06', '$121.6M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6181, '1916/04/24', '$37.67M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6182, '2014/06/20', '$81.48M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6183, '1981/10/18', '$970.48M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6184, '1917/01/17', '$663.37M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6185, '1910/04/20', '$41.81B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6186, '1987/05/31', '$763.03M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6187, '1906/06/25', '$5.35B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6188, '1929/03/01', '$20.37B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6189, '2004/07/24', '$505.59M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6190, '2009/11/21', '$277.95M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6191, '1998/05/06', '$303.71M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6192, '1981/08/12', '$4.33B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6193, '1974/07/01', 'n/a', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6194, '1957/10/06', '$1.05B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6195, '1907/10/29', '$3.1B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6196, '2011/10/24', '$3.52B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6197, '1941/09/12', '$176.55M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6198, '2015/11/05', '$12.59B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6199, '1954/06/16', '$2.22B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6200, '1985/11/07', '$645.41M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6201, '2007/01/15', '$82.28B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6202, '1923/04/26', '$36.89M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6203, '1974/12/09', '$518.61M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6204, '1957/05/01', '$8.83M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6205, '2021/08/18', '$24M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6206, '1994/12/06', '$112.53M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6207, '1917/12/06', '$939.02M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6208, '1978/11/10', 'n/a', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6209, '1916/12/05', '$115.2M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6210, '2010/06/06', '$544.37M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6211, '1968/12/09', '$176.55M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6212, '1959/08/18', '$84.95M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6213, '1909/01/01', '$264.55M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6214, '1909/12/31', '$2.73B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6215, '1919/06/26', '$54.41B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6216, '1961/07/13', '$164.43M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6217, '2023/06/28', '$238.94M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6218, '1966/01/24', '$126.72M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6219, '1979/06/10', 'n/a', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6220, '2004/07/30', '$3.23M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6221, '1966/05/17', 'n/a', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6222, '1992/04/11', '$70.95M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6223, '1921/12/12', '$137.52M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6224, '1970/06/01', '$20.27B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6225, '1937/01/26', '$412.44M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6226, '2011/06/23', 'n/a', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6227, '1945/05/25', 'n/a', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6228, '1958/03/04', 'n/a', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6229, '1960/01/26', '$5.75B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6230, '1910/05/21', '$27.03M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6231, '1993/06/07', 'n/a', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6232, '1955/03/14', 'n/a', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6233, '1994/04/07', '$61.92B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6234, '1916/08/07', '$309.27M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6235, '2005/10/23', '$230.28M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6236, '1965/09/28', '$6.28B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6237, '1945/05/07', '$1.27B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6238, '1913/02/13', '$73.14M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6239, '1986/10/04', '$2.85B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6240, '1962/11/23', 'n/a', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6241, '1955/03/14', '$43.25M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6242, '1977/06/09', 'n/a', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6243, '1906/03/15', 'n/a', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6244, '2004/12/30', '$345.19M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6245, '1910/09/29', '$532.95M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6246, '1933/08/10', '$43.29B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6247, '2007/11/11', '$899.86M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6248, '1977/07/23', '$107.03M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6249, '1944/10/03', '$2.18B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6250, '1904/09/26', 'n/a', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6251, '1952/10/27', '$10.32B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6252, '1905/10/18', '$89.57M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6253, '2006/03/31', '$15.33M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6254, '1927/12/24', '$2.62B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6255, '1935/03/19', '$231.47M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6256, '2014/05/16', '$54.29M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6257, '1919/10/18', '$3.72B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6258, '1978/10/20', '$2.05B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6259, '1972/12/27', '$212.14M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6260, '2013/07/12', '$1.56B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6261, '1938/01/04', '$708.43M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6262, '2024/11/27', '$316.8M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6263, '1934/03/02', '$12.19B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6264, '2006/03/18', '$31.4M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6265, '1940/05/20', '$388.89M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6266, '1909/08/02', '$9.03B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6267, '1938/03/17', 'n/a', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6268, '1935/06/03', '$4.24B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6269, '1986/07/24', '$1.96B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6270, '2011/09/13', '$4.59B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6271, '1951/02/15', '$390.47M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6272, '1963/10/21', '$690.93M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6273, '1966/07/27', '$243.18M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6274, '1927/06/03', '$6.8M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6275, '1927/04/26', '$74.82M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6276, '2005/10/11', 'n/a', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6277, '1932/04/25', '$507.8M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6278, '1951/10/21', '$4.27B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6279, '1967/06/06', '$498.65M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6280, '1964/10/08', '$80.58M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6281, '1967/07/21', '$130.23M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6282, '1933/11/02', '$259.78M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6283, '1993/04/09', '$164.43M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6284, '1979/11/30', 'n/a', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6285, '1937/08/04', '$666.84M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6286, '2009/08/13', 'n/a', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6287, '1914/11/28', '$111.57M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6288, '2021/12/08', '$3.52B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6289, '1991/12/19', 'n/a', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6290, '2014/09/27', 'n/a', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6291, '1952/08/20', '$2.41B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6292, '1967/06/25', '$9.32B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6293, '1951/01/11', '$615.32M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6294, '1953/01/05', '$29.11M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6295, '1970/08/11', '$1.37B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6296, '1939/03/30', 'n/a', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6297, '2010/05/03', '$76.92M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6298, '1974/10/12', '$5.87B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6299, '1918/12/06', '$8.86B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6300, '1930/03/12', '$10.06B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6301, '1900/10/07', '$53.58M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6302, '2007/05/12', '$395.17M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6303, '2016/02/22', '$6.97B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6304, '2019/06/26', '$3.57B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6305, '1978/03/29', '$3.52B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6306, '1978/07/08', '$213.68M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6307, '1901/09/26', '$11.65B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6308, '1962/05/24', '$2.4B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6309, '1928/06/12', '$2.5B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6310, '1985/11/30', '$315.16M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6311, '1991/12/02', '$14.74B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6312, '1943/09/29', '$33.57M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6313, '1987/03/08', '$74.51M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6314, '2021/03/14', '$648.9M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6315, '1938/04/11', '$7.53B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6316, '1976/01/24', '$63.23M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6317, '1960/04/25', '$61M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6318, '1990/08/26', '$395.5M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6319, '1952/08/12', '$587.96M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6320, '1985/01/13', '$261.58M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6321, '1927/01/06', 'n/a', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6322, '1926/10/15', 'n/a', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6323, '2021/06/13', '$1.27B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6324, '1930/03/31', '$2.67B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6325, '1951/05/08', '$497.06M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6326, '1996/11/29', 'n/a', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6327, '1985/08/22', '$59.07M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6328, '1970/11/09', '$93.71M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6329, '2019/09/04', '$640.53M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6330, '1917/08/31', '$59.59M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6331, '1916/08/24', '$212.14M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6332, '1957/07/20', '$808.57M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6333, '1961/08/29', '$132.13M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6334, '1964/03/31', '$1.59B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6335, '2020/07/22', '$655.59M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6336, '1902/05/28', '$234.63M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6337, '1988/10/23', '$64.33M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6338, '1982/04/13', '$814.69M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6339, '1943/12/06', '$34.58M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6340, '1980/02/29', '$126.34M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6341, '2009/09/03', '$2.09B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6342, '2022/07/21', '$442.63M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6343, '1944/10/10', '$10.5B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6344, '1982/12/08', '$1.35B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6345, '1945/02/18', '$2.29B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6346, '1916/12/20', '$1.5B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6347, '1998/01/21', '$78.86M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6348, '2009/08/04', '$9.73B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6349, '1960/11/18', '$6.36M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6350, '1971/07/03', 'n/a', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6351, '1913/03/02', 'n/a', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6352, '2018/05/30', '$6.16B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6353, '1925/12/15', 'n/a', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6354, '1901/01/28', '$671.8M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6355, '1993/10/18', '$3.17B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6356, '2014/12/08', 'n/a', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6357, '2007/04/23', '$1.91B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6358, '1909/12/27', 'n/a', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6359, '1959/06/09', '$23.11B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6360, '1961/08/16', 'n/a', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6361, '1918/07/22', '$3.32B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6362, '1931/04/04', 'n/a', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6363, '1918/05/05', '$98.95M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6364, '1981/11/02', '$491.02M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6365, '1930/06/21', '$1.97B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6366, '1984/10/31', '$52.53M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6367, '1995/01/17', '$1.99B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6368, '2006/07/09', '$612.59M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6369, '1910/08/08', '$156.02B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6370, '1984/02/11', 'n/a', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6371, '1943/09/13', '$33.51B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6372, '1921/03/25', '$24.37B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6373, '1900/10/03', '$1.32B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6374, '2014/07/24', '$393.68M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6375, '1979/06/22', '$62.92M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6376, '1929/12/13', '$12.7B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6377, '1944/05/17', '$1.45B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6378, '1978/05/07', '$12.45B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6379, '1912/05/12', '$1.66B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6380, '1944/06/04', '$1.49B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6381, '1942/12/10', 'n/a', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6382, '1951/11/19', '$93.34M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6383, '1990/01/29', '$340.42M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6384, '1966/03/16', '$620.68M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6385, '1927/10/14', '$425.18M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6386, '1998/10/27', '$393.18M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6387, '1947/07/07', 'n/a', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6388, '1956/06/01', '$19.25B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6389, '1955/11/11', '$59.88M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6390, '2011/08/02', '$7.07M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6391, '1986/07/29', '$360.87M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6392, '1909/08/29', '$2.4M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6393, '1964/09/24', '$2.88B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6394, '1984/03/19', '$1.04B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6395, '1912/01/17', '$159.72M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6396, '1939/05/10', '$129.34M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6397, '1901/01/14', '$1.15B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6398, '1977/08/11', '$19.79M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6399, '1906/01/20', '$5.12B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6400, '1998/12/04', '$2.73B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6401, '1960/07/14', 'n/a', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6402, '1972/03/02', '$3.06B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6403, '1933/05/13', '$118.92M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6404, '2024/01/23', '$1.64B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6405, '1994/03/08', '$13.09M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6406, '1978/03/23', 'n/a', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6407, '2006/03/07', '$481M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6408, '1975/10/16', '$300.24M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6409, '2025/09/18', '$40.31M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6410, '1995/01/07', '$14.73B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6411, '1989/06/12', '$610.58M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6412, '1962/12/21', '$2.18B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6413, '1998/12/07', '$3.55B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6414, '1914/09/27', '$780.46M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6415, '1946/11/29', 'n/a', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6416, '2019/10/31', 'n/a', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6417, '1981/12/24', '$43.74M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6418, '1963/09/17', '$5.28B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6419, '1904/10/11', '$271.82M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6420, '1926/12/26', 'n/a', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6421, '1943/05/18', '$94.54M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6422, '1933/08/09', '$27.94B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6423, '2022/10/25', '$808.57M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6424, '1921/09/11', '$442.3M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6425, '1911/12/18', '$103.1B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6426, '1996/05/09', 'n/a', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6427, '1968/11/19', '$39.22B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6428, '1938/12/12', '$79.32M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6429, '1954/07/01', '$53.4B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6430, '1960/03/11', '$118.89M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6431, '1918/09/20', '$96.27M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6432, '2008/08/30', 'n/a', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6433, '2022/04/07', '$53.96M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6434, '1922/10/19', 'n/a', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6435, '1922/10/24', 'n/a', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6436, '1939/11/12', '$81.78B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6437, '1907/09/25', '$5.08M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6438, '1979/12/26', '$790.37M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6439, '2013/11/13', '$437.24M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6440, '1997/05/04', '$31.32M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6441, '1942/12/28', '$1.06B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6442, '1978/01/09', '$3.27B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6443, '1917/09/05', '$797.33M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6444, '1934/01/20', '$115.2M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6445, '2022/08/25', '$2.11B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6446, '1922/11/08', '$1.15B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6447, '1970/04/09', '$299.6M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6448, '2008/05/29', '$5.11B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6449, '1911/06/15', 'n/a', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6450, '1905/05/06', '$1.17B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6451, '1915/12/08', '$1.02B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6452, '2015/10/19', '$2.58B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6453, '1908/08/16', '$83.56M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6454, '2024/07/22', '$11.12M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6455, '1955/02/26', '$3B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6456, '2025/08/23', '$103.85M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6457, '1999/05/11', '$717.59M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6458, '1944/05/15', '$118.89M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6459, '1968/12/04', '$20.95M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6460, '2022/03/02', '$197.71M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6461, '1907/01/15', '$90.88M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6462, '1974/05/27', '$415.62M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6463, '1994/09/16', '$2.44M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6464, '2008/12/30', '$2.92B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6465, '2004/04/26', '$20.32B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6466, '1969/09/08', '$450.72M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6467, '2014/01/17', '$50.21B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6468, '1991/05/25', '$15.26B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6469, '1927/06/29', '$1.92B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6470, '1937/09/30', 'n/a', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6471, '1901/11/24', 'n/a', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6472, '1955/06/27', 'n/a', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6473, '1969/05/23', '$91.85M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6474, '2021/01/24', '$1.35B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6475, '2018/10/20', '$151.54M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6476, '1930/04/17', 'n/a', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6477, '1908/11/21', '$67.86M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6478, '1911/01/01', '$299.74M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6479, '1948/06/18', '$1.47B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6480, '1923/01/01', 'n/a', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6481, '1945/01/09', '$1.03B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6482, '1996/04/22', '$296.92M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6483, '2002/11/28', '$61.97M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6484, '1904/05/16', '$2.43B', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6485, '1924/04/05', '$20.23B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6486, '1900/09/24', '$54.07M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6487, '1978/08/09', '$1.26B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6488, '1942/06/23', '$1.5B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6489, '1932/03/26', '$716.78M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6490, '1952/05/17', '$1.18B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6491, '2019/04/16', '$23.69B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6492, '1919/04/26', 'n/a', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6493, '1971/10/13', '$434.22M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6494, '1932/02/20', 'n/a', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6495, '1965/10/23', 'n/a', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6496, '1970/08/06', '$844.88M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6497, '1988/03/22', '$556.34M', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6498, '1961/02/19', '$1.79B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6499, '1931/08/11', '$5.28B', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6500, '1908/03/23', 'n/a', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6501, '1928/10/01', '$12.16M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6502, '1944/08/21', '$84.17M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6503, '2021/04/10', '$208.04M', 'in prestito');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6504, '1984/10/26', '$3.54B', 'in magazzino');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6505, '1921/04/01', '$311.65M', 'in mostra');
-insert into Permanente (ID, DataAcquisizione, Costo, Status) values (6506, '1953/07/24', '$1.16B', 'in mostra');
+INSERT INTO Permanente (ID, dataAcquisizione, costo, stato) VALUES 
+(6006, '1953/07/24', 1160000000.00, 'in mostra'),
+(6007, '1906/06/11', 9730000.00, 'in mostra'),
+(6008, '1956/03/19', 163200000.00, 'in magazzino'),
+(6009, '2004/11/02', 5560000.00, 'in mostra'),
+(6010, '1992/06/20', 2300000000.00, 'in magazzino'),
+(6011, '1934/08/17', 6660000.00, 'in prestito'),
+(6012, '1910/03/31', 4130000000.00, 'in prestito'),
+(6013, '1946/03/12', 4990000000.00, 'in magazzino'),
+(6014, '1957/04/24', 290460000.00, 'in prestito'),
+(6015, '1987/06/26', 1000000000.00, 'in mostra'),
+(6016, '1980/05/26', 84390000.00, 'in mostra'),
+(6017, '1998/06/15', 79410000000.00, 'in magazzino'),
+(6018, '1959/03/08', 2450000.00, 'in prestito'),
+(6019, '1967/09/04', 5040000000.00, 'in mostra'),
+(6020, '1992/09/06', 62920000.00, 'in mostra'),
+(6021, '1914/07/19', 1850000.50, 'in prestito'),
+(6022, '1925/04/25', 62740000.00, 'in prestito'),
+(6023, '1985/06/29', 5400000.00, 'in mostra'),
+(6024, '1932/06/18', 200320000.00, 'in prestito'),
+(6025, '2008/02/20', 664150000.00, 'in prestito'),
+(6026, '1972/07/03', 3200500.00, 'in magazzino'),
+(6027, '1951/07/25', 21870000.00, 'in mostra'),
+(6028, '1911/03/27', 7850000.00, 'in prestito'),
+(6029, '1924/06/01', 43940000000.00, 'in prestito'),
+(6030, '1954/07/18', 4030000000.00, 'in magazzino'),
+(6031, '1941/07/24', 808230000.00, 'in mostra'),
+(6032, '1931/03/03', 259780000.00, 'in magazzino'),
+(6033, '1901/12/15', 4300000.00, 'in mostra'),
+(6034, '2022/03/08', 6700000000.00, 'in magazzino'),
+(6035, '1988/09/28', 458450000.00, 'in magazzino'),
+(6036, '1950/09/17', 1210000000.00, 'in magazzino'),
+(6037, '2017/11/18', 654760000.00, 'in magazzino'),
+(6038, '1917/08/04', 1030000000.00, 'in magazzino'),
+(6039, '1910/04/09', 85500000.00, 'in mostra'),
+(6040, '2011/01/24', 629540000.00, 'in magazzino'),
+(6041, '1999/06/10', 3490000000.00, 'in prestito'),
+(6042, '1969/02/12', 127360000000.00, 'in magazzino'),
+(6043, '1907/09/10', 178040000.00, 'in prestito'),
+(6044, '2009/02/15', 485040000.00, 'in prestito'),
+(6045, '2008/02/29', 1600000000.00, 'in magazzino'),
+(6046, '1900/07/18', 9100000.00, 'in mostra'),
+(6047, '1949/03/29', 1410000000.00, 'in mostra'),
+(6048, '1944/05/04', 663300000.00, 'in magazzino'),
+(6049, '1987/07/27', 884580000.00, 'in magazzino'),
+(6050, '1915/11/19', 24880000000.00, 'in prestito'),
+(6051, '1938/04/16', 58640000000.00, 'in prestito'),
+(6052, '2024/04/02', 369430000.00, 'in prestito'),
+(6053, '2010/05/31', 1150000.00, 'in mostra'),
+(6054, '1909/01/02', 436580000000.00, 'in mostra'),
+(6055, '1909/07/26', 219920000.00, 'in mostra'),
+(6056, '1914/03/12', 148930000.00, 'in prestito'),
+(6057, '1994/04/08', 778920000.00, 'in prestito'),
+(6058, '2017/07/17', 440370000.00, 'in magazzino'),
+(6059, '1936/01/05', 21910000.00, 'in magazzino'),
+(6060, '1940/01/01', 5180000000.00, 'in prestito'),
+(6061, '1978/01/05', 15380000.00, 'in prestito'),
+(6062, '1946/03/25', 5390000000.00, 'in prestito'),
+(6063, '1981/01/13', 673150000.00, 'in prestito'),
+(6064, '1921/02/25', 25390000.00, 'in magazzino'),
+(6065, '1966/05/06', 339020000.00, 'in prestito'),
+(6066, '1924/01/24', 320720000.00, 'in mostra'),
+(6067, '1972/01/21', 51100000000.00, 'in mostra'),
+(6068, '1971/12/07', 23840000.00, 'in mostra'),
+(6069, '1985/05/14', 386580000.00, 'in mostra'),
+(6070, '1962/01/24', 774330000.00, 'in mostra'),
+(6071, '2023/07/25', 5620000.50, 'in magazzino'),
+(6072, '2015/08/04', 6650000000.00, 'in mostra'),
+(6073, '1948/05/31', 1100000000.00, 'in prestito'),
+(6074, '2009/04/02', 472080000.00, 'in mostra'),
+(6075, '1987/01/08', 654140000.00, 'in mostra'),
+(6076, '1900/06/27', 362860000.00, 'in mostra'),
+(6077, '1906/05/13', 1980000.00, 'in prestito'),
+(6078, '2024/08/18', 51070000.00, 'in prestito'),
+(6079, '1931/09/25', 4240000000.00, 'in mostra'),
+(6080, '1950/11/15', 1820000000.00, 'in prestito'),
+(6081, '1956/03/07', 1550000000.00, 'in mostra'),
+(6082, '2004/05/19', 555080000.00, 'in prestito'),
+(6083, '1906/04/18', 2290000000.00, 'in prestito'),
+(6084, '1900/10/25', 18660000.00, 'in magazzino'),
+(6085, '1942/11/30', 38270000000.00, 'in magazzino'),
+(6086, '1993/04/16', 8510000000.00, 'in mostra'),
+(6087, '1932/06/27', 1780000000.00, 'in magazzino'),
+(6088, '1942/04/28', 8390000000.00, 'in magazzino'),
+(6089, '2011/05/24', 450000.00, 'in prestito'),
+(6090, '1935/10/16', 748440000.00, 'in mostra'),
+(6091, '1971/12/25', 3790000000.00, 'in magazzino'),
+(6092, '1983/11/02', 8800000.00, 'in mostra'),
+(6093, '1968/06/16', 3150000.00, 'in mostra'),
+(6094, '1927/11/10', 6400000000.00, 'in prestito'),
+(6095, '1923/04/22', 2290000000.00, 'in prestito'),
+(6096, '1950/08/26', 61000000.00, 'in magazzino'),
+(6097, '1902/07/15', 22770000000.00, 'in mostra'),
+(6098, '2000/10/21', 21620000.00, 'in prestito'),
+(6099, '1907/05/21', 1630000000.00, 'in mostra'),
+(6100, '1928/02/04', 1950000.00, 'in mostra'),
+(6101, '1911/06/27', 6200000.50, 'in magazzino'),
+(6102, '1992/04/20', 124920000.00, 'in prestito'),
+(6103, '1917/09/04', 3800000.00, 'in mostra'),
+(6104, '1905/03/02', 18800000000.00, 'in magazzino'),
+(6105, '1935/04/08', 5100000.00, 'in magazzino'),
+(6106, '1955/08/30', 150300000.00, 'in magazzino'),
+(6107, '1938/05/13', 120190000.00, 'in magazzino'),
+(6108, '2020/09/11', 8730000000.00, 'in mostra'),
+(6109, '2024/11/02', 1720000000.00, 'in prestito'),
+(6110, '2020/09/26', 458450000.00, 'in magazzino'),
+(6111, '1955/05/03', 13130000000.00, 'in magazzino'),
+(6112, '2019/07/24', 1800000000.00, 'in prestito'),
+(6113, '2021/10/10', 826020000.00, 'in magazzino'),
+(6114, '1905/10/27', 2410000000.00, 'in magazzino'),
+(6115, '2007/11/12', 681360000.00, 'in magazzino'),
+(6116, '1954/05/28', 408180000.00, 'in magazzino'),
+(6117, '2023/06/12', 1070000000.00, 'in mostra'),
+(6118, '1970/10/16', 51520000.00, 'in magazzino'),
+(6119, '1973/12/04', 144440000.00, 'in prestito'),
+(6120, '1934/07/04', 814690000.00, 'in prestito'),
+(6121, '2025/11/08', 404690000.00, 'in mostra'),
+(6122, '1999/01/31', 210140000.00, 'in prestito'),
+(6123, '1947/12/23', 204830000.00, 'in mostra'),
+(6124, '1901/04/19', 18800000000.00, 'in magazzino'),
+(6125, '2011/03/15', 7350000.00, 'in prestito'),
+(6126, '1987/04/25', 5070000000.00, 'in mostra'),
+(6127, '1930/03/25', 211280000.00, 'in magazzino'),
+(6128, '1970/01/09', 4230000000.00, 'in magazzino'),
+(6129, '1966/07/31', 22920000.00, 'in magazzino'),
+(6130, '1994/07/25', 127420000.00, 'in prestito'),
+(6131, '1915/05/05', 1060000000.00, 'in mostra'),
+(6132, '1939/05/05', 1380000000.00, 'in mostra'),
+(6133, '2025/11/09', 3320000000.00, 'in mostra'),
+(6134, '1962/12/28', 468650000.00, 'in magazzino'),
+(6135, '1994/02/19', 471000000.00, 'in magazzino'),
+(6136, '1926/12/02', 160520000.00, 'in magazzino'),
+(6137, '1996/11/29', 306090000.00, 'in prestito'),
+(6138, '1953/01/10', 317400000.00, 'in magazzino'),
+(6139, '1985/12/21', 548360000.00, 'in mostra'),
+(6140, '1996/10/19', 4340000000.00, 'in prestito'),
+(6141, '2003/06/06', 9390000000.00, 'in mostra'),
+(6142, '2005/07/24', 21780000.00, 'in prestito'),
+(6143, '1901/01/05', 36890000.00, 'in prestito'),
+(6144, '2017/11/23', 1590000000.00, 'in mostra'),
+(6145, '1900/07/21', 18980000.00, 'in mostra'),
+(6146, '1929/05/30', 217530000.00, 'in mostra'),
+(6147, '1990/03/31', 1050000000.00, 'in magazzino'),
+(6148, '1952/06/16', 2750000000.00, 'in prestito'),
+(6149, '1993/02/17', 1170000000.00, 'in mostra'),
+(6150, '1964/03/05', 54290000.00, 'in mostra'),
+(6151, '1961/06/04', 3100000000.00, 'in magazzino'),
+(6152, '1961/03/06', 45010000.00, 'in magazzino'),
+(6153, '2012/06/04', 610360000.00, 'in mostra'),
+(6154, '1967/08/22', 27990000.00, 'in prestito'),
+(6155, '1914/01/10', 9570000.00, 'in prestito'),
+(6156, '1975/05/13', 4110000.00, 'in magazzino'),
+(6157, '1950/02/03', 3100000000.00, 'in magazzino'),
+(6158, '1998/05/25', 504860000.00, 'in mostra'),
+(6159, '1911/10/04', 288750000.00, 'in magazzino'),
+(6160, '1904/07/13', 357950000.00, 'in magazzino'),
+(6161, '1955/07/16', 142060000.00, 'in prestito'),
+(6162, '1996/03/06', 4500000.00, 'in mostra'),
+(6163, '2017/11/01', 119570000.00, 'in mostra'),
+(6164, '1938/11/14', 128800000.00, 'in prestito'),
+(6165, '1963/02/20', 396210000.00, 'in magazzino'),
+(6166, '2013/04/20', 85000000.00, 'in mostra'),
+(6167, '1939/08/28', 6470000000.00, 'in prestito'),
+(6168, '2002/09/12', 6330000000.00, 'in mostra'),
+(6169, '1946/12/22', 255930000.00, 'in prestito'),
+(6170, '1936/05/11', 8200000.00, 'in mostra'),
+(6171, '1913/09/08', 600560000.00, 'in mostra'),
+(6172, '1906/12/21', 311180000.00, 'in mostra'),
+(6173, '2012/03/27', 1560000.50, 'in mostra'),
+(6174, '2015/09/10', 1230000.00, 'in prestito'),
+(6175, '1945/10/06', 101280000.00, 'in prestito'),
+(6176, '1957/10/24', 153730000.00, 'in magazzino'),
+(6177, '1960/12/12', 33730000.00, 'in prestito'),
+(6178, '1916/01/05', 61210000.00, 'in prestito'),
+(6179, '2018/11/10', 18560000.00, 'in mostra'),
+(6180, '1956/02/06', 12160000.00, 'in mostra'),
+(6181, '1916/04/24', 37670000.00, 'in mostra'),
+(6182, '2014/06/20', 81480000.00, 'in mostra'),
+(6183, '1981/10/18', 970480000.00, 'in prestito'),
+(6184, '1917/01/17', 663370000.00, 'in prestito'),
+(6185, '1910/04/20', 41810000000.00, 'in prestito'),
+(6186, '1987/05/31', 763030000.00, 'in prestito'),
+(6187, '1906/06/25', 5350000000.00, 'in mostra'),
+(6188, '1929/03/01', 20370000000.00, 'in mostra'),
+(6189, '2004/07/24', 505590000.00, 'in prestito'),
+(6190, '2009/11/21', 277950000.00, 'in prestito'),
+(6191, '1998/05/06', 303710000.00, 'in prestito'),
+(6192, '1981/08/12', 4330000000.00, 'in prestito'),
+(6193, '1974/07/01', 2300000.00, 'in mostra'),
+(6194, '1957/10/06', 1050000000.00, 'in prestito'),
+(6195, '1907/10/29', 3100000000.00, 'in magazzino'),
+(6196, '2011/10/24', 3520000000.00, 'in prestito'),
+(6197, '1941/09/12', 176550000.00, 'in prestito'),
+(6198, '2015/11/05', 12590000000.00, 'in magazzino'),
+(6199, '1954/06/16', 2220000000.00, 'in mostra'),
+(6200, '1985/11/07', 645410000.00, 'in mostra'),
+(6201, '2007/01/15', 82280000000.00, 'in mostra'),
+(6202, '1923/04/26', 36890000.00, 'in prestito'),
+(6203, '1974/12/09', 518610000.00, 'in mostra'),
+(6204, '1957/05/01', 8830000.00, 'in prestito'),
+(6205, '2021/08/18', 24000000.00, 'in prestito'),
+(6206, '1994/12/06', 112530000.00, 'in magazzino'),
+(6207, '1917/12/06', 939020000.00, 'in mostra'),
+(6208, '1978/11/10', 4100000.00, 'in prestito'),
+(6209, '1916/12/05', 115200000.00, 'in magazzino'),
+(6210, '2010/06/06', 544370000.00, 'in magazzino'),
+(6211, '1968/12/09', 176550000.00, 'in prestito'),
+(6212, '1959/08/18', 84950000.00, 'in prestito'),
+(6213, '1909/01/01', 264550000.00, 'in magazzino'),
+(6214, '1909/12/31', 2730000000.00, 'in prestito'),
+(6215, '1919/06/26', 54410000000.00, 'in magazzino'),
+(6216, '1961/07/13', 164430000.00, 'in mostra'),
+(6217, '2023/06/28', 238940000.00, 'in prestito'),
+(6218, '1966/01/24', 126720000.00, 'in magazzino'),
+(6219, '1979/06/10', 1200000.00, 'in magazzino'),
+(6220, '2004/07/30', 3230000.00, 'in magazzino'),
+(6221, '1966/05/17', 5900000.00, 'in mostra'),
+(6222, '1992/04/11', 70950000.00, 'in prestito'),
+(6223, '1921/12/12', 137520000.00, 'in mostra'),
+(6224, '1970/06/01', 20270000000.00, 'in magazzino'),
+(6225, '1937/01/26', 412440000.00, 'in magazzino'),
+(6226, '2011/06/23', 750000.50, 'in mostra'),
+(6227, '1945/05/25', 1400000.00, 'in magazzino'),
+(6228, '1958/03/04', 3800000.00, 'in mostra'),
+(6229, '1960/01/26', 5750000000.00, 'in prestito'),
+(6230, '1910/05/21', 27030000.00, 'in magazzino'),
+(6231, '1993/06/07', 950000.00, 'in prestito'),
+(6232, '1955/03/14', 4200000.00, 'in mostra'),
+(6233, '1994/04/07', 61920000000.00, 'in mostra'),
+(6234, '1916/08/07', 309270000.00, 'in prestito'),
+(6235, '2005/10/23', 230280000.00, 'in magazzino'),
+(6236, '1965/09/28', 6280000000.00, 'in magazzino'),
+(6237, '1945/05/07', 1270000000.00, 'in mostra'),
+(6238, '1913/02/13', 73140000.00, 'in magazzino'),
+(6239, '1986/10/04', 2850000000.00, 'in prestito'),
+(6240, '1962/11/23', 6100000.00, 'in mostra'),
+(6241, '1955/03/14', 43250000.00, 'in magazzino'),
+(6242, '1977/06/09', 2400000.00, 'in mostra'),
+(6243, '1906/03/15', 7300000.00, 'in prestito'),
+(6244, '2004/12/30', 345190000.00, 'in mostra'),
+(6245, '1910/09/29', 532950000.00, 'in magazzino'),
+(6246, '1933/08/10', 43290000000.00, 'in magazzino'),
+(6247, '2007/11/11', 899860000.00, 'in prestito'),
+(6248, '1977/07/23', 107030000.00, 'in magazzino'),
+(6249, '1944/10/03', 2180000000.00, 'in mostra'),
+(6250, '1904/09/26', 1500000.00, 'in prestito'),
+(6251, '1952/10/27', 10320000000.00, 'in mostra'),
+(6252, '1905/10/18', 89570000.00, 'in magazzino'),
+(6253, '2006/03/31', 15330000.00, 'in magazzino'),
+(6254, '1927/12/24', 2620000000.00, 'in mostra'),
+(6255, '1935/03/19', 231470000.00, 'in mostra'),
+(6256, '2014/05/16', 54290000.00, 'in magazzino'),
+(6257, '1919/10/18', 3720000000.00, 'in prestito'),
+(6258, '1978/10/20', 2050000000.00, 'in mostra'),
+(6259, '1972/12/27', 212140000.00, 'in prestito'),
+(6260, '2013/07/12', 1560000000.00, 'in prestito'),
+(6261, '1938/01/04', 708430000.00, 'in magazzino'),
+(6262, '2024/11/27', 316800000.00, 'in prestito'),
+(6263, '1934/03/02', 12190000000.00, 'in mostra'),
+(6264, '2006/03/18', 31400000.00, 'in prestito'),
+(6265, '1940/05/20', 388890000.00, 'in mostra'),
+(6266, '1909/08/02', 9030000000.00, 'in magazzino'),
+(6267, '1938/03/17', 2800000.00, 'in mostra'),
+(6268, '1935/06/03', 4240000000.00, 'in magazzino'),
+(6269, '1986/07/24', 1960000000.00, 'in magazzino'),
+(6270, '2011/09/13', 4590000000.00, 'in mostra'),
+(6271, '1951/02/15', 390470000.00, 'in prestito'),
+(6272, '1963/10/21', 690930000.00, 'in magazzino'),
+(6273, '1966/07/27', 243180000.00, 'in magazzino'),
+(6274, '1927/06/03', 6800000.00, 'in mostra'),
+(6275, '1927/04/26', 74820000.00, 'in magazzino'),
+(6276, '2005/10/11', 5100000.50, 'in magazzino'),
+(6277, '1932/04/25', 50780000.00, 'in mostra'),
+(6278, '1951/10/21', 4270000000.00, 'in mostra'),
+(6279, '1967/06/06', 498650000.00, 'in mostra'),
+(6280, '1964/10/08', 80580000.00, 'in magazzino'),
+(6281, '1967/07/21', 130230000.00, 'in mostra'),
+(6282, '1933/11/02', 259780000.00, 'in mostra'),
+(6283, '1993/04/09', 164430000.00, 'in magazzino'),
+(6284, '1979/11/30', 9200000.00, 'in mostra'),
+(6285, '1937/08/04', 666840000.00, 'in mostra'),
+(6286, '2009/08/13', 1450000.00, 'in prestito'),
+(6287, '1914/11/28', 111570000.00, 'in prestito'),
+(6288, '2021/12/08', 3520000000.00, 'in prestito'),
+(6289, '1991/12/19', 2600000.00, 'in prestito'),
+(6290, '2014/09/27', 3700000.00, 'in prestito'),
+(6291, '1952/08/20', 2410000000.00, 'in mostra'),
+(6292, '1967/06/25', 9320000000.00, 'in magazzino'),
+(6293, '1951/01/11', 615320000.00, 'in prestito'),
+(6294, '1953/01/05', 29110000.00, 'in magazzino'),
+(6295, '1970/08/11', 1370000000.00, 'in magazzino'),
+(6296, '1939/03/30', 8800000.00, 'in prestito'),
+(6297, '2010/05/03', 76920000.00, 'in magazzino'),
+(6298, '1974/10/12', 5870000000.00, 'in mostra'),
+(6299, '1918/12/06', 8860000000.00, 'in mostra'),
+(6300, '1930/03/12', 10060000000.00, 'in mostra'),
+(6301, '1900/10/07', 53580000.00, 'in prestito'),
+(6302, '2007/05/12', 395170000.00, 'in prestito'),
+(6303, '2016/02/22', 6970000000.00, 'in magazzino'),
+(6304, '2019/06/26', 3570000000.00, 'in mostra'),
+(6305, '1978/03/29', 3520000000.00, 'in magazzino'),
+(6306, '1978/07/08', 213680000.00, 'in mostra'),
+(6307, '1901/09/26', 11650000000.00, 'in prestito'),
+(6308, '1962/05/24', 2400000000.00, 'in prestito'),
+(6309, '1928/06/12', 2500000000.00, 'in magazzino'),
+(6310, '1985/11/30', 315160000.00, 'in prestito'),
+(6311, '1991/12/02', 14740000000.00, 'in magazzino'),
+(6312, '1943/09/29', 33570000.00, 'in prestito'),
+(6313, '1987/03/08', 74510000.00, 'in mostra'),
+(6314, '2021/03/14', 64890000.00, 'in magazzino'),
+(6315, '1938/04/11', 7530000000.00, 'in prestito'),
+(6316, '1976/01/24', 63230000.00, 'in magazzino'),
+(6317, '1960/04/25', 61000000.00, 'in mostra'),
+(6318, '1990/08/26', 39550000.00, 'in magazzino'),
+(6319, '1952/08/12', 587960000.00, 'in magazzino'),
+(6320, '1985/01/13', 261580000.00, 'in prestito'),
+(6321, '1927/01/06', 1300000.00, 'in magazzino'),
+(6322, '1926/10/15', 7600000.00, 'in mostra'),
+(6323, '2021/06/13', 1270000000.00, 'in prestito'),
+(6324, '1930/03/31', 2670000000.00, 'in mostra'),
+(6325, '1951/05/08', 497060000.00, 'in mostra'),
+(6326, '1996/11/29', 4200000.00, 'in mostra'),
+(6327, '1985/08/22', 59070000.00, 'in mostra'),
+(6328, '1970/11/09', 93710000.00, 'in mostra'),
+(6329, '2019/09/04', 640530000.00, 'in mostra'),
+(6330, '1917/08/31', 59590000.00, 'in prestito'),
+(6331, '1916/08/24', 212140000.00, 'in prestito'),
+(6332, '1957/07/20', 808570000.00, 'in prestito'),
+(6333, '1961/08/29', 132130000.00, 'in mostra'),
+(6334, '1964/03/31', 1590000000.00, 'in mostra'),
+(6335, '2020/07/22', 655590000.00, 'in mostra'),
+(6336, '1902/05/28', 234630000.00, 'in magazzino'),
+(6337, '1988/10/23', 64330000.00, 'in mostra'),
+(6338, '1982/04/13', 814690000.00, 'in prestito'),
+(6339, '1943/12/06', 34580000.00, 'in mostra'),
+(6340, '1980/02/29', 126340000.00, 'in prestito'),
+(6341, '2009/09/03', 2090000000.00, 'in mostra'),
+(6342, '2022/07/21', 442630000.00, 'in mostra'),
+(6343, '1944/10/10', 10500000000.00, 'in magazzino'),
+(6344, '1982/12/08', 1350000000.00, 'in magazzino'),
+(6345, '1945/02/18', 2290000000.00, 'in mostra'),
+(6346, '1916/12/20', 1500000000.00, 'in mostra'),
+(6347, '1998/01/21', 78860000.00, 'in magazzino'),
+(6348, '2009/08/04', 9730000000.00, 'in magazzino'),
+(6349, '1960/11/18', 6360000.00, 'in prestito'),
+(6350, '1971/07/03', 5900000.00, 'in magazzino'),
+(6351, '1913/03/02', 8100000.00, 'in magazzino'),
+(6352, '2018/05/30', 6160000000.00, 'in magazzino'),
+(6353, '1925/12/15', 3400000.00, 'in mostra'),
+(6354, '1901/01/28', 671800000.00, 'in prestito'),
+(6355, '1993/10/18', 3170000000.00, 'in magazzino'),
+(6356, '2014/12/08', 950000.50, 'in prestito'),
+(6357, '2007/04/23', 1910000000.00, 'in magazzino'),
+(6358, '1909/12/27', 2200000.00, 'in prestito'),
+(6359, '1959/06/09', 23110000000.00, 'in mostra'),
+(6360, '1961/08/16', 7600000.00, 'in prestito'),
+(6361, '1918/07/22', 3320000000.00, 'in mostra'),
+(6362, '1931/04/04', 1800000.00, 'in magazzino'),
+(6363, '1918/05/05', 98950000.00, 'in prestito'),
+(6364, '1981/11/02', 491020000.00, 'in magazzino'),
+(6365, '1930/06/21', 1970000000.00, 'in mostra'),
+(6366, '1984/10/31', 52530000.00, 'in mostra'),
+(6367, '1995/01/17', 1990000000.00, 'in magazzino'),
+(6368, '2006/07/09', 612590000.00, 'in prestito'),
+(6369, '1910/08/08', 156020000000.00, 'in prestito'),
+(6370, '1984/02/11', 4500000.00, 'in magazzino'),
+(6371, '1943/09/13', 33510000000.00, 'in magazzino'),
+(6372, '1921/03/25', 24370000000.00, 'in mostra'),
+(6373, '1900/10/03', 1320000000.00, 'in prestito'),
+(6374, '2014/07/24', 393680000.00, 'in prestito'),
+(6375, '1979/06/22', 62920000.00, 'in mostra'),
+(6376, '1929/12/13', 12700000000.00, 'in prestito'),
+(6377, '1944/05/17', 1450000000.00, 'in mostra'),
+(6378, '1978/05/07', 12450000000.00, 'in prestito'),
+(6379, '1912/05/12', 1660000000.00, 'in mostra'),
+(6380, '1944/06/04', 1490000000.00, 'in mostra'),
+(6381, '1942/12/10', 8900000.00, 'in magazzino'),
+(6382, '1951/11/19', 93340000.00, 'in magazzino'),
+(6383, '1990/01/29', 340420000.00, 'in prestito'),
+(6384, '1966/03/16', 620680000.00, 'in mostra'),
+(6385, '1927/10/14', 425180000.00, 'in magazzino'),
+(6386, '1998/10/27', 393180000.00, 'in magazzino'),
+(6387, '1947/07/07', 2200000.00, 'in magazzino'),
+(6388, '1956/06/01', 19250000000.00, 'in magazzino'),
+(6389, '1955/11/11', 59880000.00, 'in magazzino'),
+(6390, '2011/08/02', 7070000.00, 'in mostra'),
+(6391, '1986/07/29', 360870000.00, 'in prestito'),
+(6392, '1909/08/29', 2400000.00, 'in prestito'),
+(6393, '1964/09/24', 2880000000.00, 'in mostra'),
+(6394, '1984/03/19', 1040000000.00, 'in mostra'),
+(6395, '1912/01/17', 159720000.00, 'in mostra'),
+(6396, '1939/05/10', 129340000.00, 'in mostra'),
+(6397, '1901/01/14', 1150000000.00, 'in prestito'),
+(6398, '1977/08/11', 19790000.00, 'in prestito'),
+(6399, '1906/01/20', 5120000000.00, 'in prestito'),
+(6400, '1998/12/04', 2730000000.00, 'in magazzino'),
+(6401, '1960/07/14', 3100000.00, 'in prestito'),
+(6402, '1972/03/02', 3060000000.00, 'in magazzino'),
+(6403, '1933/05/13', 118920000.00, 'in prestito'),
+(6404, '2024/01/23', 1640000000.00, 'in prestito'),
+(6405, '1994/03/08', 13090000.00, 'in magazzino'),
+(6406, '1978/03/23', 6800000.00, 'in prestito'),
+(6407, '2006/03/07', 481000000.00, 'in prestito'),
+(6408, '1975/10/16', 300240000.00, 'in mostra'),
+(6409, '2025/09/18', 40310000.00, 'in magazzino'),
+(6410, '1995/01/07', 14730000000.00, 'in mostra'),
+(6411, '1989/06/12', 610580000.00, 'in prestito'),
+(6412, '1962/12/21', 2180000000.00, 'in magazzino'),
+(6413, '1998/12/07', 3550000000.00, 'in prestito'),
+(6414, '1914/09/27', 780460000.00, 'in magazzino'),
+(6415, '1946/11/29', 2400000.50, 'in mostra'),
+(6416, '2019/10/31', 7100000.00, 'in magazzino'),
+(6417, '1981/12/24', 43740000.00, 'in prestito'),
+(6418, '1963/09/17', 5280000000.00, 'in magazzino'),
+(6419, '1904/10/11', 271820000.00, 'in magazzino'),
+(6420, '1926/12/26', 1500000.00, 'in mostra'),
+(6421, '1943/05/18', 94540000.00, 'in prestito'),
+(6422, '1933/08/09', 27940000000.00, 'in magazzino'),
+(6423, '2022/10/25', 808570000.00, 'in magazzino'),
+(6424, '1921/09/11', 44230000.00, 'in magazzino'),
+(6425, '1911/12/18', 103100000000.00, 'in magazzino'),
+(6426, '1996/05/09', 3900000.00, 'in mostra'),
+(6427, '1968/11/19', 39220000000.00, 'in magazzino'),
+(6428, '1938/12/12', 79320000.00, 'in mostra'),
+(6429, '1954/07/01', 5340000000.00, 'in mostra'),
+(6430, '1960/03/11', 118890000.00, 'in magazzino'),
+(6431, '1918/09/20', 96270000.00, 'in prestito'),
+(6432, '2008/08/30', 8800000.00, 'in prestito'),
+(6433, '2022/04/07', 53960000.00, 'in prestito'),
+(6434, '1922/10/19', 4200000.00, 'in mostra'),
+(6435, '1922/10/24', 1900000.00, 'in magazzino'),
+(6436, '1939/11/12', 81780000000.00, 'in prestito'),
+(6437, '1907/09/25', 5080000.00, 'in mostra'),
+(6438, '1979/12/26', 790370000.00, 'in magazzino'),
+(6439, '2013/11/13', 437240000.00, 'in prestito'),
+(6440, '1997/05/04', 31320000.00, 'in magazzino'),
+(6441, '1942/12/28', 1060000000.00, 'in mostra'),
+(6442, '1978/01/09', 3270000000.00, 'in prestito'),
+(6443, '1917/09/05', 797330000.00, 'in prestito'),
+(6444, '1934/01/20', 115200000.00, 'in magazzino'),
+(6445, '2022/08/25', 2110000000.00, 'in magazzino'),
+(6446, '1922/11/08', 1150000000.00, 'in magazzino'),
+(6447, '1970/04/09', 29960000.00, 'in mostra'),
+(6448, '2008/05/29', 5110000000.00, 'in magazzino'),
+(6449, '1911/06/15', 7300000.00, 'in mostra'),
+(6450, '1905/05/06', 1170000000.00, 'in prestito'),
+(6451, '1915/12/08', 1020000000.00, 'in prestito'),
+(6452, '2015/10/19', 2580000000.00, 'in prestito'),
+(6453, '1908/08/16', 83560000.00, 'in magazzino'),
+(6454, '2024/07/22', 11120000.00, 'in magazzino'),
+(6455, '1955/02/26', 3000000000.00, 'in mostra'),
+(6456, '2025/08/23', 103850000.00, 'in prestito'),
+(6457, '1999/05/11', 717590000.00, 'in magazzino'),
+(6458, '1944/05/15', 118890000.00, 'in mostra'),
+(6459, '1968/12/04', 20950000.00, 'in prestito'),
+(6460, '2022/03/02', 197710000.00, 'in magazzino'),
+(6461, '1907/01/15', 90880000.00, 'in magazzino'),
+(6462, '1974/05/27', 415620000.00, 'in magazzino'),
+(6463, '1994/09/16', 2440000.00, 'in magazzino'),
+(6464, '2008/12/30', 2920000000.00, 'in mostra'),
+(6465, '2004/04/26', 20320000000.00, 'in magazzino'),
+(6466, '1969/09/08', 450720000.00, 'in magazzino'),
+(6467, '2014/01/17', 50210000000.00, 'in prestito'),
+(6468, '1991/05/25', 15260000000.00, 'in mostra'),
+(6469, '1927/06/29', 1920000000.00, 'in magazzino'),
+(6470, '1937/09/30', 5800000.00, 'in magazzino'),
+(6471, '1901/11/24', 2700000.00, 'in prestito'),
+(6472, '1955/06/27', 9100000.00, 'in magazzino'),
+(6473, '1969/05/23', 91850000.00, 'in mostra'),
+(6474, '2021/01/24', 1350000000.00, 'in magazzino'),
+(6475, '2018/10/20', 151540000.00, 'in prestito'),
+(6476, '1930/04/17', 3600000.00, 'in magazzino'),
+(6477, '1908/11/21', 67860000.00, 'in mostra'),
+(6478, '1911/01/01', 299740000.00, 'in magazzino'),
+(6479, '1948/06/18', 1470000000.00, 'in prestito'),
+(6480, '1923/01/01', 8200000.50, 'in prestito'),
+(6481, '1945/01/09', 1030000000.00, 'in prestito'),
+(6482, '1996/04/22', 296920000.00, 'in prestito'),
+(6483, '2002/11/28', 61970000.00, 'in prestito'),
+(6484, '1904/05/16', 2430000000.00, 'in prestito'),
+(6485, '1924/04/05', 20230000000.00, 'in magazzino'),
+(6486, '1900/09/24', 54070000.00, 'in prestito'),
+(6487, '1978/08/09', 1260000000.00, 'in mostra'),
+(6488, '1942/06/23', 1500000000.00, 'in magazzino'),
+(6489, '1932/03/26', 716780000.00, 'in magazzino'),
+(6490, '1952/05/17', 1180000000.00, 'in magazzino'),
+(6491, '2019/04/16', 23690000000.00, 'in magazzino'),
+(6492, '1919/04/26', 1600000.00, 'in magazzino'),
+(6493, '1971/10/13', 434220000.00, 'in prestito'),
+(6494, '1932/02/20', 7400000.00, 'in mostra'),
+(6495, '1965/10/23', 5900000.00, 'in magazzino'),
+(6496, '1970/08/06', 844880000.00, 'in magazzino'),
+(6497, '1988/03/22', 556340000.00, 'in magazzino'),
+(6498, '1961/02/19', 1790000000.00, 'in mostra'),
+(6499, '1931/08/11', 5280000000.00, 'in mostra'),
+(6500, '1908/03/23', 3800000.00, 'in magazzino'),
+(6501, '1928/10/01', 12160000.00, 'in mostra'),
+(6502, '1944/08/21', 84170000.00, 'in prestito'),
+(6503, '2021/04/10', 208040000.00, 'in prestito'),
+(6504, '1984/10/26', 3540000000.00, 'in magazzino'),
+(6505, '1921/04/01', 311650000.00, 'in mostra'),
+(6506, '1953/07/24', 1160000000.00, 'in mostra');
