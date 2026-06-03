@@ -1,1250 +1,252 @@
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Nockalls', 'anockalls0@baidu.com', 'Bigender', '120.166.68.102');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Fibbens', 'rfibbens1@wordpress.com', 'Male', '234.137.135.162');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Ravenscroft', 'hravenscroft2@cbslocal.com', 'Male', '150.194.151.216');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Hansel', 'khansel3@senate.gov', 'Male', '189.127.252.25');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Obray', 'robray4@earthlink.net', 'Female', '221.189.158.86');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Prandi', 'nprandi5@senate.gov', 'Female', '206.97.52.65');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Lacrouts', 'clacrouts6@yellowbook.com', 'Female', '53.153.211.250');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Colborn', 'hcolborn7@cbslocal.com', 'Female', '191.136.83.198');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Turmell', 'lturmell8@moonfruit.com', 'Male', '79.25.26.106');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Pottery', 'kpottery9@accuweather.com', 'Female', '63.51.96.74');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Vowden', 'mvowdena@ucsd.edu', 'Male', '124.84.171.250');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Vane', 'evaneb@tumblr.com', 'Male', '108.68.83.166');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Thomazin', 'jthomazinc@walmart.com', 'Male', '23.182.36.201');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Morforth', 'tmorforthd@freewebs.com', 'Female', '170.242.19.22');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Drewell', 'mdrewelle@netscape.com', 'Female', '110.149.91.232');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Ragot', 'aragotf@google.it', 'Female', '176.217.39.24');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Husby', 'jhusbyg@shutterfly.com', 'Female', '85.89.21.34');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Belloch', 'gbellochh@wikimedia.org', 'Male', '215.44.111.171');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Face', 'ofacei@bravesites.com', 'Male', '104.23.220.220');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Braker', 'ebrakerj@last.fm', 'Male', '165.167.54.224');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'McKeeman', 'cmckeemank@buzzfeed.com', 'Female', '139.71.160.33');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Tupp', 'atuppl@sohu.com', 'Female', '11.64.115.141');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Braley', 'cbraleym@unicef.org', 'Female', '13.58.218.115');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Matteoni', 'vmatteonin@bbb.org', 'Male', '64.168.127.93');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Grass', 'igrasso@forbes.com', 'Female', '171.92.70.208');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Aleveque', 'salevequep@oracle.com', 'Female', '105.86.229.205');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Headington', 'lheadingtonq@cbsnews.com', 'Female', '108.2.111.171');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Destouche', 'ddestoucher@fastcompany.com', 'Male', '126.174.63.202');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Rodbourne', 'nrodbournes@sbwire.com', 'Female', '47.147.31.237');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Scarsbrick', 'rscarsbrickt@dmoz.org', 'Male', '153.115.34.10');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Palfrie', 'dpalfrieu@dion.ne.jp', 'Genderqueer', '98.128.254.77');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Prothero', 'eprotherov@plala.or.jp', 'Female', '25.149.165.127');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Clover', 'jcloverw@arizona.edu', 'Male', '134.254.42.138');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Skitt', 'tskittx@themeforest.net', 'Female', '176.112.96.152');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'MacCardle', 'gmaccardley@china.com.cn', 'Female', '22.242.27.84');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Forde', 'rfordez@cdc.gov', 'Female', '97.2.44.227');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Yeoland', 'fyeoland10@netvibes.com', 'Female', '242.125.209.234');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Grogor', 'egrogor11@ihg.com', 'Agender', '58.100.12.188');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Kember', 'pkember12@foxnews.com', 'Male', '15.181.224.193');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Pochin', 'cpochin13@i2i.jp', 'Female', '106.253.110.93');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Trevino', 'htrevino14@godaddy.com', 'Male', '34.35.184.248');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Kuhle', 'fkuhle15@wix.com', 'Male', '10.57.78.98');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Schooley', 'aschooley16@exblog.jp', 'Male', '56.158.139.3');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Hame', 'khame17@mail.ru', 'Male', '238.5.131.141');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Swains', 'vswains18@yale.edu', 'Female', '158.166.204.21');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Impey', 'mimpey19@chicagotribune.com', 'Female', '99.89.100.206');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Champ', 'tchamp1a@kickstarter.com', 'Female', '100.0.193.243');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Ghelardoni', 'cghelardoni1b@hud.gov', 'Female', '151.190.255.118');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Krolman', 'ekrolman1c@state.gov', 'Male', '42.237.69.14');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Firle', 'dfirle1d@dell.com', 'Female', '167.53.0.218');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Yeudall', 'fyeudall1e@msn.com', 'Female', '169.90.101.27');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Constance', 'lconstance1f@huffingtonpost.com', 'Female', '132.91.85.169');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Bouch', 'kbouch1g@liveinternet.ru', 'Male', '111.191.74.70');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Paschke', 'mpaschke1h@imgur.com', 'Female', '94.199.164.154');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Coole', 'tcoole1i@cnn.com', 'Female', '173.22.234.54');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Proppers', 'aproppers1j@discovery.com', 'Female', '188.140.161.154');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Povey', 'dpovey1k@hao123.com', 'Female', '64.133.91.201');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Mottini', 'kmottini1l@over-blog.com', 'Male', '156.72.72.6');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Fuentes', 'wfuentes1m@goodreads.com', 'Genderfluid', '209.104.37.71');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Dickson', 'gdickson1n@technorati.com', 'Non-binary', '36.156.100.95');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Logsdail', 'flogsdail1o@constantcontact.com', 'Male', '210.112.87.246');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Bessom', 'tbessom1p@scribd.com', 'Female', '30.18.155.203');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Blinman', 'hblinman1q@japanpost.jp', 'Male', '62.189.197.115');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Andreu', 'gandreu1r@prweb.com', 'Female', '52.202.124.189');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Gebb', 'bgebb1s@pcworld.com', 'Male', '89.12.185.28');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Knivett', 'aknivett1t@rambler.ru', 'Male', '144.144.157.231');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Coaster', 'rcoaster1u@cnbc.com', 'Male', '91.97.230.231');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Smedley', 'csmedley1v@163.com', 'Male', '178.64.219.0');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Kobierra', 'mkobierra1w@example.com', 'Female', '114.171.92.131');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Vanyard', 'lvanyard1x@bigcartel.com', 'Female', '120.174.245.172');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Yukhnin', 'ryukhnin1y@ow.ly', 'Male', '68.127.218.164');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Ferrierio', 'cferrierio1z@noaa.gov', 'Male', '171.34.1.207');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Vigers', 'rvigers20@google.ru', 'Male', '205.45.62.204');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Blaksley', 'eblaksley21@epa.gov', 'Agender', '217.244.5.56');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Bladder', 'rbladder22@chicagotribune.com', 'Male', '246.247.155.239');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Tire', 'ctire23@bing.com', 'Male', '56.161.173.143');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Filasov', 'rfilasov24@sohu.com', 'Female', '183.111.67.194');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Andrault', 'randrault25@opera.com', 'Female', '159.156.57.185');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Pittham', 'npittham26@mozilla.com', 'Male', '58.230.240.218');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Lauder', 'blauder27@pagesperso-orange.fr', 'Female', '127.184.103.242');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Hilldrup', 'shilldrup28@weather.com', 'Female', '139.155.58.234');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Stienham', 'ostienham29@wikipedia.org', 'Female', '154.4.138.91');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Bigg', 'wbigg2a@linkedin.com', 'Female', '25.250.23.43');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Harradence', 'tharradence2b@xing.com', 'Female', '3.120.33.228');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Shanks', 'fshanks2c@walmart.com', 'Male', '31.221.15.209');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Barrim', 'cbarrim2d@hhs.gov', 'Female', '112.83.212.51');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Brierly', 'pbrierly2e@nih.gov', 'Female', '28.178.236.85');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Leyman', 'eleyman2f@last.fm', 'Female', '139.64.237.72');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Sellman', 'msellman2g@qq.com', 'Female', '15.92.23.207');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Winchcomb', 'fwinchcomb2h@wikia.com', 'Non-binary', '147.207.89.8');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Weedon', 'dweedon2i@businessinsider.com', 'Male', '25.236.69.57');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'McGowran', 'gmcgowran2j@bravesites.com', 'Female', '19.56.34.48');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Staning', 'dstaning2k@ox.ac.uk', 'Male', '73.188.92.64');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Fleischmann', 'dfleischmann2l@yale.edu', 'Female', '34.92.75.45');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Hanton', 'ahanton2m@mtv.com', 'Female', '15.8.26.195');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Jellico', 'cjellico2n@google.pl', 'Male', '62.183.218.126');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Wolvey', 'swolvey2o@hao123.com', 'Male', '220.205.135.238');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'McBayne', 'mmcbayne2p@nationalgeographic.com', 'Male', '133.247.33.137');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Stollen', 'jstollen2q@seesaa.net', 'Male', '11.143.173.52');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Mallabon', 'mmallabon2r@wordpress.com', 'Male', '114.98.242.44');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Falla', 'bfalla2s@youtube.com', 'Male', '171.233.238.39');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Le Page', 'hlepage2t@jugem.jp', 'Female', '89.79.128.103');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Garrish', 'agarrish2u@facebook.com', 'Female', '10.211.223.39');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Ingold', 'bingold2v@psu.edu', 'Male', '191.66.106.95');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Latour', 'dlatour2w@java.com', 'Genderqueer', '50.86.45.95');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Deevey', 'kdeevey2x@miitbeian.gov.cn', 'Genderfluid', '23.255.217.206');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Thomassin', 'vthomassin2y@hibu.com', 'Genderqueer', '158.201.7.188');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Dulson', 'wdulson2z@dmoz.org', 'Female', '212.126.84.91');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Wanne', 'vwanne30@europa.eu', 'Female', '61.42.135.24');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Spadoni', 'tspadoni31@illinois.edu', 'Male', '160.63.54.244');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Manueli', 'smanueli32@i2i.jp', 'Male', '37.224.232.117');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Stiggers', 'nstiggers33@sourceforge.net', 'Male', '56.18.182.105');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Crewther', 'bcrewther34@so-net.ne.jp', 'Non-binary', '5.211.138.7');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Ransbury', 'qransbury35@fastcompany.com', 'Female', '62.249.142.49');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'West', 'twest36@apple.com', 'Male', '212.116.208.184');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Bryant', 'lbryant37@hp.com', 'Male', '203.141.235.2');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Morphey', 'bmorphey38@ning.com', 'Female', '255.121.86.160');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Woakes', 'wwoakes39@parallels.com', 'Female', '9.165.122.253');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Mongain', 'hmongain3a@mlb.com', 'Female', '246.104.162.158');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Quarry', 'mquarry3b@craigslist.org', 'Male', '121.147.4.195');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Shyram', 'vshyram3c@com.com', 'Genderfluid', '43.157.86.197');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Flippen', 'kflippen3d@apache.org', 'Male', '156.11.84.35');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Sives', 'msives3e@google.cn', 'Male', '59.250.159.116');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Pawelski', 'hpawelski3f@shareasale.com', 'Female', '252.179.103.1');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Pochin', 'cpochin3g@elpais.com', 'Female', '151.57.26.255');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Portinari', 'iportinari3h@admin.ch', 'Female', '12.219.21.125');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Bodleigh', 'kbodleigh3i@mit.edu', 'Male', '187.217.128.61');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Brabham', 'hbrabham3j@com.com', 'Male', '77.36.131.254');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Roswarn', 'droswarn3k@pagesperso-orange.fr', 'Female', '125.77.130.208');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Dohr', 'adohr3l@theglobeandmail.com', 'Male', '78.63.52.11');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Stollberger', 'nstollberger3m@sakura.ne.jp', 'Female', '169.135.2.150');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Sulman', 'tsulman3n@illinois.edu', 'Female', '179.43.140.194');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Maving', 'wmaving3o@ucla.edu', 'Female', '10.36.189.130');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Dericut', 'cdericut3p@hc360.com', 'Female', '213.165.146.145');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Starkey', 'wstarkey3q@jigsy.com', 'Female', '197.159.241.90');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Vern', 'svern3r@salon.com', 'Female', '100.47.88.18');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Stilldale', 'tstilldale3s@wikimedia.org', 'Male', '77.73.112.227');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Guisot', 'bguisot3t@imdb.com', 'Female', '106.147.179.89');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Normand', 'knormand3u@live.com', 'Female', '85.29.251.211');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Klees', 'rklees3v@google.fr', 'Male', '192.98.14.18');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Bumpass', 'lbumpass3w@irs.gov', 'Male', '130.154.153.233');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Bantham', 'jbantham3x@ftc.gov', 'Male', '14.11.9.205');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Antoniottii', 'mantoniottii3y@fc2.com', 'Male', '40.165.239.214');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Offener', 'doffener3z@time.com', 'Female', '214.115.18.167');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Dureden', 'mdureden40@usda.gov', 'Female', '217.40.73.253');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Ranscomb', 'transcomb41@prlog.org', 'Male', '111.9.39.240');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Murricanes', 'amurricanes42@oracle.com', 'Female', '10.22.73.204');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Pinder', 'apinder43@technorati.com', 'Female', '255.149.247.171');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Francesco', 'kfrancesco44@w3.org', 'Female', '76.240.163.242');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Boldero', 'nboldero45@mozilla.org', 'Male', '32.123.231.120');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Outright', 'woutright46@twitter.com', 'Male', '203.211.29.206');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Gogerty', 'tgogerty47@wikipedia.org', 'Male', '160.31.179.177');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Grute', 'xgrute48@drupal.org', 'Female', '199.3.119.249');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Signore', 'tsignore49@webmd.com', 'Female', '245.139.164.36');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Hannent', 'shannent4a@phoca.cz', 'Genderfluid', '24.230.194.245');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Jodlkowski', 'cjodlkowski4b@va.gov', 'Male', '84.189.96.172');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Kirton', 'pkirton4c@tmall.com', 'Female', '58.205.143.208');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Kollach', 'jkollach4d@clickbank.net', 'Male', '71.254.250.241');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Banham', 'jbanham4e@sogou.com', 'Male', '249.23.79.86');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Churm', 'dchurm4f@zimbio.com', 'Female', '219.127.245.15');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Guerrier', 'sguerrier4g@reverbnation.com', 'Male', '75.114.23.220');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Strewthers', 'estrewthers4h@tiny.cc', 'Male', '208.46.55.55');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Gahan', 'cgahan4i@disqus.com', 'Male', '255.164.167.93');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Treske', 'ftreske4j@illinois.edu', 'Male', '132.176.69.26');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Vockins', 'cvockins4k@weather.com', 'Male', '141.75.133.71');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Yallop', 'byallop4l@facebook.com', 'Female', '31.246.197.80');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Agnolo', 'iagnolo4m@omniture.com', 'Male', '7.123.47.216');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Kirdsch', 'gkirdsch4n@hostgator.com', 'Male', '137.71.241.211');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Lehrian', 'plehrian4o@domainmarket.com', 'Female', '107.97.58.147');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Dabnor', 'kdabnor4p@mtv.com', 'Female', '255.125.115.89');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Edinburgh', 'wedinburgh4q@facebook.com', 'Female', '145.249.229.191');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Bees', 'obees4r@flavors.me', 'Male', '88.167.83.243');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Farnhill', 'mfarnhill4s@hostgator.com', 'Female', '135.92.133.138');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Leather', 'bleather4t@dedecms.com', 'Female', '36.26.34.147');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'O'' Dooley', 'modooley4u@amazon.de', 'Male', '239.151.246.242');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Prene', 'nprene4v@vkontakte.ru', 'Female', '226.102.122.62');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Spollen', 'rspollen4w@w3.org', 'Male', '201.126.207.255');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Rojel', 'krojel4x@ucoz.ru', 'Male', '71.65.104.21');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Hark', 'ehark4y@kickstarter.com', 'Male', '243.131.42.166');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Suttling', 'tsuttling4z@seesaa.net', 'Male', '185.31.14.241');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Weafer', 'sweafer50@berkeley.edu', 'Male', '81.171.105.246');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Addis', 'gaddis51@princeton.edu', 'Male', '187.240.214.32');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Guidini', 'cguidini52@sciencedirect.com', 'Female', '204.79.117.150');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Gudge', 'jgudge53@walmart.com', 'Female', '49.25.219.12');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Kermannes', 'okermannes54@twitpic.com', 'Female', '144.107.16.213');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Couronne', 'ecouronne55@buzzfeed.com', 'Female', '127.48.164.213');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Prince', 'aprince56@ox.ac.uk', 'Female', '122.79.151.130');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Fridlington', 'efridlington57@wordpress.org', 'Male', '195.246.16.14');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Robrose', 'brobrose58@dagondesign.com', 'Bigender', '101.218.75.72');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Lowater', 'mlowater59@topsy.com', 'Male', '176.153.252.1');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Ferrier', 'mferrier5a@army.mil', 'Female', '97.174.196.225');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Huertas', 'chuertas5b@cornell.edu', 'Male', '42.98.211.183');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Lillo', 'glillo5c@disqus.com', 'Male', '130.180.150.169');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Scurry', 'mscurry5d@ask.com', 'Female', '96.17.216.163');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Corkhill', 'ncorkhill5e@wp.com', 'Male', '196.127.196.172');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Stanwix', 'astanwix5f@vimeo.com', 'Male', '243.93.107.55');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Fyers', 'nfyers5g@bloomberg.com', 'Female', '223.177.166.43');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Manktelow', 'nmanktelow5h@qq.com', 'Female', '237.201.39.241');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Owbrick', 'powbrick5i@businessinsider.com', 'Genderfluid', '21.29.63.190');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Pulbrook', 'dpulbrook5j@ycombinator.com', 'Female', '230.215.8.61');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Brownscombe', 'abrownscombe5k@youtu.be', 'Male', '157.52.212.80');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Karczinski', 'fkarczinski5l@blinklist.com', 'Male', '19.237.6.76');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Mourant', 'dmourant5m@desdev.cn', 'Male', '190.124.209.254');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'O''Hannen', 'hohannen5n@ca.gov', 'Female', '237.99.222.210');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Wootton', 'awootton5o@e-recht24.de', 'Female', '164.5.212.33');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Bevington', 'lbevington5p@uol.com.br', 'Female', '131.182.186.226');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Picardo', 'rpicardo5q@va.gov', 'Male', '4.200.201.131');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Ferrie', 'sferrie5r@scientificamerican.com', 'Female', '42.192.127.250');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Birtwistle', 'dbirtwistle5s@miitbeian.gov.cn', 'Female', '59.155.10.158');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Brockwell', 'dbrockwell5t@yellowbook.com', 'Male', '61.215.121.1');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Caser', 'mcaser5u@gravatar.com', 'Female', '50.248.166.20');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Dimberline', 'tdimberline5v@amazon.co.jp', 'Male', '231.174.68.26');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Giametti', 'mgiametti5w@booking.com', 'Male', '116.202.45.0');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Withrop', 'pwithrop5x@admin.ch', 'Female', '47.6.228.95');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Charle', 'dcharle5y@yahoo.com', 'Male', '197.79.139.146');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'de Glanville', 'mdeglanville5z@princeton.edu', 'Male', '180.92.235.98');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Ellesworth', 'dellesworth60@about.me', 'Male', '56.245.245.176');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Haine', 'jhaine61@storify.com', 'Male', '185.184.216.12');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Desbrow', 'bdesbrow62@goodreads.com', 'Male', '195.211.167.160');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Najera', 'hnajera63@chronoengine.com', 'Male', '50.76.196.42');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Ogden', 'gogden64@businessinsider.com', 'Male', '119.111.161.143');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Klimas', 'mklimas65@cnn.com', 'Female', '208.74.108.138');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Hillin', 'lhillin66@xrea.com', 'Female', '211.149.43.254');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Lumm', 'clumm67@nps.gov', 'Male', '179.133.240.0');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Benezet', 'mbenezet68@indiegogo.com', 'Female', '202.1.189.76');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Franklen', 'vfranklen69@blogger.com', 'Non-binary', '230.29.167.195');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Paulich', 'mpaulich6a@google.cn', 'Male', '96.96.13.2');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Bahde', 'ebahde6b@vkontakte.ru', 'Female', '113.125.82.117');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Viggers', 'eviggers6c@4shared.com', 'Agender', '112.246.168.246');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Cheers', 'tcheers6d@reuters.com', 'Male', '71.51.136.164');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Grewcock', 'agrewcock6e@fda.gov', 'Female', '46.115.208.42');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Keenor', 'bkeenor6f@imdb.com', 'Male', '82.130.95.66');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Joynson', 'djoynson6g@ovh.net', 'Female', '244.237.162.253');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Hulson', 'chulson6h@patch.com', 'Female', '106.194.7.235');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Culligan', 'gculligan6i@last.fm', 'Female', '81.61.214.145');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Streak', 'tstreak6j@freewebs.com', 'Male', '70.125.110.204');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Lorimer', 'plorimer6k@ycombinator.com', 'Male', '184.51.205.34');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Randell', 'krandell6l@w3.org', 'Female', '20.60.235.45');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Dewan', 'cdewan6m@latimes.com', 'Male', '155.37.239.133');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Brendeke', 'sbrendeke6n@cbc.ca', 'Male', '115.80.34.58');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Freyn', 'dfreyn6o@comcast.net', 'Genderqueer', '226.161.102.22');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Keyes', 'dkeyes6p@bloglines.com', 'Male', '174.52.213.220');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Edbrooke', 'hedbrooke6q@slideshare.net', 'Male', '10.225.127.8');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Pithie', 'ppithie6r@tinyurl.com', 'Female', '44.141.120.130');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Pindar', 'rpindar6s@dropbox.com', 'Female', '213.144.67.3');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Goady', 'cgoady6t@bbb.org', 'Female', '214.202.216.246');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'altro', 'Perrie', 'rperrie6u@phpbb.com', 'Male', '162.204.109.127');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'legno', 'Clewes', 'kclewes6v@arizona.edu', 'Male', '28.184.7.85');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'bronzo', 'Spaven', 'bspaven6w@merriam-webster.com', 'Polygender', '95.7.193.234');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, 'marmo', 'Shilladay', 'ashilladay6x@oracle.com', 'Female', '82.158.112.254');
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
-insert into scultura (ID, materiale, altezza, larghezza, statua, ip_address) values (null, null, null, null, null, null);
+INSERT INTO scultura (ID, materiale, altezza, larghezza, statua) VALUES
+(6257, 'legno', 145.5, 210.2, true),
+(6258, 'altro', 230.8, 150.5, false),
+(6259, 'bronzo', 180.3, 275.9, true),
+(6260, 'legno', 290.1, 120.4, false),
+(6261, 'bronzo', 115.6, 250.7, true),
+(6262, 'marmo', 240.2, 190.8, true),
+(6263, 'altro', 135.9, 280.1, false),
+(6264, 'legno', 270.4, 110.3, true),
+(6265, 'marmo', 160.7, 295.5, false),
+(6266, 'bronzo', 185.5, 140.2, true),
+(6267, 'bronzo', 220.1, 260.6, false),
+(6268, 'altro', 195.8, 175.4, true),
+(6269, 'legno', 150.3, 225.9, false),
+(6270, 'legno', 170.6, 180.1, true),
+(6271, 'marmo', 285.4, 165.7, false),
+(6272, 'marmo', 125.2, 205.8, true),
+(6273, 'altro', 215.9, 290.3, false),
+(6274, 'altro', 255.1, 135.6, true),
+(6275, 'bronzo', 190.5, 245.2, false),
+(6276, 'marmo', 275.8, 195.9, true),
+(6277, 'legno', 140.3, 155.4, false),
+(6278, 'altro', 235.6, 215.1, true),
+(6279, 'marmo', 265.4, 125.7, false),
+(6280, 'bronzo', 110.2, 285.8, true),
+(6281, 'bronzo', 295.9, 145.3, false),
+(6282, 'marmo', 175.1, 235.6, true),
+(6283, 'altro', 205.5, 185.2, false),
+(6284, 'altro', 165.8, 270.9, true),
+(6285, 'altro', 225.3, 115.4, false),
+(6286, 'marmo', 245.6, 255.1, true),
+(6287, 'marmo', 130.4, 200.7, false),
+(6288, 'marmo', 185.2, 295.8, true),
+(6289, 'bronzo', 210.9, 150.3, false),
+(6290, 'bronzo', 280.1, 220.6, true),
+(6291, 'altro', 155.5, 170.2, false),
+(6292, 'legno', 250.8, 280.9, true),
+(6293, 'altro', 195.3, 130.4, false),
+(6294, 'legno', 260.6, 240.1, true),
+(6295, 'altro', 120.4, 190.7, false),
+(6296, 'bronzo', 270.2, 210.8, true),
+(6297, 'altro', 145.9, 265.3, false),
+(6298, 'altro', 230.1, 145.6, true),
+(6299, 'altro', 180.5, 255.2, false),
+(6300, 'bronzo', 290.8, 175.9, true),
+(6301, 'legno', 115.3, 285.4, false),
+(6302, 'legno', 240.6, 125.1, true),
+(6303, 'legno', 135.4, 235.7, false),
+(6304, 'altro', 270.2, 165.8, true),
+(6305, 'marmo', 160.9, 215.3, false),
+(6306, 'legno', 185.1, 275.6, true),
+(6307, 'legno', 220.5, 195.2, false),
+(6308, 'marmo', 195.8, 155.9, true),
+(6309, 'altro', 150.3, 290.4, false),
+(6310, 'marmo', 170.6, 135.1, true),
+(6311, 'legno', 285.4, 245.7, false),
+(6312, 'altro', 125.2, 115.8, true),
+(6313, 'marmo', 215.9, 260.3, false),
+(6314, 'marmo', 255.1, 185.6, true),
+(6315, 'legno', 190.5, 205.2, false),
+(6316, 'altro', 275.8, 140.9, true),
+(6317, 'legno', 140.3, 295.4, false),
+(6318, 'marmo', 235.6, 150.1, true),
+(6319, 'altro', 265.4, 220.7, false),
+(6320, 'legno', 110.2, 170.8, true),
+(6321, 'marmo', 295.9, 280.3, false),
+(6322, 'marmo', 175.1, 130.6, true),
+(6323, 'altro', 205.5, 240.2, false),
+(6324, 'bronzo', 165.8, 190.9, true),
+(6325, 'altro', 225.3, 265.4, false),
+(6326, 'legno', 245.6, 145.1, true),
+(6327, 'altro', 130.4, 255.7, false),
+(6328, 'altro', 185.2, 175.8, true),
+(6329, 'altro', 210.9, 285.3, false),
+(6330, 'legno', 280.1, 125.6, true),
+(6331, 'legno', 155.5, 235.2, false),
+(6332, 'bronzo', 250.8, 165.9, true),
+(6333, 'bronzo', 195.3, 215.4, false),
+(6334, 'marmo', 260.6, 275.1, true),
+(6335, 'bronzo', 120.4, 195.7, false),
+(6336, 'altro', 270.2, 155.8, true),
+(6337, 'legno', 145.9, 290.3, false),
+(6338, 'altro', 230.1, 135.6, true),
+(6339, 'legno', 180.5, 245.2, false),
+(6340, 'marmo', 290.8, 160.9, true),
+(6341, 'altro', 115.3, 210.4, false),
+(6342, 'bronzo', 240.6, 280.1, true),
+(6343, 'altro', 135.4, 150.7, false),
+(6344, 'bronzo', 270.2, 230.8, true),
+(6345, 'bronzo', 160.9, 180.3, false),
+(6346, 'bronzo', 185.1, 260.6, true),
+(6347, 'legno', 220.5, 120.2, false),
+(6348, 'legno', 195.8, 205.9, true),
+(6349, 'bronzo', 150.3, 295.4, false),
+(6350, 'bronzo', 170.6, 175.1, true),
+(6351, 'bronzo', 285.4, 225.7, false),
+(6352, 'altro', 125.2, 140.8, true),
+(6353, 'marmo', 215.9, 270.3, false),
+(6354, 'marmo', 255.1, 115.6, true),
+(6355, 'bronzo', 190.5, 240.2, false),
+(6356, 'marmo', 275.8, 190.9, true),
+(6357, 'legno', 120.3, 280.4, false),
+(6358, 'bronzo', 230.6, 155.1, true),
+(6359, 'altro', 185.4, 210.7, false),
+(6360, 'marmo', 150.2, 130.8, true),
+(6361, 'marmo', 290.9, 265.3, false),
+(6362, 'legno', 140.1, 180.6, true),
+(6363, 'bronzo', 215.5, 295.2, false),
+(6364, 'altro', 270.8, 125.9, true),
+(6365, 'marmo', 160.3, 245.4, false),
+(6366, 'legno', 195.6, 170.1, true),
+(6367, 'altro', 255.4, 220.7, false),
+(6368, 'bronzo', 115.2, 145.8, true),
+(6369, 'legno', 240.9, 275.3, false),
+(6370, 'marmo', 135.1, 190.6, true),
+(6371, 'altro', 285.5, 110.2, false),
+(6372, 'bronzo', 175.8, 235.9, true),
+(6373, 'legno', 205.3, 285.4, false),
+(6374, 'marmo', 125.6, 160.1, true),
+(6375, 'altro', 265.4, 250.7, false),
+(6376, 'bronzo', 145.2, 135.8, true),
+(6377, 'legno', 235.9, 205.3, false),
+(6378, 'marmo', 180.1, 260.6, true),
+(6379, 'altro', 295.5, 115.2, false),
+(6380, 'bronzo', 110.8, 240.9, true),
+(6381, 'legno', 225.3, 185.4, false),
+(6382, 'marmo', 165.6, 290.1, true),
+(6383, 'altro', 275.4, 140.7, false),
+(6384, 'bronzo', 130.2, 215.8, true),
+(6385, 'legno', 250.9, 165.3, false),
+(6386, 'marmo', 190.1, 275.6, true),
+(6387, 'altro', 155.5, 120.2, false),
+(6388, 'bronzo', 280.8, 230.9, true),
+(6389, 'legno', 120.3, 195.4, false),
+(6390, 'marmo', 210.6, 150.1, true),
+(6391, 'altro', 260.4, 280.7, false),
+(6392, 'bronzo', 140.2, 130.8, true),
+(6393, 'legno', 290.9, 245.3, false),
+(6394, 'marmo', 170.1, 175.6, true),
+(6395, 'altro', 230.5, 265.2, false),
+(6396, 'bronzo', 115.8, 110.9, true),
+(6397, 'legno', 205.3, 210.4, false),
+(6398, 'marmo', 255.6, 295.1, true),
+(6399, 'altro', 135.4, 160.7, false),
+(6400, 'bronzo', 270.2, 235.8, true),
+(6401, 'legno', 185.9, 145.3, false),
+(6402, 'marmo', 150.1, 285.6, true),
+(6403, 'altro', 240.5, 125.2, false),
+(6404, 'bronzo', 285.8, 190.9, true),
+(6405, 'legno', 125.3, 255.4, false),
+(6406, 'marmo', 215.6, 170.1, true),
+(6407, 'altro', 160.4, 220.7, false),
+(6408, 'bronzo', 295.2, 290.8, true),
+(6409, 'legno', 175.9, 135.3, false),
+(6410, 'marmo', 265.1, 240.6, true),
+(6411, 'altro', 110.5, 185.2, false),
+(6412, 'bronzo', 235.8, 155.9, true),
+(6413, 'legno', 145.3, 260.4, false),
+(6414, 'marmo', 280.6, 115.1, true),
+(6415, 'altro', 190.4, 205.7, false),
+(6416, 'bronzo', 130.2, 275.8, true),
+(6417, 'legno', 250.9, 140.3, false),
+(6418, 'marmo', 205.1, 230.6, true),
+(6419, 'altro', 275.5, 295.2, false),
+(6420, 'bronzo', 155.8, 120.9, true),
+(6421, 'legno', 225.3, 195.4, false),
+(6422, 'marmo', 180.6, 250.1, true),
+(6423, 'altro', 290.4, 165.7, false),
+(6424, 'bronzo', 120.2, 225.8, true),
+(6425, 'legno', 260.9, 280.3, false),
+(6426, 'marmo', 140.1, 130.6, true),
+(6427, 'altro', 210.5, 210.2, false),
+(6428, 'bronzo', 270.8, 265.9, true),
+(6429, 'legno', 165.3, 110.4, false),
+(6430, 'marmo', 245.6, 180.1, true),
+(6431, 'altro', 195.4, 245.7, false),
+(6432, 'bronzo', 115.2, 290.8, true),
+(6433, 'legno', 285.9, 150.3, false),
+(6434, 'marmo', 135.1, 220.6, true),
+(6435, 'altro', 230.5, 270.2, false),
+(6436, 'bronzo', 185.8, 125.9, true),
+(6437, 'legno', 255.3, 195.4, false),
+(6438, 'marmo', 150.6, 255.1, true),
+(6439, 'altro', 295.4, 285.7, false),
+(6440, 'bronzo', 170.2, 145.8, true),
+(6441, 'legno', 220.9, 215.3, false),
+(6442, 'marmo', 125.1, 260.6, true),
+(6443, 'altro', 275.5, 115.2, false),
+(6444, 'bronzo', 190.8, 185.9, true),
+(6445, 'legno', 240.3, 230.4, false),
+(6446, 'marmo', 145.6, 295.1, true),
+(6447, 'altro', 280.4, 155.7, false),
+(6448, 'bronzo', 160.2, 205.8, true),
+(6449, 'legno', 205.9, 275.3, false),
+(6450, 'marmo', 265.1, 120.6, true),
+(6451, 'altro', 110.5, 170.2, false),
+(6452, 'bronzo', 235.8, 240.9, true),
+(6453, 'legno', 180.3, 280.4, false),
+(6454, 'marmo', 290.6, 135.1, true),
+(6455, 'altro', 130.4, 190.7, false),
+(6456, 'bronzo', 250.2, 250.8, true),
+(6457, 'legno', 195.9, 290.3, false),
+(6458, 'marmo', 225.1, 140.6, true),
+(6459, 'altro', 140.5, 200.2, false),
+(6460, 'bronzo', 270.8, 265.9, true),
+(6461, 'legno', 165.3, 110.4, false),
+(6462, 'marmo', 210.6, 175.1, true),
+(6463, 'altro', 285.4, 235.7, false),
+(6464, 'bronzo', 115.2, 275.8, true),
+(6465, 'legno', 245.9, 125.3, false),
+(6466, 'marmo', 185.1, 180.6, true),
+(6467, 'altro', 230.5, 250.2, false),
+(6468, 'bronzo', 150.8, 285.9, true),
+(6469, 'legno', 295.3, 145.4, false),
+(6470, 'marmo', 175.6, 215.1, true),
+(6471, 'altro', 205.4, 260.7, false),
+(6472, 'bronzo', 260.2, 115.8, true),
+(6473, 'legno', 125.9, 170.3, false),
+(6474, 'marmo', 280.1, 230.6, true),
+(6475, 'altro', 190.5, 295.2, false),
+(6476, 'bronzo', 220.8, 130.9, true),
+(6477, 'legno', 145.3, 195.4, false),
+(6478, 'marmo', 275.6, 255.1, true),
+(6479, 'altro', 160.4, 280.7, false),
+(6480, 'bronzo', 215.2, 140.8, true),
+(6481, 'legno', 255.9, 205.3, false),
+(6482, 'marmo', 130.1, 270.6, true),
+(6483, 'altro', 290.5, 110.2, false),
+(6484, 'bronzo', 180.8, 165.9, true),
+(6485, 'legno', 235.3, 225.4, false),
+(6486, 'marmo', 110.6, 285.1, true),
+(6487, 'altro', 265.4, 125.7, false),
+(6488, 'bronzo', 195.2, 185.8, true),
+(6489, 'legno', 155.9, 245.3, false),
+(6490, 'marmo', 285.1, 295.6, true),
+(6491, 'altro', 170.5, 145.2, false),
+(6492, 'bronzo', 225.8, 210.9, true),
+(6493, 'legno', 140.3, 275.4, false),
+(6494, 'marmo', 275.6, 115.1, true),
+(6495, 'altro', 205.4, 175.7, false),
+(6496, 'bronzo', 250.2, 235.8, true),
+(6497, 'legno', 135.9, 280.3, false),
+(6498, 'marmo', 295.1, 130.6, true),
+(6499, 'altro', 185.5, 190.2, false),
+(6500, 'bronzo', 240.8, 255.9, true),
+(6501, 'legno', 115.3, 290.4, false),
+(6502, 'marmo', 260.6, 140.1, true),
+(6503, 'altro', 190.4, 200.7, false),
+(6504, 'bronzo', 215.2, 265.8, true),
+(6505, 'legno', 280.9, 110.3, false),
+(6506, 'marmo', 150.1, 165.6, true),
+(6507, 'altro', 235.5, 225.2, false);
