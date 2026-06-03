@@ -25,7 +25,7 @@ GROUP BY artista;
 
 --da sistemare 
 
-#Coppie di oggetti d'arte che sono sempre stati esposti assieme
+-- Coppie di oggetti d'arte che sono sempre stati esposti assieme
 SELECT ogg1.ID, ogg2.ID
 FROM ogg_esib AS ogg1 JOIN ogg_esib AS ogg2 ON ogg1.nomeEsibizione = ogg2.nomeEsibizione
 WHERE ogg1.ID < ogg2.ID AND NOT EXISTS (
@@ -59,3 +59,37 @@ WHERE e.nome NOT IN (
 
 
 -- Per ogni artista e il suo stile trovare la tipologia di ogg arte più frequentemente creata
+
+-- associa ad ogni oggetto il suo tipo
+CREATE VIEW v_tipo_oggetto AS
+SELECT o.ID, o.Artista, o.Stile, 'PITTURA' AS Tipo
+FROM OGG_ARTE AS o JOIN PITTURA AS p ON o.ID = p.ID
+UNION ALL
+SELECT o.ID, o.Artista, o.Stile, 'SCULTURA' AS Tipo
+FROM OGG_ARTE AS o JOIN SCULTURA AS s ON o.ID = s.ID
+UNION ALL
+SELECT o.ID, o.Artista, o.Stile, 'ANTIQUARIATO' AS Tipo
+FROM OGG_ARTE AS o JOIN OGG_ANTIQUARIATO AS a ON o.ID = a.ID
+UNION ALL
+SELECT o.ID, o.Artista, o.Stile, 'ALTRO' AS Tipo
+FROM OGG_ARTE AS o JOIN ALTRO AS alt ON o.ID = alt.ID;
+
+-- frequenza di ogni tipo per artista e stile
+CREATE VIEW v_frequenza_tipo AS
+SELECT a.Nome, a.StileP, vt.Tipo, COUNT(*) AS frequenza
+FROM ARTISTA AS a
+JOIN v_tipo_oggetto AS vt ON a.Nome = vt.Artista AND a.StileP = vt.Stile
+GROUP BY a.Nome, a.StileP, vt.Tipo;
+
+-- massimo per ogni artista e stile
+CREATE VIEW v_max_tipo AS
+SELECT Nome, StileP, MAX(frequenza) AS max_freq
+FROM v_frequenza_tipo
+GROUP BY Nome, StileP;
+
+
+SELECT vf.Nome, vf.StileP, vf.Tipo, vf.frequenza
+FROM v_frequenza_tipo AS vf
+JOIN v_max_tipo AS vm ON vf.Nome = vm.Nome AND vf.StileP = vm.StileP
+WHERE vf.frequenza = vm.max_freq
+ORDER BY vf.Nome;
