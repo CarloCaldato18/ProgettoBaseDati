@@ -1,499 +1,500 @@
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6507, null, '1968-10-11', '1/8/2020');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6508, null, '6/21/1979', '4/22/2008');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6509, null, '4/12/1992', '2/12/2023');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6510, null, '4/23/1929', '8/31/2004');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6511, null, '2/28/1953', '12/5/2012');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6512, null, '7/14/1939', '7/21/2003');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6513, null, '6/22/1920', '3/28/2004');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6514, null, '1910-16-12', '1/9/2019');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6515, null, '1953-11-12', '1/21/2018');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6516, null, '1923-20-11', '2/28/2005');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6517, null, '6/3/1913', '6/19/2015');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6518, null, '1/30/1954', '1/25/2023');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6519, null, '5/9/1962', '5/19/2001');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6520, null, '8/15/1937', '1/4/2020');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6521, null, '9/26/1963', '4/19/2025');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6522, null, '4/24/1901', '5/16/2001');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6523, null, '9/10/1993', '2/13/2019');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6524, null, '1/8/1941', '3/16/2017');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6525, null, '4/9/1943', '7/30/2013');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6526, null, '8/8/1911', '2012-29-11');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6527, null, '6/11/1995', '4/30/2002');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6528, null, '2/12/1981', '8/16/2005');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6529, null, '1919-26-12', '5/16/2012');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6530, null, '6/19/1951', '1/19/2020');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6531, null, '1/16/1974', '1/15/2013');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6532, null, '7/28/1935', '7/24/2016');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6533, null, '5/28/1956', '8/22/2002');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6534, null, '6/20/1998', '2/4/2003');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6535, null, '11/9/1920', '6/4/2021');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6536, null, '7/9/1934', '2011-22-11');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6537, null, '4/3/1993', '3/21/2022');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6538, null, '6/6/1990', '7/28/2011');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6539, null, '10/7/1976', '9/4/2021');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6540, null, '7/19/1947', '2001-22-10');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6541, null, '3/16/1907', '8/20/2008');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6542, null, '3/23/1976', '7/8/2008');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6543, null, '11/4/1993', '7/30/2009');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6544, null, '1/30/1976', '1/16/2008');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6545, null, '1987-26-11', '2011-24-12');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6546, null, '1905-13-10', '3/31/2016');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6547, null, '1978-31-12', '2010-28-10');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6548, null, '10/1/1953', '9/22/2005');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6549, null, '8/15/1950', '4/23/2019');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6550, null, '4/3/1942', '3/10/2023');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6551, null, '10/7/1996', '4/25/2026');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6552, null, '9/25/1911', '9/28/2018');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6553, null, '1/29/1906', '4/8/2007');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6554, null, '9/8/1960', '2021-27-12');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6555, null, '8/16/1940', '8/23/2021');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6556, null, '3/21/1960', '5/23/2008');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6557, null, '2/11/1939', '2004-17-12');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6558, null, '1/18/1906', '8/7/2000');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6559, null, '7/13/1982', '6/28/2015');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6560, null, '1990-20-12', '2/16/2010');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6561, null, '5/7/1962', '8/12/2009');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6562, null, '1965-29-12', '12/4/2021');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6563, null, '6/10/1998', '3/31/2007');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6564, null, '5/18/1944', '4/2/2025');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6565, null, '8/26/1931', '2/2/2004');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6566, null, '1/21/1971', '2019-17-10');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6567, null, '7/29/1928', '4/22/2004');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6568, null, '4/8/1936', '2001-30-10');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6569, null, '1/10/1910', '5/11/2008');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6570, null, '5/5/1978', '11/2/2018');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6571, null, '6/30/1998', '9/25/2022');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6572, null, '2/21/1912', '2019-27-11');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6573, null, '9/27/1960', '3/4/2012');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6574, null, '8/16/1934', '6/28/2010');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6575, null, '2/5/1903', '8/12/2005');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6576, null, '8/25/1906', '4/30/2008');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6577, null, '4/10/1923', '10/1/2016');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6578, null, '1/8/1905', '5/14/2015');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6579, null, '5/31/1900', '8/17/2022');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6580, null, '4/23/1940', '3/8/2009');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6581, null, '3/17/2000', '3/15/2021');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6582, null, '7/22/1944', '4/12/2025');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6583, null, '1/2/1948', '2016-11-11');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6584, null, '7/23/1943', '8/24/2015');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6585, null, '1918-27-10', '11/2/2005');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6586, null, '7/14/1979', '6/4/2010');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6587, null, '5/15/1997', '11/8/2021');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6588, null, '1910-19-11', '2000-13-11');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6589, null, '4/20/1956', '2009-20-12');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6590, null, '1927-19-12', '8/29/2009');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6591, null, '1996-16-11', '6/25/2004');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6592, null, '1958-15-11', '1/10/2026');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6593, null, '4/11/1908', '2001-19-11');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6594, null, '3/18/1925', '7/14/2002');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6595, null, '3/14/1923', '7/4/2025');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6596, null, '10/7/1969', '8/22/2013');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6597, null, '7/25/1918', '12/1/2021');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6598, null, '1939-27-11', '5/23/2023');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6599, null, '5/8/1966', '7/9/2009');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6600, null, '2/6/1924', '6/30/2001');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6601, null, '8/31/1938', '4/18/2002');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6602, null, '5/17/1924', '7/21/2025');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6603, null, '5/12/1929', '9/12/2023');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6604, null, '4/5/1939', '5/21/2011');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6605, null, '6/27/1916', '2021-29-10');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6606, null, '9/4/1981', '9/30/2019');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6607, null, '7/18/1982', '5/7/2017');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6608, null, '4/17/1952', '6/24/2021');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6609, null, '1943-19-12', '3/13/2003');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6610, null, '8/16/1988', '2020-21-11');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6611, null, '4/8/1960', '7/30/2017');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6612, null, '9/19/1966', '2024-24-10');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6613, null, '2/17/1944', '4/28/2026');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6614, null, '9/9/1902', '5/8/2022');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6615, null, '6/29/1985', '2025-28-12');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6616, null, '9/15/1955', '6/30/2014');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6617, null, '1927-26-12', '6/5/2010');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6618, null, '4/9/1911', '9/13/2008');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6619, null, '4/3/1943', '7/13/2023');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6620, null, '6/11/1929', '11/9/2011');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6621, null, '5/5/1961', '6/7/2004');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6622, null, '5/19/1975', '4/22/2013');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6623, null, '5/21/1928', '3/11/2015');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6624, null, '1/26/1973', '4/20/2019');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6625, null, '8/17/1913', '9/2/2011');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6626, null, '8/3/1968', '1/25/2021');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6627, null, '8/10/1906', '9/19/2005');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6628, null, '1951-19-11', '2003-30-10');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6629, null, '1911-14-11', '2007-18-11');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6630, null, '3/3/1984', '1/29/2019');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6631, null, '12/6/1906', '9/5/2016');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6632, null, '2/21/1954', '2/23/2022');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6633, null, '1984-10-10', '1/14/2004');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6634, null, '7/6/1952', '2/10/2018');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6635, null, '2/4/1924', '3/22/2012');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6636, null, '12/1/1996', '1/6/2010');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6637, null, '7/7/1955', '7/7/2004');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6638, null, '5/13/1970', '9/30/2012');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6639, null, '2/22/1947', '2/20/2018');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6640, null, '5/26/1996', '7/3/2023');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6641, null, '1909-24-10', '4/13/2001');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6642, null, '6/16/1957', '7/12/2003');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6643, null, '3/19/1981', '8/23/2024');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6644, null, '3/10/1946', '3/9/2016');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6645, null, '1920-22-11', '9/3/2016');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6646, null, '3/19/1963', '4/17/2025');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6647, null, '2/22/1944', '3/26/2012');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6648, null, '11/1/1936', '9/25/2002');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6649, null, '4/2/1962', '4/18/2007');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6650, null, '4/10/1902', '4/3/2009');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6651, null, '9/20/1941', '2/17/2004');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6652, null, '1/5/1979', '3/16/2026');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6653, null, '1924-24-11', '2024-20-11');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6654, null, '2/16/1904', '9/24/2008');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6655, null, '2/5/1959', '3/18/2007');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6656, null, '1/10/1967', '5/27/2004');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6657, null, '4/24/1986', '2/4/2006');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6658, null, '2/1/1917', '2/20/2018');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6659, null, '7/19/1953', '1/16/2001');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6660, null, '7/29/1969', '3/1/2008');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6661, null, '9/13/1988', '7/3/2010');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6662, null, '8/2/1982', '7/2/2016');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6663, null, '6/17/1912', '6/19/2007');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6664, null, '8/21/1978', '6/18/2020');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6665, null, '9/1/1976', '2/25/2011');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6666, null, '1990-23-11', '3/31/2022');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6667, null, '9/4/1970', '4/24/2025');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6668, null, '3/28/1937', '1/22/2007');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6669, null, '1905-30-10', '9/21/2022');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6670, null, '1949-22-12', '2006-17-12');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6671, null, '9/19/1902', '1/17/2022');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6672, null, '9/24/1995', '8/24/2005');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6673, null, '9/29/1928', '6/9/2016');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6674, null, '7/16/1947', '5/5/2019');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6675, null, '1903-25-10', '1/23/2025');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6676, null, '3/25/1902', '2/5/2021');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6677, null, '1/20/1958', '7/12/2018');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6678, null, '3/6/1942', '8/23/2005');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6679, null, '4/8/1951', '8/9/2016');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6680, null, '1/11/1902', '9/3/2018');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6681, null, '1987-25-11', '2/7/2025');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6682, null, '1984-15-12', '7/27/2010');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6683, null, '8/13/1939', '3/21/2019');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6684, null, '8/26/1967', '9/18/2002');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6685, null, '3/30/1932', '2/8/2007');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6686, null, '2/7/1979', '1/20/2015');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6687, null, '3/20/1984', '5/29/2011');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6688, null, '3/19/1986', '6/11/2004');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6689, null, '1972-27-11', '2020-15-11');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6690, null, '5/6/1925', '4/20/2016');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6691, null, '9/15/1937', '6/27/2021');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6692, null, '2/28/1902', '8/25/2022');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6693, null, '12/8/1900', '3/11/2003');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6694, null, '8/1/1944', '9/1/2016');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6695, null, '9/1/1972', '7/14/2023');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6696, null, '2/15/1933', '6/23/2023');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6697, null, '1994-11-12', '2013-14-10');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6698, null, '10/8/1979', '7/9/2003');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6699, null, '4/26/1932', '4/4/2018');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6700, null, '10/4/1932', '2018-12-10');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6701, null, '1975-20-10', '9/24/2004');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6702, null, '6/24/1961', '8/29/2008');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6703, null, '1/27/1982', '4/26/2020');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6704, null, '5/21/1970', '2002-29-11');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6705, null, '1963-23-11', '11/7/2013');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6706, null, '1903-23-11', '3/13/2003');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6707, null, '1905-28-11', '11/8/2017');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6708, null, '6/22/1958', '7/30/2004');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6709, null, '1983-25-10', '7/6/2021');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6710, null, '1/1/1985', '5/30/2013');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6711, null, '1917-30-10', '9/28/2014');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6712, null, '8/13/1909', '1/2/2010');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6713, null, '1946-16-12', '2/1/2002');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6714, null, '7/3/1924', '5/4/2025');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6715, null, '3/28/1951', '12/7/2012');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6716, null, '1/27/1941', '6/19/2017');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6717, null, '1946-11-10', '7/19/2010');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6718, null, '8/4/1910', '6/26/2007');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6719, null, '5/15/1901', '9/27/2006');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6720, null, '1/18/1954', '2021-22-11');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6721, null, '6/25/1912', '1/14/2012');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6722, null, '9/16/1923', '8/29/2007');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6723, null, '5/1/2000', '9/28/2016');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6724, null, '1911-12-10', '11/7/2007');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6725, null, '1900-28-11', '3/3/2011');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6726, null, '2/1/1930', '1/18/2007');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6727, null, '1990-17-12', '4/25/2012');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6728, null, '1/31/1993', '5/7/2006');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6729, null, '1/23/1936', '9/20/2006');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6730, null, '2/12/1988', '1/7/2014');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6731, null, '4/13/1969', '2017-17-10');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6732, null, '8/27/1996', '2/26/2015');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6733, null, '11/3/1999', '5/17/2023');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6734, null, '1917-12-10', '3/6/2012');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6735, null, '1975-24-11', '9/28/2006');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6736, null, '5/22/1941', '9/3/2018');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6737, null, '1904-12-10', '3/3/2005');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6738, null, '5/21/1929', '6/10/2015');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6739, null, '7/22/1985', '5/21/2019');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6740, null, '9/13/1927', '2/28/2015');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6741, null, '8/11/1937', '11/1/2019');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6742, null, '1/4/1996', '6/23/2003');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6743, null, '1/15/1966', '7/28/2020');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6744, null, '5/28/1980', '7/17/2016');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6745, null, '1/8/1920', '4/24/2020');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6746, null, '3/12/1996', '9/15/2003');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6747, null, '7/9/1989', '11/5/2003');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6748, null, '1951-26-11', '2/14/2022');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6749, null, '4/27/1987', '4/18/2021');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6750, null, '11/9/1933', '2015-27-12');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6751, null, '1/2/1967', '3/12/2001');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6752, null, '5/11/1995', '3/24/2021');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6753, null, '1/20/1978', '2005-12-12');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6754, null, '1/14/1903', '9/15/2000');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6755, null, '4/18/1908', '2/18/2003');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6756, null, '8/15/1901', '2/25/2003');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6757, null, '5/6/1974', '8/3/2012');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6758, null, '5/10/1925', '3/10/2025');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6759, null, '8/18/1951', '4/5/2002');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6760, null, '3/1/1949', '6/22/2019');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6761, null, '10/1/1987', '5/15/2007');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6762, null, '9/7/1996', '2023-15-10');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6763, null, '1971-22-12', '7/22/2002');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6764, null, '3/21/1913', '8/2/2014');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6765, null, '9/19/1903', '7/10/2018');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6766, null, '1/8/1948', '7/6/2004');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6767, null, '1990-10-12', '2000-11-11');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6768, null, '1999-31-12', '2002-30-11');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6769, null, '10/9/1932', '2/11/2021');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6770, null, '8/2/1960', '9/16/2015');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6771, null, '7/23/1934', '4/26/2016');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6772, null, '8/22/1935', '10/9/2001');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6773, null, '6/3/1918', '1/18/2023');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6774, null, '1904-19-12', '6/1/2005');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6775, null, '4/12/1959', '11/7/2005');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6776, null, '1/5/1912', '4/4/2005');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6777, null, '12/5/1948', '9/24/2023');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6778, null, '1907-26-11', '5/9/2002');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6779, null, '9/27/1986', '7/26/2016');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6780, null, '8/12/1946', '2/21/2020');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6781, null, '4/23/1972', '12/1/2000');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6782, null, '2/18/1990', '2/11/2012');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6783, null, '4/2/1920', '4/20/2002');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6784, null, '1/3/1943', '9/14/2021');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6785, null, '4/7/1920', '5/20/2004');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6786, null, '1976-19-12', '7/31/2024');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6787, null, '5/10/1961', '4/10/2018');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6788, null, '7/21/1972', '5/11/2014');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6789, null, '2/2/1957', '2006-10-10');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6790, null, '8/22/1998', '5/9/2009');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6791, null, '8/14/1936', '7/22/2016');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6792, null, '3/9/1978', '3/9/2006');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6793, null, '1927-14-10', '2/1/2001');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6794, null, '4/12/1960', '12/4/2015');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6795, null, '9/9/1944', '2001-27-10');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6796, null, '2/20/1949', '5/31/2002');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6797, null, '9/14/1905', '4/10/2013');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6798, null, '1/3/1982', '4/24/2018');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6799, null, '8/27/1926', '1/10/2013');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6800, null, '1939-19-10', '6/27/2025');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6801, null, '5/5/1971', '2/27/2017');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6802, null, '2/11/1936', '8/29/2021');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6803, null, '2/7/1942', '9/14/2021');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6804, null, '6/8/1969', '2003-22-12');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6805, null, '1928-23-11', '2005-14-11');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6806, null, '3/3/2000', '6/19/2021');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6807, null, '1/1/1920', '6/19/2021');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6808, null, '12/1/1991', '1/19/2020');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6809, null, '11/1/1983', '6/11/2016');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6810, null, '2/13/1955', '3/23/2010');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6811, null, '2/17/1944', '5/12/2013');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6812, null, '9/13/1918', '4/8/2019');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6813, null, '1938-16-10', '5/11/2002');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6814, null, '4/20/1928', '8/20/2015');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6815, null, '11/5/1959', '5/3/2013');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6816, null, '1/28/1968', '5/2/2015');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6817, null, '12/7/1943', '2016-26-12');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6818, null, '6/6/1980', '7/3/2012');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6819, null, '8/7/1938', '2/15/2026');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6820, null, '10/9/1991', '5/29/2006');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6821, null, '3/24/1949', '12/4/2019');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6822, null, '10/3/1998', '2/18/2005');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6823, null, '1928-13-10', '8/24/2014');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6824, null, '1/8/2000', '9/25/2015');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6825, null, '1921-30-12', '4/29/2005');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6826, null, '2/1/1942', '2022-31-12');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6827, null, '1911-29-12', '2003-28-12');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6828, null, '1916-13-10', '2/12/2003');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6829, null, '2/16/1932', '10/3/2007');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6830, null, '2/18/1920', '2025-20-11');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6831, null, '1923-28-11', '6/7/2015');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6832, null, '3/15/1976', '8/19/2007');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6833, null, '5/1/1909', '1/24/2009');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6834, null, '5/1/1955', '5/26/2020');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6835, null, '5/8/1906', '10/1/2005');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6836, null, '12/6/1949', '9/1/2019');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6837, null, '1932-31-12', '7/9/2024');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6838, null, '10/9/1993', '2014-11-12');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6839, null, '1921-20-12', '1/3/2008');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6840, null, '4/4/1916', '1/19/2001');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6841, null, '10/5/1979', '4/5/2016');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6842, null, '1983-12-10', '3/16/2021');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6843, null, '6/4/1944', '1/16/2016');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6844, null, '2/13/1926', '6/12/2015');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6845, null, '9/23/1943', '5/24/2002');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6846, null, '9/22/1917', '5/21/2019');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6847, null, '4/21/1931', '4/25/2020');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6848, null, '1965-26-11', '2015-25-11');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6849, null, '4/19/1909', '5/28/2012');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6850, null, '5/30/1942', '6/15/2022');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6851, null, '5/1/1985', '12/7/2024');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6852, null, '1963-28-10', '7/7/2016');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6853, null, '9/22/1926', '4/30/2020');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6854, null, '7/8/1964', '7/13/2002');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6855, null, '1909-10-12', '8/13/2014');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6856, null, '1/8/1902', '2/12/2006');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6857, null, '11/6/1907', '1/19/2022');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6858, null, '5/14/1943', '9/3/2011');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6859, null, '1909-22-12', '4/12/2012');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6860, null, '8/9/1997', '4/14/2008');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6861, null, '1940-16-10', '9/13/2013');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6862, null, '1996-31-10', '8/4/2008');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6863, null, '1971-23-12', '8/25/2025');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6864, null, '1978-29-12', '7/20/2008');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6865, null, '10/4/1911', '9/17/2003');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6866, null, '3/3/1947', '2024-21-10');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6867, null, '1/11/1970', '6/23/2005');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6868, null, '3/20/1991', '6/4/2013');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6869, null, '10/5/1907', '2004-13-12');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6870, null, '2/11/1997', '2024-23-12');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6871, null, '6/11/1933', '6/22/2011');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6872, null, '7/4/1900', '3/11/2013');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6873, null, '1/29/1926', '1/10/2003');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6874, null, '9/23/1988', '8/3/2022');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6875, null, '9/20/1901', '12/6/2022');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6876, null, '1/23/1932', '5/19/2009');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6877, null, '1921-12-12', '3/1/2014');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6878, null, '4/26/1997', '2/21/2008');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6879, null, '2/27/1906', '1/9/2006');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6880, null, '4/14/1968', '3/11/2025');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6881, null, '1975-11-11', '1/6/2021');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6882, null, '7/11/1927', '2/18/2006');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6883, null, '9/26/1960', '2005-27-11');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6884, null, '8/15/1928', '2/25/2004');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6885, null, '1925-24-10', '8/20/2018');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6886, null, '1/17/1994', '8/7/2016');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6887, null, '10/3/1921', '5/2/2010');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6888, null, '3/18/1934', '2/6/2003');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6889, null, '6/3/1999', '8/14/2004');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6890, null, '6/3/1964', '6/16/2009');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6891, null, '4/11/1963', '1/18/2009');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6892, null, '3/9/1988', '3/8/2014');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6893, null, '1915-16-11', '12/1/2015');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6894, null, '1902-16-12', '2005-10-10');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6895, null, '10/5/1997', '6/13/2005');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6896, null, '6/22/1935', '1/21/2017');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6897, null, '1976-11-10', '7/8/2025');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6898, null, '1/16/1903', '9/30/2007');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6899, null, '1969-10-10', '4/19/2023');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6900, null, '9/22/1923', '9/18/2005');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6901, null, '1928-30-10', '6/8/2019');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6902, null, '1/25/1903', '8/14/2019');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6903, null, '1913-13-11', '5/8/2005');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6904, null, '7/23/1943', '2/13/2006');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6905, null, '1976-18-10', '6/18/2024');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6906, null, '3/22/1920', '12/3/2011');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6907, null, '1963-19-10', '2012-25-12');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6908, null, '4/23/1925', '1/31/2011');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6909, null, '5/13/1928', '2023-14-12');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6910, null, '6/28/1963', '9/6/2013');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6911, null, '1941-21-11', '3/18/2019');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6912, null, '3/13/1988', '8/18/2022');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6913, null, '2/6/2000', '7/10/2024');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6914, null, '5/5/1965', '2005-24-12');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6915, null, '11/3/1949', '4/8/2015');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6916, null, '6/25/1921', '1/3/2010');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6917, null, '1901-16-10', '4/25/2001');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6918, null, '1/6/1923', '2013-23-12');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6919, null, '8/17/1942', '6/28/2022');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6920, null, '7/6/1946', '5/14/2016');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6921, null, '8/27/1908', '7/1/2023');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6922, null, '1/7/1924', '3/25/2016');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6923, null, '7/28/1964', '8/6/2006');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6924, null, '5/15/1959', '6/19/2003');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6925, null, '12/3/1997', '2002-23-10');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6926, null, '1949-17-11', '2021-16-12');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6927, null, '3/12/1957', '7/7/2011');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6928, null, '1994-14-10', '6/4/2003');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6929, null, '6/22/1911', '2019-25-12');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6930, null, '7/27/1950', '2/24/2019');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6931, null, '2/17/1913', '7/23/2021');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6932, null, '9/21/1932', '3/21/2002');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6933, null, '1983-18-12', '8/19/2004');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6934, null, '1/10/1983', '2/11/2009');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6935, null, '1932-17-12', '2012-16-10');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6936, null, '2/12/1929', '6/25/2009');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6937, null, '1908-10-12', '6/20/2005');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6938, null, '1/17/1906', '9/11/2003');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6939, null, '1/30/1935', '2017-17-12');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6940, null, '12/7/1983', '9/13/2003');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6941, null, '3/2/1930', '9/16/2014');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6942, null, '9/18/1925', '3/27/2002');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6943, null, '12/4/1941', '9/14/2011');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6944, null, '3/26/1939', '10/2/2019');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6945, null, '9/21/1942', '4/26/2026');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6946, null, '7/20/1974', '2013-12-10');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6947, null, '2/29/1936', '3/30/2021');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6948, null, '7/7/1905', '1/23/2024');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6949, null, '8/10/1994', '1/18/2022');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6950, null, '3/4/1974', '2019-16-12');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6951, null, '6/17/1946', '9/16/2002');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6952, null, '1909-18-12', '1/20/2005');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6953, null, '9/28/1989', '6/2/2010');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6954, null, '1931-15-12', '9/13/2022');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6955, null, '2/16/1949', '2/12/2006');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6956, null, '4/20/1963', '12/7/2022');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6957, null, '3/8/1971', '4/19/2013');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6958, null, '1919-10-10', '9/29/2023');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6959, null, '3/24/1953', '7/30/2007');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6960, null, '1/16/1916', '6/1/2022');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6961, null, '10/3/1943', '2017-12-11');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6962, null, '10/7/1911', '6/14/2015');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6963, null, '1944-11-12', '5/11/2013');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6964, null, '1918-27-11', '9/4/2005');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6965, null, '8/18/1987', '11/9/2011');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6966, null, '4/21/1961', '8/25/2005');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6967, null, '1932-23-11', '2012-23-10');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6968, null, '1/20/1976', '2/27/2023');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6969, null, '7/23/1929', '5/30/2010');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6970, null, '2/7/1933', '3/19/2005');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6971, null, '6/25/1928', '4/29/2025');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6972, null, '1947-12-11', '8/23/2013');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6973, null, '5/26/1974', '4/28/2026');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6974, null, '1/19/1954', '2016-16-11');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6975, null, '1/8/1946', '8/10/2025');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6976, null, '3/30/1903', '5/11/2009');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6977, null, '5/31/1919', '7/19/2014');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6978, null, '1/16/1912', '2010-29-10');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6979, null, '9/14/1973', '4/23/2017');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6980, null, '4/21/1984', '2020-22-12');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6981, null, '1926-14-11', '2019-25-10');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6982, null, '7/16/1913', '2000-13-12');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6983, null, '6/8/1928', '5/28/2002');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6984, null, '9/17/1995', '3/27/2015');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6985, null, '7/15/1952', '1/27/2016');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6986, null, '5/14/1938', '2022-27-11');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6987, null, '2/25/1962', '8/4/2009');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6988, null, '7/24/1949', '6/23/2012');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6989, null, '7/15/1962', '6/25/2025');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6990, null, '3/30/1962', '2008-11-12');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6991, null, '1960-22-11', '7/3/2017');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6992, null, '2/5/1952', '6/13/2022');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6993, null, '4/30/1952', '5/24/2021');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6994, null, '5/30/1931', '1/1/2013');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6995, null, '3/31/1908', '5/12/2024');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6996, null, '4/24/1941', '2/17/2009');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6997, null, '1955-21-11', '4/6/2023');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6998, null, '7/30/1984', '4/5/2001');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (6999, null, '6/28/1949', '8/26/2012');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (7000, null, '7/19/1909', '6/22/2000');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (7001, null, '1/1/1909', '2000-17-12');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (7002, null, '10/1/1962', '6/23/2007');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (7003, null, '3/25/1941', '4/3/2005');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (7004, null, '4/1/1976', '2012-26-12');
-insert into Prestito (ID, collezioneprovenienza, inizioprestito, fineprestito) values (7005, null, '7/18/1991', '1/24/2005');
+INSERT INTO prestito (ID, collezioneProvenienza, inizioPrestito, finePrestito) VALUES 
+(6507, 'Polygonaceae', '1953/07/09', '2025/10/02'),
+(6508, 'Pinaceae', '1905/05/16', '2002/07/13'),
+(6509, 'Amaranthaceae', '1920/07/28', '2004/04/12'),
+(6510, 'Cyperaceae', '1905/12/02', '2016/09/04'),
+(6511, 'Verrucariaceae', '1966/10/05', '2023/11/15'),
+(6512, 'Asteraceae', '1968/01/21', '2023/05/08'),
+(6513, 'Ranunculaceae', '1946/10/17', '2015/06/20'),
+(6514, 'Brassicaceae', '1904/12/02', '2011/09/19'),
+(6515, 'Aizoaceae', '1997/10/22', '2004/01/31'),
+(6516, 'Nyctaginaceae', '1987/11/14', '2007/06/12'),
+(6517, 'Meliaceae', '1939/06/30', '2008/08/11'),
+(6518, 'Malvaceae', '1916/02/11', '2005/07/13'),
+(6519, 'Cyperaceae', '1987/10/20', '2018/04/27'),
+(6520, 'Salicaceae', '1964/09/27', '2000/09/28'),
+(6521, 'Asteraceae', '1928/04/04', '2014/08/05'),
+(6522, 'Orchidaceae', '1912/09/08', '2002/11/09'),
+(6523, 'Asteraceae', '1937/07/16', '2016/02/24'),
+(6524, 'Lamiaceae', '1913/01/26', '2017/02/18'),
+(6525, 'Asteraceae', '1951/10/22', '2002/09/28'),
+(6526, 'Dennstaedtiaceae', '1916/08/15', '2006/01/01'),
+(6527, 'Polytrichaceae', '1943/03/22', '2025/11/24'),
+(6528, 'Poaceae', '1992/01/13', '2005/12/28'),
+(6529, 'Polemoniaceae', '1963/10/11', '2002/02/20'),
+(6530, 'Scrophulariaceae', '1988/07/19', '2002/03/06'),
+(6531, 'Asclepiadaceae', '1999/08/07', '2023/12/21'),
+(6532, 'Poaceae', '1950/04/10', '2013/12/22'),
+(6533, 'Lichinaceae', '1978/02/24', '2001/07/10'),
+(6534, 'Poaceae', '1944/02/08', '2002/09/11'),
+(6535, 'Santalaceae', '1936/11/29', '2023/12/28'),
+(6536, 'Rutaceae', '1975/04/27', '2005/12/31'),
+(6537, 'Symplocaceae', '1966/06/14', '2011/07/31'),
+(6538, 'Liliaceae', '1948/09/05', '2006/09/21'),
+(6539, 'Fabaceae', '1998/08/20', '2018/07/29'),
+(6540, 'Piperaceae', '1969/05/29', '2007/05/28'),
+(6541, 'Myrtaceae', '1919/11/25', '2013/06/30'),
+(6542, 'Poaceae', '1994/07/29', '2016/02/27'),
+(6543, 'Malvaceae', '1989/02/25', '2015/09/21'),
+(6544, 'Cactaceae', '1986/02/10', '2022/12/30'),
+(6545, 'Fabaceae', '1960/06/17', '2001/03/19'),
+(6546, 'Piperaceae', '1990/06/17', '2016/07/06'),
+(6547, 'Cactaceae', '1904/02/24', '2014/12/01'),
+(6548, 'Campanulaceae', '1920/11/25', '2004/08/12'),
+(6549, 'Elaeocarpaceae', '1914/09/23', '2001/05/20'),
+(6550, 'Fabaceae', '1939/05/16', '2005/12/24'),
+(6551, 'Hydrophyllaceae', '1945/12/17', '2023/05/22'),
+(6552, 'Cyperaceae', '1946/06/16', '2012/04/14'),
+(6553, 'Euphorbiaceae', '1998/07/23', '2021/02/26'),
+(6554, 'Fabaceae', '1931/07/31', '2011/04/15'),
+(6555, 'Rhamnaceae', '1968/07/18', '2001/11/21'),
+(6556, 'Hydrophyllaceae', '1926/08/12', '2019/06/09'),
+(6557, 'Pteridaceae', '1912/02/11', '2001/02/11'),
+(6558, 'Lamiaceae', '1917/05/03', '2025/07/26'),
+(6559, 'Asteraceae', '1953/09/28', '2026/04/20'),
+(6560, 'Caryophyllaceae', '1990/08/26', '2003/10/20'),
+(6561, 'Asteraceae', '1900/11/04', '2014/08/29'),
+(6562, 'Dipterocarpaceae', '1916/11/09', '2004/10/19'),
+(6563, 'Asteraceae', '1962/11/02', '2024/09/16'),
+(6564, 'Polygalaceae', '1976/11/09', '2012/04/29'),
+(6565, 'Lecanoraceae', '1916/03/01', '2014/03/13'),
+(6566, 'Uncertain Ascomycota Family', '1977/10/11', '2003/06/22'),
+(6567, 'Rhamnaceae', '1931/04/13', '2016/11/12'),
+(6568, 'Cyperaceae', '1914/08/25', '2004/11/21'),
+(6569, 'Asteraceae', '1922/04/26', '2026/04/23'),
+(6570, 'Scrophulariaceae', '1968/07/01', '2003/02/11'),
+(6571, 'Polygonaceae', '1958/03/07', '2023/06/13'),
+(6572, 'Xyridaceae', '1911/06/12', '2012/02/28'),
+(6573, 'Bryaceae', '1983/10/19', '2015/11/17'),
+(6574, 'Caryophyllaceae', '1993/01/31', '2014/04/08'),
+(6575, 'Boraginaceae', '1953/06/20', '2009/08/27'),
+(6576, 'Crassulaceae', '1953/12/08', '2001/03/09'),
+(6577, 'Polygalaceae', '1986/02/02', '2022/07/25'),
+(6578, 'Fabaceae', '1946/06/22', '2025/05/01'),
+(6579, 'Cyperaceae', '1967/01/17', '2013/07/25'),
+(6580, 'Polemoniaceae', '1931/07/30', '2026/03/15'),
+(6581, 'Chenopodiaceae', '1929/03/13', '2014/09/06'),
+(6582, 'Scrophulariaceae', '1910/12/15', '2017/04/30'),
+(6583, 'Brassicaceae', '1987/05/01', '2017/04/30'),
+(6584, 'Polemoniaceae', '1997/10/30', '2010/12/12'),
+(6585, 'Liliaceae', '1987/09/26', '2008/11/19'),
+(6586, 'Parmeliaceae', '1924/08/19', '2022/07/12'),
+(6587, 'Asteraceae', '1907/04/05', '2018/10/11'),
+(6588, 'Fabaceae', '1957/01/13', '2021/03/26'),
+(6589, 'Rhamnaceae', '1997/07/28', '2018/12/28'),
+(6590, 'Asteraceae', '1975/07/01', '2013/04/26'),
+(6591, 'Flacourtiaceae', '1910/01/29', '2004/10/17'),
+(6592, 'Rosaceae', '1997/11/30', '2011/09/27'),
+(6593, 'Poaceae', '1958/03/16', '2001/09/10'),
+(6594, 'Campanulaceae', '1979/08/29', '2010/11/28'),
+(6595, 'Ericaceae', '1944/07/23', '2003/04/10'),
+(6596, 'Agavaceae', '1991/09/22', '2005/07/07'),
+(6597, 'Cyperaceae', '1938/10/01', '2012/09/01'),
+(6598, 'Cyperaceae', '1911/05/15', '2009/05/06'),
+(6599, 'Nyctaginaceae', '1923/02/08', '2017/01/05'),
+(6600, 'Saxifragaceae', '1944/04/21', '2018/12/02'),
+(6601, 'Amblystegiaceae', '1910/03/10', '2024/07/08'),
+(6602, 'Malvaceae', '1999/05/02', '2002/07/18'),
+(6603, 'Liliaceae', '1948/10/06', '2021/05/25'),
+(6604, 'Polygonaceae', '1977/06/23', '2002/09/24'),
+(6605, 'Asteraceae', '1937/12/31', '2021/12/24'),
+(6606, 'Pteridaceae', '1911/06/20', '2023/03/21'),
+(6607, 'Saxifragaceae', '1906/11/12', '2017/12/06'),
+(6608, 'Polypodiaceae', '1972/04/30', '2022/01/29'),
+(6609, 'Asteraceae', '1910/09/12', '2014/07/07'),
+(6610, 'Pottiaceae', '1990/12/30', '2024/02/02'),
+(6611, 'Asteraceae', '1900/06/10', '2009/06/22'),
+(6612, 'Lecideaceae', '1950/04/15', '2004/10/13'),
+(6613, 'Fabaceae', '1955/06/02', '2001/03/23'),
+(6614, 'Violaceae', '1962/03/05', '2009/09/01'),
+(6615, 'Poaceae', '1920/02/11', '2004/10/04'),
+(6616, 'Cyperaceae', '1981/12/25', '2022/05/29'),
+(6617, 'Asteraceae', '1903/11/14', '2023/08/21'),
+(6618, 'Asteraceae', '1919/11/07', '2014/06/20'),
+(6619, 'Capparaceae', '1968/12/14', '2022/05/02'),
+(6620, 'Asteraceae', '1921/04/30', '2020/12/13'),
+(6621, 'Andreaeaceae', '1925/05/23', '2010/08/31'),
+(6622, 'Rosaceae', '1963/08/27', '2025/04/14'),
+(6623, 'Parmeliaceae', '1943/05/04', '2018/01/23'),
+(6624, 'Asteraceae', '1910/09/22', '2021/03/23'),
+(6625, 'Hypnaceae', '1916/06/10', '2019/08/03'),
+(6626, 'Clavariaceae', '1953/10/06', '2001/03/16'),
+(6627, 'Asteraceae', '1993/01/20', '2021/01/23'),
+(6628, 'Catillariaceae', '1942/08/17', '2009/07/13'),
+(6629, 'Fabaceae', '1990/09/07', '2018/01/24'),
+(6630, 'Rutaceae', '1940/01/24', '2026/01/30'),
+(6631, 'Brassicaceae', '1967/05/23', '2006/06/13'),
+(6632, 'Plumbaginaceae', '1978/07/05', '2022/10/28'),
+(6633, 'Amaranthaceae', '1917/10/21', '2004/09/23'),
+(6634, 'Malvaceae', '1923/03/08', '2015/11/03'),
+(6635, 'Grammitidaceae', '1915/07/23', '2007/05/27'),
+(6636, 'Stictidaceae', '1949/06/07', '2022/04/06'),
+(6637, 'Grimmiaceae', '1913/10/18', '2024/08/12'),
+(6638, 'Bromeliaceae', '1902/10/22', '2007/08/20'),
+(6639, 'Rutaceae', '1915/10/23', '2022/08/11'),
+(6640, 'Asteraceae', '1923/01/20', '2012/12/12'),
+(6641, 'Buxbaumiaceae', '1957/12/16', '2005/12/13'),
+(6642, 'Arthoniaceae', '1921/07/27', '2022/05/04'),
+(6643, 'Ranunculaceae', '1973/11/30', '2010/11/22'),
+(6644, 'Ericaceae', '1992/10/11', '2002/03/01'),
+(6645, 'Verrucariaceae', '1907/10/28', '2013/07/19'),
+(6646, 'Hydrophyllaceae', '1994/03/22', '2025/11/26'),
+(6647, 'Asteraceae', '1961/04/03', '2018/03/04'),
+(6648, 'Fabaceae', '1913/04/03', '2014/12/06'),
+(6649, 'Apiaceae', '1910/04/22', '2011/08/04'),
+(6650, 'Fabaceae', '1974/10/17', '2022/07/09'),
+(6651, 'Timmiaceae', '1956/11/26', '2011/04/15'),
+(6652, 'Lecideaceae', '1984/04/21', '2017/07/25'),
+(6653, 'Amblystegiaceae', '1954/06/09', '2003/04/28'),
+(6654, 'Aceraceae', '1954/05/25', '2011/06/26'),
+(6655, 'Asteraceae', '1939/11/04', '2008/10/18'),
+(6656, 'Grimmiaceae', '1909/06/30', '2004/12/28'),
+(6657, 'Fabaceae', '1928/04/24', '2007/12/24'),
+(6658, 'Aspleniaceae', '1919/07/06', '2014/06/26'),
+(6659, 'Lycopodiaceae', '1918/02/09', '2015/06/24'),
+(6660, 'Brassicaceae', '1993/09/10', '2012/10/15'),
+(6661, 'Oxalidaceae', '1984/12/25', '2001/10/16'),
+(6662, 'Sphagnaceae', '1929/07/28', '2000/07/25'),
+(6663, 'Asteraceae', '1922/01/24', '2025/10/22'),
+(6664, 'Gentianaceae', '1996/12/06', '2008/11/11'),
+(6665, 'Scrophulariaceae', '1919/03/07', '2002/10/16'),
+(6666, 'Cyperaceae', '1930/08/15', '2022/07/12'),
+(6667, 'Apiaceae', '1934/01/18', '2006/02/04'),
+(6668, 'Fumariaceae', '1993/03/02', '2016/03/05'),
+(6669, 'Asteraceae', '1997/10/08', '2011/02/05'),
+(6670, 'Lecideaceae', '1903/10/02', '2023/08/24'),
+(6671, 'Asteraceae', '1956/07/12', '2025/12/23'),
+(6672, 'Amblystegiaceae', '1945/09/06', '2024/12/22'),
+(6673, 'Valerianaceae', '1929/10/31', '2003/03/12'),
+(6674, 'Brassicaceae', '1902/09/13', '2022/08/25'),
+(6675, 'Physciaceae', '1935/07/09', '2021/03/21'),
+(6676, 'Scrophulariaceae', '1949/05/24', '2024/11/13'),
+(6677, 'Pottiaceae', '1974/07/26', '2002/07/17'),
+(6678, 'Apiaceae', '1930/03/20', '2001/12/27'),
+(6679, 'Orchidaceae', '1961/09/25', '2014/11/28'),
+(6680, 'Poaceae', '1956/09/03', '2003/12/10'),
+(6681, 'Agavaceae', '1961/09/08', '2014/02/11'),
+(6682, 'Chenopodiaceae', '1994/09/05', '2017/07/20'),
+(6683, 'Asteraceae', '1973/05/01', '2011/02/02'),
+(6684, 'Liliaceae', '1915/11/19', '2020/01/18'),
+(6685, 'Portulacaceae', '1960/06/23', '2006/11/23'),
+(6686, 'Crassulaceae', '1957/04/13', '2021/04/29'),
+(6687, 'Fontinalaceae', '1966/08/30', '2004/08/14'),
+(6688, 'Baeomycetaceae', '1914/10/28', '2015/10/29'),
+(6689, 'Physciaceae', '1945/07/02', '2014/01/18'),
+(6690, 'Cyperaceae', '1911/04/21', '2006/08/12'),
+(6691, 'Liliaceae', '1987/04/30', '2026/02/19'),
+(6692, 'Aspleniaceae', '1957/08/28', '2011/06/23'),
+(6693, 'Asteraceae', '1944/05/21', '2010/01/24'),
+(6694, 'Asteraceae', '1931/10/17', '2006/06/15'),
+(6695, 'Hypnaceae', '1903/06/07', '2023/12/02'),
+(6696, 'Bryaceae', '1906/11/16', '2017/08/07'),
+(6697, 'Asteraceae', '1986/10/09', '2001/03/19'),
+(6698, 'Brassicaceae', '1917/01/22', '2018/01/23'),
+(6699, 'Cyperaceae', '1955/10/15', '2022/10/06'),
+(6700, 'Poaceae', '1974/11/30', '2000/07/14'),
+(6701, 'Poaceae', '1972/03/18', '2001/02/17'),
+(6702, 'Poaceae', '1975/09/12', '2009/12/23'),
+(6703, 'Onagraceae', '1908/07/16', '2023/12/09'),
+(6704, 'Fabaceae', '1957/06/18', '2008/04/29'),
+(6705, 'Cyperaceae', '1945/09/12', '2007/10/27'),
+(6706, 'Liliaceae', '1996/04/26', '2024/03/12'),
+(6707, 'Euphorbiaceae', '1940/08/27', '2020/10/11'),
+(6708, 'Fabaceae', '1912/08/09', '2007/10/11'),
+(6709, 'Onagraceae', '1928/08/22', '2009/04/02'),
+(6710, 'Asteraceae', '1985/10/31', '2022/04/20'),
+(6711, 'Fabaceae', '1927/04/18', '2003/03/18'),
+(6712, 'Ranunculaceae', '1952/01/29', '2023/02/17'),
+(6713, 'Bromeliaceae', '1986/01/31', '2022/09/19'),
+(6714, 'Cactaceae', '1919/12/11', '2009/11/23'),
+(6715, 'Fabaceae', '1990/10/26', '2025/02/08'),
+(6716, 'Menispermaceae', '1920/12/23', '2021/01/03'),
+(6717, 'Lamiaceae', '1988/07/13', '2006/01/14'),
+(6718, 'Boraginaceae', '1948/08/05', '2004/11/09'),
+(6719, 'Polygonaceae', '1987/02/25', '2015/08/08'),
+(6720, 'Asteraceae', '1901/03/12', '2019/10/29'),
+(6721, 'Cupressaceae', '1988/11/16', '2020/04/03'),
+(6722, 'Pottiaceae', '1963/04/21', '2019/12/20'),
+(6723, 'Poaceae', '1947/10/27', '2003/01/24'),
+(6724, 'Cyperaceae', '1977/10/25', '2001/06/16'),
+(6725, 'Hydrophyllaceae', '1933/01/09', '2003/04/19'),
+(6726, 'Asteraceae', '1977/07/22', '2013/02/08'),
+(6727, 'Lamiaceae', '1983/07/19', '2005/09/24'),
+(6728, 'Malpighiaceae', '1943/07/12', '2005/03/17'),
+(6729, 'Linaceae', '1983/10/02', '2001/11/16'),
+(6730, 'Marantaceae', '1965/11/12', '2005/09/01'),
+(6731, 'Pteridaceae', '1984/12/16', '2009/08/27'),
+(6732, 'Flacourtiaceae', '1996/03/06', '2014/03/24'),
+(6733, 'Convolvulaceae', '1969/12/06', '2012/08/07'),
+(6734, 'Oleaceae', '1990/01/19', '2007/04/28'),
+(6735, 'Aquifoliaceae', '1917/07/22', '2010/04/09'),
+(6736, 'Asteraceae', '1991/02/05', '2017/07/22'),
+(6737, 'Poaceae', '1979/03/17', '2010/12/12'),
+(6738, 'Scrophulariaceae', '1914/05/11', '2014/06/11'),
+(6739, 'Hydrophyllaceae', '1942/10/24', '2016/05/25'),
+(6740, 'Portulacaceae', '1947/09/16', '2010/01/11'),
+(6741, 'Cuscutaceae', '1984/12/13', '2023/05/31'),
+(6742, 'Fabaceae', '1916/01/12', '2017/02/02'),
+(6743, 'Fabaceae', '1912/01/31', '2006/02/19'),
+(6744, 'Polygonaceae', '1966/11/12', '2018/04/30'),
+(6745, 'Ranunculaceae', '1904/07/26', '2002/12/22'),
+(6746, 'Lecideaceae', '1926/10/09', '2004/01/25'),
+(6747, 'Arecaceae', '1968/12/08', '2013/04/22'),
+(6748, 'Potamogetonaceae', '1966/03/03', '2003/01/21'),
+(6749, 'Caryophyllaceae', '1985/12/16', '2011/01/31'),
+(6750, 'Betulaceae', '1928/03/26', '2010/07/27'),
+(6751, 'Polemoniaceae', '1945/10/24', '2023/07/28'),
+(6752, 'Clusiaceae', '1931/12/13', '2023/01/01'),
+(6753, 'Rubiaceae', '1925/01/30', '2017/07/19'),
+(6754, 'Buxbaumiaceae', '1926/05/16', '2008/05/26'),
+(6755, 'Ericaceae', '1968/05/14', '2007/02/15'),
+(6756, 'Saxifragaceae', '1940/09/08', '2026/05/01'),
+(6757, 'Fissidentaceae', '1901/09/01', '2012/09/16'),
+(6758, 'Gleicheniaceae', '1968/04/10', '2025/02/10'),
+(6759, 'Sterculiaceae', '1917/08/26', '2004/10/26'),
+(6760, 'Juglandaceae', '1998/09/29', '2017/10/04'),
+(6761, 'Bryaceae', '1991/02/05', '2003/10/28'),
+(6762, 'Fabaceae', '1914/04/16', '2018/05/08'),
+(6763, 'Asteraceae', '1994/01/15', '2000/10/10'),
+(6764, 'Polygonaceae', '1921/04/28', '2025/02/21'),
+(6765, 'Juncaceae', '1998/08/10', '2013/06/17'),
+(6766, 'Cyperaceae', '1973/04/02', '2011/04/12'),
+(6767, 'Cactaceae', '1952/03/06', '2023/07/19'),
+(6768, 'Poaceae', '1957/05/25', '2020/08/29'),
+(6769, 'Brassicaceae', '1931/10/08', '2016/09/14'),
+(6770, 'Liliaceae', '1937/03/10', '2019/09/04'),
+(6771, 'Betulaceae', '1991/11/10', '2001/08/05'),
+(6772, 'Asteraceae', '1912/06/05', '2009/08/31'),
+(6773, 'Asteraceae', '1928/12/24', '2026/03/10'),
+(6774, 'Urticaceae', '1938/08/04', '2008/10/26'),
+(6775, 'Fabaceae', '1989/09/29', '2018/12/23'),
+(6776, 'Acarosporaceae', '1909/02/21', '2025/05/12'),
+(6777, 'Verrucariaceae', '1910/06/19', '2023/01/24'),
+(6778, 'Cyperaceae', '1970/08/20', '2019/05/26'),
+(6779, 'Valerianaceae', '1931/02/27', '2022/10/31'),
+(6780, 'Bacidiaceae', '1970/08/07', '2003/02/09'),
+(6781, 'Cactaceae', '1989/07/04', '2013/12/01'),
+(6782, 'Cuscutaceae', '1909/02/28', '2021/04/09'),
+(6783, 'Lichinaceae', '1940/02/03', '2017/11/06'),
+(6784, 'Poaceae', '1931/07/24', '2015/04/26'),
+(6785, 'Commelinaceae', '1997/04/29', '2017/10/03'),
+(6786, 'Polemoniaceae', '1935/06/07', '2010/01/19'),
+(6787, 'Scrophulariaceae', '1927/03/21', '2022/10/27'),
+(6788, 'Apiaceae', '1927/05/29', '2008/10/12'),
+(6789, 'Asteraceae', '1920/11/12', '2025/08/31'),
+(6790, 'Scrophulariaceae', '1961/05/08', '2014/08/18'),
+(6791, 'Apiaceae', '1930/07/02', '2010/06/04'),
+(6792, 'Polygonaceae', '1944/02/23', '2007/11/20'),
+(6793, 'Asteraceae', '1937/12/12', '2010/08/17'),
+(6794, 'Apiaceae', '1974/05/10', '2001/03/05'),
+(6795, 'Rosaceae', '1983/09/16', '2007/01/19'),
+(6796, 'Caryophyllaceae', '1956/07/14', '2005/02/27'),
+(6797, 'Scrophulariaceae', '1939/05/30', '2021/08/13'),
+(6798, 'Ranunculaceae', '1911/09/21', '2013/01/14'),
+(6799, 'Celastraceae', '1984/07/02', '2004/12/28'),
+(6800, 'Poaceae', '1985/01/05', '2019/04/24'),
+(6801, 'Rosaceae', '1930/02/16', '2010/09/17'),
+(6802, 'Asteraceae', '1949/09/04', '2023/10/22'),
+(6803, 'Rubiaceae', '1937/09/27', '2025/07/29'),
+(6804, 'Liliaceae', '1945/01/07', '2024/04/17'),
+(6805, 'Asteraceae', '1953/02/08', '2025/08/09'),
+(6806, 'Meliaceae', '1990/08/06', '2019/01/20'),
+(6807, 'Arecaceae', '1939/02/07', '2025/11/21'),
+(6808, 'Lecanoraceae', '1982/03/08', '2023/06/11'),
+(6809, 'Dryopteridaceae', '1953/07/15', '2006/02/14'),
+(6810, 'Cyperaceae', '1944/10/27', '2013/11/03'),
+(6811, 'Convolvulaceae', '1907/11/29', '2026/03/16'),
+(6812, 'Myrtaceae', '1938/04/21', '2011/02/22'),
+(6813, 'Asteraceae', '1947/06/04', '2008/04/03'),
+(6814, 'Liliaceae', '1922/01/20', '2008/07/23'),
+(6815, 'Onagraceae', '1972/10/18', '2007/05/30'),
+(6816, 'Hippocastanaceae', '1998/03/12', '2011/05/31'),
+(6817, 'Nyctaginaceae', '1957/08/15', '2022/01/12'),
+(6818, 'Asteraceae', '1904/07/05', '2009/01/30'),
+(6819, 'Asteraceae', '1925/01/31', '2017/04/10'),
+(6820, 'Polypodiaceae', '1973/01/20', '2001/04/07'),
+(6821, 'Euphorbiaceae', '1941/08/05', '2017/07/05'),
+(6822, 'Malvaceae', '1916/08/16', '2010/07/16'),
+(6823, 'Fissidentaceae', '1906/01/23', '2016/08/14'),
+(6824, 'Violaceae', '1937/01/20', '2007/02/20'),
+(6825, 'Caryophyllaceae', '1943/04/03', '2020/06/21'),
+(6826, 'Nyctaginaceae', '1960/03/22', '2009/07/25'),
+(6827, 'Rosaceae', '1922/08/30', '2021/02/03'),
+(6828, 'Scrophulariaceae', '1980/12/09', '2024/01/04'),
+(6829, 'Poaceae', '1981/01/20', '2005/04/28'),
+(6830, 'Hydrophyllaceae', '1978/03/06', '2014/07/11'),
+(6831, 'Asteraceae', '1955/09/19', '2014/05/08'),
+(6832, 'Saxifragaceae', '1951/03/21', '2023/07/30'),
+(6833, 'Campanulaceae', '1970/12/31', '2021/08/30'),
+(6834, 'Asteraceae', '1951/11/11', '2006/05/22'),
+(6835, 'Gesneriaceae', '1914/12/30', '2001/01/04'),
+(6836, 'Caryophyllaceae', '1986/05/07', '2009/07/23'),
+(6837, 'Poaceae', '1987/05/24', '2017/10/29'),
+(6838, 'Asteraceae', '1924/01/28', '2005/03/24'),
+(6839, 'Fabaceae', '1985/12/07', '2008/09/26'),
+(6840, 'Portulacaceae', '1975/07/15', '2014/07/01'),
+(6841, 'Fabaceae', '1963/11/10', '2017/07/23'),
+(6842, 'Orchidaceae', '1973/09/05', '2011/11/25'),
+(6843, 'Asteraceae', '1953/12/17', '2016/09/25'),
+(6844, 'Saxifragaceae', '1978/11/01', '2014/02/20'),
+(6845, 'Apiaceae', '1988/11/28', '2006/08/30'),
+(6846, 'Splachnobryaceae', '1911/10/09', '2012/03/28'),
+(6847, 'Polygalaceae', '1954/08/16', '2016/08/08'),
+(6848, 'Scrophulariaceae', '1985/12/17', '2008/10/27'),
+(6849, 'Linaceae', '1917/10/24', '2008/03/30'),
+(6850, 'Juncaceae', '1994/10/17', '2023/01/01'),
+(6851, 'Sapotaceae', '1903/07/15', '2020/03/19'),
+(6852, 'Rosaceae', '1916/02/26', '2008/12/14'),
+(6853, 'Rosaceae', '1935/07/14', '2001/01/11'),
+(6854, 'Papaveraceae', '1930/02/04', '2014/10/23'),
+(6855, 'Campanulaceae', '1933/02/15', '2021/03/18'),
+(6856, 'Iridaceae', '1918/07/21', '2020/07/26'),
+(6857, 'Fabaceae', '1956/04/20', '2013/12/18'),
+(6858, 'Polygalaceae', '1964/02/16', '2006/04/18'),
+(6859, 'Pottiaceae', '1984/05/13', '2020/03/20'),
+(6860, 'Fabaceae', '1946/01/08', '2019/07/25'),
+(6861, 'Rubiaceae', '1963/08/19', '2024/09/15'),
+(6862, 'Lamiaceae', '1926/04/01', '2014/08/06'),
+(6863, 'Myrtaceae', '1939/07/02', '2019/12/12'),
+(6864, 'Ranunculaceae', '1976/09/12', '2005/11/11'),
+(6865, 'Asteraceae', '1938/06/14', '2014/08/04'),
+(6866, 'Euphorbiaceae', '1940/05/26', '2002/09/08'),
+(6867, 'Poaceae', '1994/08/04', '2015/08/24'),
+(6868, 'Cryphaeaceae', '1989/03/03', '2002/08/15'),
+(6869, 'Mayacaceae', '1938/06/26', '2016/09/23'),
+(6870, 'Campanulaceae', '1960/10/29', '2024/11/16'),
+(6871, 'Asteraceae', '1962/12/06', '2022/06/01'),
+(6872, 'Asteraceae', '1981/06/01', '2012/12/31'),
+(6873, 'Fagaceae', '1964/11/09', '2007/12/13'),
+(6874, 'Fabaceae', '1969/04/12', '2023/11/20'),
+(6875, 'Cactaceae', '1975/07/27', '2001/10/15'),
+(6876, 'Graphidaceae', '1926/10/26', '2005/08/27'),
+(6877, 'Cyperaceae', '1921/01/02', '2009/06/26'),
+(6878, 'Asteraceae', '1907/10/23', '2024/12/03'),
+(6879, 'Poaceae', '1996/09/29', '2001/04/05'),
+(6880, 'Fabaceae', '1926/10/29', '2014/03/08'),
+(6881, 'Grossulariaceae', '1946/07/25', '2009/06/30'),
+(6882, 'Myrtaceae', '1923/04/17', '2026/02/27'),
+(6883, 'Boraginaceae', '1902/12/27', '2014/05/08'),
+(6884, 'Scrophulariaceae', '1974/07/02', '2023/07/22'),
+(6885, 'Hydrophyllaceae', '1992/12/24', '2023/12/15'),
+(6886, 'Rosaceae', '1925/11/01', '2003/09/01'),
+(6887, 'Polemoniaceae', '1946/08/09', '2002/12/01'),
+(6888, 'Verbenaceae', '1984/03/27', '2004/01/17'),
+(6889, 'Fabaceae', '1977/01/18', '2025/09/17'),
+(6890, 'Asteraceae', '1942/10/14', '2017/03/27'),
+(6891, 'Asteraceae', '1973/03/07', '2011/03/26'),
+(6892, 'Asteraceae', '1991/11/22', '2003/10/29'),
+(6893, 'Scrophulariaceae', '1992/06/08', '2016/06/27'),
+(6894, 'Fabaceae', '1962/07/25', '2019/08/05'),
+(6895, 'Poaceae', '1951/03/20', '2025/01/14'),
+(6896, 'Poaceae', '1902/02/11', '2009/08/27'),
+(6897, 'Asteraceae', '1937/10/22', '2004/10/20'),
+(6898, 'Polygalaceae', '1980/10/26', '2006/02/04'),
+(6899, 'Scrophulariaceae', '1905/11/12', '2019/03/22'),
+(6900, 'Orchidaceae', '1961/06/13', '2003/05/18'),
+(6901, 'Myrsinaceae', '1944/07/11', '2025/02/05'),
+(6902, 'Parmeliaceae', '1900/11/22', '2022/05/27'),
+(6903, 'Rubiaceae', '1960/01/24', '2019/07/12'),
+(6904, 'Myrsinaceae', '1929/01/18', '2023/06/10'),
+(6905, 'Cactaceae', '1986/10/06', '2019/10/28'),
+(6906, 'Cyperaceae', '1932/03/13', '2019/01/06'),
+(6907, 'Scrophulariaceae', '1951/11/06', '2000/12/07'),
+(6908, 'Fabaceae', '1986/11/20', '2001/04/30'),
+(6909, 'Brassicaceae', '1923/03/27', '2007/10/11'),
+(6910, 'Poaceae', '1992/11/24', '2010/03/08'),
+(6911, 'Araceae', '1919/11/10', '2009/01/17'),
+(6912, 'Graphidaceae', '1942/04/18', '2006/04/26'),
+(6913, 'Poaceae', '1908/07/13', '2018/01/14'),
+(6914, 'Rosaceae', '1983/04/08', '2005/12/28'),
+(6915, 'Teloschistaceae', '1976/06/15', '2007/07/06'),
+(6916, 'Scrophulariaceae', '1955/05/18', '2019/09/23'),
+(6917, 'Aspleniaceae', '1936/05/08', '2020/03/18'),
+(6918, 'Cyperaceae', '1902/03/16', '2006/06/13'),
+(6919, 'Rosaceae', '1941/02/20', '2018/05/20'),
+(6920, 'Asteraceae', '1966/09/28', '2013/06/27'),
+(6921, 'Rosaceae', '1926/03/06', '2019/12/28'),
+(6922, 'Lichinaceae', '1986/04/13', '2008/08/17'),
+(6923, 'Poaceae', '1901/03/20', '2001/04/15'),
+(6924, 'Caryophyllaceae', '1995/07/23', '2004/07/02'),
+(6925, 'Cyperaceae', '1993/04/24', '2021/06/19'),
+(6926, 'Linaceae', '1966/09/01', '2022/11/17'),
+(6927, 'Paeoniaceae', '1913/01/15', '2023/06/04'),
+(6928, 'Lauraceae', '1972/10/15', '2004/09/14'),
+(6929, 'Scrophulariaceae', '1980/05/17', '2026/04/11'),
+(6930, 'Linaceae', '1997/08/03', '2021/06/03'),
+(6931, 'Dryopteridaceae', '1956/08/10', '2004/12/23'),
+(6932, 'Scrophulariaceae', '1932/08/02', '2001/06/20'),
+(6933, 'Rosaceae', '1917/08/22', '2004/07/08'),
+(6934, 'Lichinaceae', '1975/07/10', '2011/12/18'),
+(6935, 'Amblystegiaceae', '1916/04/20', '2007/04/20'),
+(6936, 'Poaceae', '1975/07/31', '2017/05/06'),
+(6937, 'Campanulaceae', '1911/09/09', '2018/08/09'),
+(6938, 'Cyperaceae', '1949/10/04', '2022/08/19'),
+(6939, 'Euphorbiaceae', '1951/05/30', '2003/03/07'),
+(6940, 'Portulacaceae', '1969/03/05', '2004/04/09'),
+(6941, 'Arecaceae', '1924/02/08', '2021/12/31'),
+(6942, 'Ranunculaceae', '1980/08/22', '2022/12/12'),
+(6943, 'Cyperaceae', '1923/01/14', '2023/09/12'),
+(6944, 'Poaceae', '1957/04/15', '2018/03/04'),
+(6945, 'Polemoniaceae', '1981/03/21', '2019/07/18'),
+(6946, 'Sapindaceae', '1954/08/31', '2024/04/05'),
+(6947, 'Hydrophyllaceae', '1964/07/15', '2003/02/20'),
+(6948, 'Fumariaceae', '1920/02/01', '2022/05/04'),
+(6949, 'Fagaceae', '1979/09/05', '2013/04/26'),
+(6950, 'Rosaceae', '1970/03/31', '2010/09/30'),
+(6951, 'Poaceae', '1996/11/07', '2022/03/05'),
+(6952, 'Asteraceae', '1997/07/14', '2004/12/08'),
+(6953, 'Valerianaceae', '1974/06/16', '2016/11/20'),
+(6954, 'Rubiaceae', '1953/07/19', '2018/11/30'),
+(6955, 'Asteraceae', '1954/01/01', '2009/06/11'),
+(6956, 'Rosaceae', '1992/12/10', '2003/06/02'),
+(6957, 'Loranthaceae', '1990/01/26', '2008/11/17'),
+(6958, 'Lamiaceae', '1958/07/02', '2021/09/29'),
+(6959, 'Campanulaceae', '1926/01/08', '2018/10/23'),
+(6960, 'Rhamnaceae', '1916/01/12', '2003/01/24'),
+(6961, 'Rosaceae', '1983/08/07', '2013/05/23'),
+(6962, 'Parmeliaceae', '1995/04/25', '2013/08/24'),
+(6963, 'Cuscutaceae', '1943/06/28', '2011/05/23'),
+(6964, 'Hydrangeaceae', '1963/11/30', '2002/04/12'),
+(6965, 'Nephromataceae', '1976/02/26', '2004/07/26'),
+(6966, 'Orobanchaceae', '1957/05/27', '2012/11/05'),
+(6967, 'Commelinaceae', '1982/10/06', '2019/09/04'),
+(6968, 'Caryophyllaceae', '1935/01/10', '2005/10/11'),
+(6969, 'Poaceae', '1928/03/06', '2022/11/13'),
+(6970, 'Asteraceae', '1968/12/31', '2022/04/26'),
+(6971, 'Liliaceae', '1915/07/19', '2025/09/21'),
+(6972, 'Ditrichaceae', '1933/03/27', '2003/02/22'),
+(6973, 'Polygonaceae', '1949/11/28', '2019/07/19'),
+(6974, 'Lamiaceae', '1966/09/27', '2017/07/05'),
+(6975, 'Asteraceae', '1989/01/09', '2016/05/14'),
+(6976, 'Fabaceae', '1920/12/24', '2019/09/02'),
+(6977, 'Poaceae', '1958/09/06', '2023/02/01'),
+(6978, 'Rhamnaceae', '1952/06/02', '2009/11/27'),
+(6979, 'Caprifoliaceae', '1998/08/03', '2002/02/09'),
+(6980, 'Fabaceae', '1952/09/17', '2008/02/24'),
+(6981, 'Calymperaceae', '1977/08/05', '2016/10/20'),
+(6982, 'Arthoniaceae', '1911/11/09', '2014/03/24'),
+(6983, 'Fabaceae', '1947/12/28', '2005/08/17'),
+(6984, 'Fabaceae', '1985/11/10', '2020/09/30'),
+(6985, 'Rubiaceae', '1923/08/31', '2010/05/24'),
+(6986, 'Pertusariaceae', '1958/06/07', '2012/06/28'),
+(6987, 'Portulacaceae', '1942/09/22', '2021/04/02'),
+(6988, 'Sapotaceae', '1942/09/22', '2021/04/26'),
+(6989, 'Myrtaceae', '1997/10/22', '2025/12/05'),
+(6990, 'Cyperaceae', '1996/03/06', '2022/01/12'),
+(6991, 'Scrophulariaceae', '1988/09/29', '2001/09/14'),
+(6992, 'Apiaceae', '1965/01/29', '2018/12/27'),
+(6993, 'Grossulariaceae', '1995/04/01', '2008/12/27'),
+(6994, 'Scrophulariaceae', '1948/06/24', '2024/08/08'),
+(6995, 'Rosaceae', '1995/11/09', '2015/02/08'),
+(6996, 'Thelotremataceae', '1956/09/29', '2003/03/19'),
+(6997, 'Araceae', '1979/09/11', '2011/05/14'),
+(6998, 'Polemoniaceae', '1964/05/01', '2005/09/09'),
+(6999, 'Clusiaceae', '1903/04/13', '2006/05/23'),
+(7000, 'Gesneriaceae', '1933/04/08', '2004/01/10'),
+(7001, 'Solanaceae', '1974/10/25', '2022/06/13'),
+(7002, 'Lamiaceae', '1913/08/15', '2006/11/28'),
+(7003, 'Scrophulariaceae', '1967/05/17', '2010/07/13'),
+(7004, 'Rubiaceae', '1979/05/03', '2014/10/21'),
+(7005, 'Asteraceae', '1920/02/15', '2011/10/21');
