@@ -1,247 +1,248 @@
-insert into altro (ID, Tipo) values (6759, 'manoscritto');
-insert into altro (ID, Tipo) values (6760, 'fotografia');
-insert into altro (ID, Tipo) values (6761, 'manoscritto');
-insert into altro (ID, Tipo) values (6762, 'stampa');
-insert into altro (ID, Tipo) values (6763, 'manoscritto');
-insert into altro (ID, Tipo) values (6764, 'altro');
-insert into altro (ID, Tipo) values (6765, 'manoscritto');
-insert into altro (ID, Tipo) values (6766, 'fotografia');
-insert into altro (ID, Tipo) values (6767, 'manoscritto');
-insert into altro (ID, Tipo) values (6768, 'manoscritto');
-insert into altro (ID, Tipo) values (6769, 'fotografia');
-insert into altro (ID, Tipo) values (6770, 'fotografia');
-insert into altro (ID, Tipo) values (6771, 'fotografia');
-insert into altro (ID, Tipo) values (6772, 'altro');
-insert into altro (ID, Tipo) values (6773, 'stampa');
-insert into altro (ID, Tipo) values (6774, 'fotografia');
-insert into altro (ID, Tipo) values (6775, 'manoscritto');
-insert into altro (ID, Tipo) values (6776, 'manoscritto');
-insert into altro (ID, Tipo) values (6777, 'fotografia');
-insert into altro (ID, Tipo) values (6778, 'manoscritto');
-insert into altro (ID, Tipo) values (6779, 'altro');
-insert into altro (ID, Tipo) values (6780, 'manoscritto');
-insert into altro (ID, Tipo) values (6781, 'altro');
-insert into altro (ID, Tipo) values (6782, 'stampa');
-insert into altro (ID, Tipo) values (6783, 'fotografia');
-insert into altro (ID, Tipo) values (6784, 'manoscritto');
-insert into altro (ID, Tipo) values (6785, 'manoscritto');
-insert into altro (ID, Tipo) values (6786, 'fotografia');
-insert into altro (ID, Tipo) values (6787, 'altro');
-insert into altro (ID, Tipo) values (6788, 'fotografia');
-insert into altro (ID, Tipo) values (6789, 'altro');
-insert into altro (ID, Tipo) values (6790, 'altro');
-insert into altro (ID, Tipo) values (6791, 'fotografia');
-insert into altro (ID, Tipo) values (6792, 'manoscritto');
-insert into altro (ID, Tipo) values (6793, 'stampa');
-insert into altro (ID, Tipo) values (6794, 'stampa');
-insert into altro (ID, Tipo) values (6795, 'manoscritto');
-insert into altro (ID, Tipo) values (6796, 'fotografia');
-insert into altro (ID, Tipo) values (6797, 'stampa');
-insert into altro (ID, Tipo) values (6798, 'altro');
-insert into altro (ID, Tipo) values (6799, 'manoscritto');
-insert into altro (ID, Tipo) values (6800, 'fotografia');
-insert into altro (ID, Tipo) values (6801, 'manoscritto');
-insert into altro (ID, Tipo) values (6802, 'fotografia');
-insert into altro (ID, Tipo) values (6803, 'manoscritto');
-insert into altro (ID, Tipo) values (6804, 'fotografia');
-insert into altro (ID, Tipo) values (6805, 'stampa');
-insert into altro (ID, Tipo) values (6806, 'fotografia');
-insert into altro (ID, Tipo) values (6807, 'fotografia');
-insert into altro (ID, Tipo) values (6808, 'manoscritto');
-insert into altro (ID, Tipo) values (6809, 'altro');
-insert into altro (ID, Tipo) values (6810, 'stampa');
-insert into altro (ID, Tipo) values (6811, 'manoscritto');
-insert into altro (ID, Tipo) values (6812, 'stampa');
-insert into altro (ID, Tipo) values (6813, 'fotografia');
-insert into altro (ID, Tipo) values (6814, 'manoscritto');
-insert into altro (ID, Tipo) values (6815, 'fotografia');
-insert into altro (ID, Tipo) values (6816, 'altro');
-insert into altro (ID, Tipo) values (6817, 'stampa');
-insert into altro (ID, Tipo) values (6818, 'altro');
-insert into altro (ID, Tipo) values (6819, 'manoscritto');
-insert into altro (ID, Tipo) values (6820, 'stampa');
-insert into altro (ID, Tipo) values (6821, 'fotografia');
-insert into altro (ID, Tipo) values (6822, 'manoscritto');
-insert into altro (ID, Tipo) values (6823, 'stampa');
-insert into altro (ID, Tipo) values (6824, 'stampa');
-insert into altro (ID, Tipo) values (6825, 'manoscritto');
-insert into altro (ID, Tipo) values (6826, 'stampa');
-insert into altro (ID, Tipo) values (6827, 'manoscritto');
-insert into altro (ID, Tipo) values (6828, 'fotografia');
-insert into altro (ID, Tipo) values (6829, 'altro');
-insert into altro (ID, Tipo) values (6830, 'fotografia');
-insert into altro (ID, Tipo) values (6831, 'fotografia');
-insert into altro (ID, Tipo) values (6832, 'stampa');
-insert into altro (ID, Tipo) values (6833, 'manoscritto');
-insert into altro (ID, Tipo) values (6834, 'stampa');
-insert into altro (ID, Tipo) values (6835, 'fotografia');
-insert into altro (ID, Tipo) values (6836, 'stampa');
-insert into altro (ID, Tipo) values (6837, 'altro');
-insert into altro (ID, Tipo) values (6838, 'altro');
-insert into altro (ID, Tipo) values (6839, 'fotografia');
-insert into altro (ID, Tipo) values (6840, 'stampa');
-insert into altro (ID, Tipo) values (6841, 'stampa');
-insert into altro (ID, Tipo) values (6842, 'manoscritto');
-insert into altro (ID, Tipo) values (6843, 'manoscritto');
-insert into altro (ID, Tipo) values (6844, 'altro');
-insert into altro (ID, Tipo) values (6845, 'fotografia');
-insert into altro (ID, Tipo) values (6846, 'altro');
-insert into altro (ID, Tipo) values (6847, 'manoscritto');
-insert into altro (ID, Tipo) values (6848, 'manoscritto');
-insert into altro (ID, Tipo) values (6849, 'manoscritto');
-insert into altro (ID, Tipo) values (6850, 'manoscritto');
-insert into altro (ID, Tipo) values (6851, 'fotografia');
-insert into altro (ID, Tipo) values (6852, 'fotografia');
-insert into altro (ID, Tipo) values (6853, 'fotografia');
-insert into altro (ID, Tipo) values (6854, 'manoscritto');
-insert into altro (ID, Tipo) values (6855, 'fotografia');
-insert into altro (ID, Tipo) values (6856, 'altro');
-insert into altro (ID, Tipo) values (6857, 'altro');
-insert into altro (ID, Tipo) values (6858, 'altro');
-insert into altro (ID, Tipo) values (6859, 'stampa');
-insert into altro (ID, Tipo) values (6860, 'altro');
-insert into altro (ID, Tipo) values (6861, 'manoscritto');
-insert into altro (ID, Tipo) values (6862, 'altro');
-insert into altro (ID, Tipo) values (6863, 'fotografia');
-insert into altro (ID, Tipo) values (6864, 'stampa');
-insert into altro (ID, Tipo) values (6865, 'stampa');
-insert into altro (ID, Tipo) values (6866, 'manoscritto');
-insert into altro (ID, Tipo) values (6867, 'altro');
-insert into altro (ID, Tipo) values (6868, 'fotografia');
-insert into altro (ID, Tipo) values (6869, 'altro');
-insert into altro (ID, Tipo) values (6870, 'manoscritto');
-insert into altro (ID, Tipo) values (6871, 'altro');
-insert into altro (ID, Tipo) values (6872, 'manoscritto');
-insert into altro (ID, Tipo) values (6873, 'manoscritto');
-insert into altro (ID, Tipo) values (6874, 'stampa');
-insert into altro (ID, Tipo) values (6875, 'stampa');
-insert into altro (ID, Tipo) values (6876, 'stampa');
-insert into altro (ID, Tipo) values (6877, 'altro');
-insert into altro (ID, Tipo) values (6878, 'altro');
-insert into altro (ID, Tipo) values (6879, 'manoscritto');
-insert into altro (ID, Tipo) values (6880, 'fotografia');
-insert into altro (ID, Tipo) values (6881, 'manoscritto');
-insert into altro (ID, Tipo) values (6882, 'fotografia');
-insert into altro (ID, Tipo) values (6883, 'fotografia');
-insert into altro (ID, Tipo) values (6884, 'fotografia');
-insert into altro (ID, Tipo) values (6885, 'altro');
-insert into altro (ID, Tipo) values (6886, 'manoscritto');
-insert into altro (ID, Tipo) values (6887, 'manoscritto');
-insert into altro (ID, Tipo) values (6888, 'manoscritto');
-insert into altro (ID, Tipo) values (6889, 'fotografia');
-insert into altro (ID, Tipo) values (6890, 'fotografia');
-insert into altro (ID, Tipo) values (6891, 'altro');
-insert into altro (ID, Tipo) values (6892, 'altro');
-insert into altro (ID, Tipo) values (6893, 'fotografia');
-insert into altro (ID, Tipo) values (6894, 'altro');
-insert into altro (ID, Tipo) values (6895, 'altro');
-insert into altro (ID, Tipo) values (6896, 'fotografia');
-insert into altro (ID, Tipo) values (6897, 'altro');
-insert into altro (ID, Tipo) values (6898, 'manoscritto');
-insert into altro (ID, Tipo) values (6899, 'stampa');
-insert into altro (ID, Tipo) values (6900, 'fotografia');
-insert into altro (ID, Tipo) values (6901, 'manoscritto');
-insert into altro (ID, Tipo) values (6902, 'manoscritto');
-insert into altro (ID, Tipo) values (6903, 'stampa');
-insert into altro (ID, Tipo) values (6904, 'manoscritto');
-insert into altro (ID, Tipo) values (6905, 'manoscritto');
-insert into altro (ID, Tipo) values (6906, 'fotografia');
-insert into altro (ID, Tipo) values (6907, 'manoscritto');
-insert into altro (ID, Tipo) values (6908, 'altro');
-insert into altro (ID, Tipo) values (6909, 'fotografia');
-insert into altro (ID, Tipo) values (6910, 'altro');
-insert into altro (ID, Tipo) values (6911, 'manoscritto');
-insert into altro (ID, Tipo) values (6912, 'manoscritto');
-insert into altro (ID, Tipo) values (6913, 'manoscritto');
-insert into altro (ID, Tipo) values (6914, 'altro');
-insert into altro (ID, Tipo) values (6915, 'altro');
-insert into altro (ID, Tipo) values (6916, 'stampa');
-insert into altro (ID, Tipo) values (6917, 'altro');
-insert into altro (ID, Tipo) values (6918, 'fotografia');
-insert into altro (ID, Tipo) values (6919, 'manoscritto');
-insert into altro (ID, Tipo) values (6920, 'manoscritto');
-insert into altro (ID, Tipo) values (6921, 'manoscritto');
-insert into altro (ID, Tipo) values (6922, 'altro');
-insert into altro (ID, Tipo) values (6923, 'altro');
-insert into altro (ID, Tipo) values (6924, 'fotografia');
-insert into altro (ID, Tipo) values (6925, 'fotografia');
-insert into altro (ID, Tipo) values (6926, 'fotografia');
-insert into altro (ID, Tipo) values (6927, 'altro');
-insert into altro (ID, Tipo) values (6928, 'manoscritto');
-insert into altro (ID, Tipo) values (6929, 'manoscritto');
-insert into altro (ID, Tipo) values (6930, 'fotografia');
-insert into altro (ID, Tipo) values (6931, 'stampa');
-insert into altro (ID, Tipo) values (6932, 'manoscritto');
-insert into altro (ID, Tipo) values (6933, 'altro');
-insert into altro (ID, Tipo) values (6934, 'fotografia');
-insert into altro (ID, Tipo) values (6935, 'stampa');
-insert into altro (ID, Tipo) values (6936, 'stampa');
-insert into altro (ID, Tipo) values (6937, 'altro');
-insert into altro (ID, Tipo) values (6938, 'fotografia');
-insert into altro (ID, Tipo) values (6939, 'manoscritto');
-insert into altro (ID, Tipo) values (6940, 'fotografia');
-insert into altro (ID, Tipo) values (6941, 'stampa');
-insert into altro (ID, Tipo) values (6942, 'altro');
-insert into altro (ID, Tipo) values (6943, 'fotografia');
-insert into altro (ID, Tipo) values (6944, 'fotografia');
-insert into altro (ID, Tipo) values (6945, 'fotografia');
-insert into altro (ID, Tipo) values (6946, 'fotografia');
-insert into altro (ID, Tipo) values (6947, 'fotografia');
-insert into altro (ID, Tipo) values (6948, 'manoscritto');
-insert into altro (ID, Tipo) values (6949, 'stampa');
-insert into altro (ID, Tipo) values (6950, 'manoscritto');
-insert into altro (ID, Tipo) values (6951, 'stampa');
-insert into altro (ID, Tipo) values (6952, 'altro');
-insert into altro (ID, Tipo) values (6953, 'manoscritto');
-insert into altro (ID, Tipo) values (6954, 'manoscritto');
-insert into altro (ID, Tipo) values (6955, 'fotografia');
-insert into altro (ID, Tipo) values (6956, 'altro');
-insert into altro (ID, Tipo) values (6957, 'manoscritto');
-insert into altro (ID, Tipo) values (6958, 'altro');
-insert into altro (ID, Tipo) values (6959, 'altro');
-insert into altro (ID, Tipo) values (6960, 'manoscritto');
-insert into altro (ID, Tipo) values (6961, 'stampa');
-insert into altro (ID, Tipo) values (6962, 'manoscritto');
-insert into altro (ID, Tipo) values (6963, 'stampa');
-insert into altro (ID, Tipo) values (6964, 'manoscritto');
-insert into altro (ID, Tipo) values (6965, 'manoscritto');
-insert into altro (ID, Tipo) values (6966, 'fotografia');
-insert into altro (ID, Tipo) values (6967, 'fotografia');
-insert into altro (ID, Tipo) values (6968, 'fotografia');
-insert into altro (ID, Tipo) values (6969, 'manoscritto');
-insert into altro (ID, Tipo) values (6970, 'stampa');
-insert into altro (ID, Tipo) values (6971, 'altro');
-insert into altro (ID, Tipo) values (6972, 'stampa');
-insert into altro (ID, Tipo) values (6973, 'stampa');
-insert into altro (ID, Tipo) values (6974, 'altro');
-insert into altro (ID, Tipo) values (6975, 'fotografia');
-insert into altro (ID, Tipo) values (6976, 'stampa');
-insert into altro (ID, Tipo) values (6977, 'altro');
-insert into altro (ID, Tipo) values (6978, 'altro');
-insert into altro (ID, Tipo) values (6979, 'manoscritto');
-insert into altro (ID, Tipo) values (6980, 'fotografia');
-insert into altro (ID, Tipo) values (6981, 'manoscritto');
-insert into altro (ID, Tipo) values (6982, 'fotografia');
-insert into altro (ID, Tipo) values (6983, 'fotografia');
-insert into altro (ID, Tipo) values (6984, 'manoscritto');
-insert into altro (ID, Tipo) values (6985, 'manoscritto');
-insert into altro (ID, Tipo) values (6986, 'manoscritto');
-insert into altro (ID, Tipo) values (6987, 'fotografia');
-insert into altro (ID, Tipo) values (6988, 'altro');
-insert into altro (ID, Tipo) values (6989, 'fotografia');
-insert into altro (ID, Tipo) values (6990, 'altro');
-insert into altro (ID, Tipo) values (6991, 'altro');
-insert into altro (ID, Tipo) values (6992, 'stampa');
-insert into altro (ID, Tipo) values (6993, 'fotografia');
-insert into altro (ID, Tipo) values (6994, 'fotografia');
-insert into altro (ID, Tipo) values (6995, 'manoscritto');
-insert into altro (ID, Tipo) values (6996, 'stampa');
-insert into altro (ID, Tipo) values (6997, 'manoscritto');
-insert into altro (ID, Tipo) values (6998, 'stampa');
-insert into altro (ID, Tipo) values (6999, 'fotografia');
-insert into altro (ID, Tipo) values (7000, 'stampa');
-insert into altro (ID, Tipo) values (7001, 'manoscritto');
-insert into altro (ID, Tipo) values (7002, 'fotografia');
-insert into altro (ID, Tipo) values (7003, 'altro');
-insert into altro (ID, Tipo) values (7004, 'fotografia');
-insert into altro (ID, Tipo) values (7005, 'manoscritto');
+INSERT INTO altro (ID, Tipo) VALUES
+    (6759, 'manoscritto'),
+    (6760, 'fotografia'),
+    (6761, 'manoscritto'),
+    (6762, 'stampa'),
+    (6763, 'manoscritto'),
+    (6764, 'altro'),
+    (6765, 'manoscritto'),
+    (6766, 'fotografia'),
+    (6767, 'manoscritto'),
+    (6768, 'manoscritto'),
+    (6769, 'fotografia'),
+    (6770, 'fotografia'),
+    (6771, 'fotografia'),
+    (6772, 'altro'),
+    (6773, 'stampa'),
+    (6774, 'fotografia'),
+    (6775, 'manoscritto'),
+    (6776, 'manoscritto'),
+    (6777, 'fotografia'),
+    (6778, 'manoscritto'),
+    (6779, 'altro'),
+    (6780, 'manoscritto'),
+    (6781, 'altro'),
+    (6782, 'stampa'),
+    (6783, 'fotografia'),
+    (6784, 'manoscritto'),
+    (6785, 'manoscritto'),
+    (6786, 'fotografia'),
+    (6787, 'altro'),
+    (6788, 'fotografia'),
+    (6789, 'altro'),
+    (6790, 'altro'),
+    (6791, 'fotografia'),
+    (6792, 'manoscritto'),
+    (6793, 'stampa'),
+    (6794, 'stampa'),
+    (6795, 'manoscritto'),
+    (6796, 'fotografia'),
+    (6797, 'stampa'),
+    (6798, 'altro'),
+    (6799, 'manoscritto'),
+    (6800, 'fotografia'),
+    (6801, 'manoscritto'),
+    (6802, 'fotografia'),
+    (6803, 'manoscritto'),
+    (6804, 'fotografia'),
+    (6805, 'stampa'),
+    (6806, 'fotografia'),
+    (6807, 'fotografia'),
+    (6808, 'manoscritto'),
+    (6809, 'altro'),
+    (6810, 'stampa'),
+    (6811, 'manoscritto'),
+    (6812, 'stampa'),
+    (6813, 'fotografia'),
+    (6814, 'manoscritto'),
+    (6815, 'fotografia'),
+    (6816, 'altro'),
+    (6817, 'stampa'),
+    (6818, 'altro'),
+    (6819, 'manoscritto'),
+    (6820, 'stampa'),
+    (6821, 'fotografia'),
+    (6822, 'manoscritto'),
+    (6823, 'stampa'),
+    (6824, 'stampa'),
+    (6825, 'manoscritto'),
+    (6826, 'stampa'),
+    (6827, 'manoscritto'),
+    (6828, 'fotografia'),
+    (6829, 'altro'),
+    (6830, 'fotografia'),
+    (6831, 'fotografia'),
+    (6832, 'stampa'),
+    (6833, 'manoscritto'),
+    (6834, 'stampa'),
+    (6835, 'fotografia'),
+    (6836, 'stampa'),
+    (6837, 'altro'),
+    (6838, 'altro'),
+    (6839, 'fotografia'),
+    (6840, 'stampa'),
+    (6841, 'stampa'),
+    (6842, 'manoscritto'),
+    (6843, 'manoscritto'),
+    (6844, 'altro'),
+    (6845, 'fotografia'),
+    (6846, 'altro'),
+    (6847, 'manoscritto'),
+    (6848, 'manoscritto'),
+    (6849, 'manoscritto'),
+    (6850, 'manoscritto'),
+    (6851, 'fotografia'),
+    (6852, 'fotografia'),
+    (6853, 'fotografia'),
+    (6854, 'manoscritto'),
+    (6855, 'fotografia'),
+    (6856, 'altro'),
+    (6857, 'altro'),
+    (6858, 'altro'),
+    (6859, 'stampa'),
+    (6860, 'altro'),
+    (6861, 'manoscritto'),
+    (6862, 'altro'),
+    (6863, 'fotografia'),
+    (6864, 'stampa'),
+    (6865, 'stampa'),
+    (6866, 'manoscritto'),
+    (6867, 'altro'),
+    (6868, 'fotografia'),
+    (6869, 'altro'),
+    (6870, 'manoscritto'),
+    (6871, 'altro'),
+    (6872, 'manoscritto'),
+    (6873, 'manoscritto'),
+    (6874, 'stampa'),
+    (6875, 'stampa'),
+    (6876, 'stampa'),
+    (6877, 'altro'),
+    (6878, 'altro'),
+    (6879, 'manoscritto'),
+    (6880, 'fotografia'),
+    (6881, 'manoscritto'),
+    (6882, 'fotografia'),
+    (6883, 'fotografia'),
+    (6884, 'fotografia'),
+    (6885, 'altro'),
+    (6886, 'manoscritto'),
+    (6887, 'manoscritto'),
+    (6888, 'manoscritto'),
+    (6889, 'fotografia'),
+    (6890, 'fotografia'),
+    (6891, 'altro'),
+    (6892, 'altro'),
+    (6893, 'fotografia'),
+    (6894, 'altro'),
+    (6895, 'altro'),
+    (6896, 'fotografia'),
+    (6897, 'altro'),
+    (6898, 'manoscritto'),
+    (6899, 'stampa'),
+    (6900, 'fotografia'),
+    (6901, 'manoscritto'),
+    (6902, 'manoscritto'),
+    (6903, 'stampa'),
+    (6904, 'manoscritto'),
+    (6905, 'manoscritto'),
+    (6906, 'fotografia'),
+    (6907, 'manoscritto'),
+    (6908, 'altro'),
+    (6909, 'fotografia'),
+    (6910, 'altro'),
+    (6911, 'manoscritto'),
+    (6912, 'manoscritto'),
+    (6913, 'manoscritto'),
+    (6914, 'altro'),
+    (6915, 'altro'),
+    (6916, 'stampa'),
+    (6917, 'altro'),
+    (6918, 'fotografia'),
+    (6919, 'manoscritto'),
+    (6920, 'manoscritto'),
+    (6921, 'manoscritto'),
+    (6922, 'altro'),
+    (6923, 'altro'),
+    (6924, 'fotografia'),
+    (6925, 'fotografia'),
+    (6926, 'fotografia'),
+    (6927, 'altro'),
+    (6928, 'manoscritto'),
+    (6929, 'manoscritto'),
+    (6930, 'fotografia'),
+    (6931, 'stampa'),
+    (6932, 'manoscritto'),
+    (6933, 'altro'),
+    (6934, 'fotografia'),
+    (6935, 'stampa'),
+    (6936, 'stampa'),
+    (6937, 'altro'),
+    (6938, 'fotografia'),
+    (6939, 'manoscritto'),
+    (6940, 'fotografia'),
+    (6941, 'stampa'),
+    (6942, 'altro'),
+    (6943, 'fotografia'),
+    (6944, 'fotografia'),
+    (6945, 'fotografia'),
+    (6946, 'fotografia'),
+    (6947, 'fotografia'),
+    (6948, 'manoscritto'),
+    (6949, 'stampa'),
+    (6950, 'manoscritto'),
+    (6951, 'stampa'),
+    (6952, 'altro'),
+    (6953, 'manoscritto'),
+    (6954, 'manoscritto'),
+    (6955, 'fotografia'),
+    (6956, 'altro'),
+    (6957, 'manoscritto'),
+    (6958, 'altro'),
+    (6959, 'altro'),
+    (6960, 'manoscritto'),
+    (6961, 'stampa'),
+    (6962, 'manoscritto'),
+    (6963, 'stampa'),
+    (6964, 'manoscritto'),
+    (6965, 'manoscritto'),
+    (6966, 'fotografia'),
+    (6967, 'fotografia'),
+    (6968, 'fotografia'),
+    (6969, 'manoscritto'),
+    (6970, 'stampa'),
+    (6971, 'altro'),
+    (6972, 'stampa'),
+    (6973, 'stampa'),
+    (6974, 'altro'),
+    (6975, 'fotografia'),
+    (6976, 'stampa'),
+    (6977, 'altro'),
+    (6978, 'altro'),
+    (6979, 'manoscritto'),
+    (6980, 'fotografia'),
+    (6981, 'manoscritto'),
+    (6982, 'fotografia'),
+    (6983, 'fotografia'),
+    (6984, 'manoscritto'),
+    (6985, 'manoscritto'),
+    (6986, 'manoscritto'),
+    (6987, 'fotografia'),
+    (6988, 'altro'),
+    (6989, 'fotografia'),
+    (6990, 'altro'),
+    (6991, 'altro'),
+    (6992, 'stampa'),
+    (6993, 'fotografia'),
+    (6994, 'fotografia'),
+    (6995, 'manoscritto'),
+    (6996, 'stampa'),
+    (6997, 'manoscritto'),
+    (6998, 'stampa'),
+    (6999, 'fotografia'),
+    (7000, 'stampa'),
+    (7001, 'manoscritto'),
+    (7002, 'fotografia'),
+    (7003, 'altro'),
+    (7004, 'fotografia'),
+    (7005, 'manoscritto');

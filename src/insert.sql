@@ -1,3 +1,5 @@
+BEGIN TRANSACTION;
+
 INSERT INTO Stile (Nome) VALUES
 	('Realismo'),
 	('Impressionismo'),
@@ -6865,3 +6867,5 @@ INSERT INTO scultura (ID, materiale, altezza, larghezza, statua) VALUES
 	(6505, 'legno', 280.9, 110.3, false),
 	(6506, 'marmo', 150.1, 165.6, true),
 	(6507, 'altro', 235.5, 225.2, false);
+
+COMMIT;

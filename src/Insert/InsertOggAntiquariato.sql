@@ -1,251 +1,252 @@
-insert into ogg_antiquariato (ID, Epoca) values (6508, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6509, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6510, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6511, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6512, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6513, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6514, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6515, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6516, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6517, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6518, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6519, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6520, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6521, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6522, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6523, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6524, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6525, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6526, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6527, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6528, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6529, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6530, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6531, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6532, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6533, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6534, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6535, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6536, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6537, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6538, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6539, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6540, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6541, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6542, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6543, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6544, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6545, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6546, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6547, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6548, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6549, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6550, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6551, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6552, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6553, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6554, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6555, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6556, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6557, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6558, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6559, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6560, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6561, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6562, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6563, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6564, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6565, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6566, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6567, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6568, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6569, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6570, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6571, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6572, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6573, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6574, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6575, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6576, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6577, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6578, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6579, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6580, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6581, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6582, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6583, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6584, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6585, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6586, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6587, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6588, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6589, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6590, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6591, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6592, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6593, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6594, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6595, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6596, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6597, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6598, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6599, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6600, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6601, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6602, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6603, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6604, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6605, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6606, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6607, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6608, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6609, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6610, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6611, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6612, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6613, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6614, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6615, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6616, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6617, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6618, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6619, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6620, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6621, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6622, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6623, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6624, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6625, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6626, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6627, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6628, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6629, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6630, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6631, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6632, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6633, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6634, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6635, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6636, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6637, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6638, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6639, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6640, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6641, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6642, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6643, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6644, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6645, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6646, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6647, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6648, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6649, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6650, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6651, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6652, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6653, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6654, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6655, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6656, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6657, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6658, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6659, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6660, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6661, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6662, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6663, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6664, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6665, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6666, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6667, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6668, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6669, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6670, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6671, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6672, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6673, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6674, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6675, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6676, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6677, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6678, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6679, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6680, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6681, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6682, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6683, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6684, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6685, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6686, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6687, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6688, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6689, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6690, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6691, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6692, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6693, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6694, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6695, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6696, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6697, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6698, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6699, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6700, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6701, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6702, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6703, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6704, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6705, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6706, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6707, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6708, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6709, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6710, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6711, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6712, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6713, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6714, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6715, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6716, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6717, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6718, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6719, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6720, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6721, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6722, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6723, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6724, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6725, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6726, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6727, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6728, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6729, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6730, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6731, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6732, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6733, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6734, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6735, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6736, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6737, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6738, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6739, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6740, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6741, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6742, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6743, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6744, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6745, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6746, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6747, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6748, 'moderno');
-insert into ogg_antiquariato (ID, Epoca) values (6749, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6750, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6751, 'medievale');
-insert into ogg_antiquariato (ID, Epoca) values (6752, 'antico');
-insert into ogg_antiquariato (ID, Epoca) values (6753, 'barocco');
-insert into ogg_antiquariato (ID, Epoca) values (6754, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6755, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6756, 'rinascimentale');
-insert into ogg_antiquariato (ID, Epoca) values (6757, 'contemporaneo');
-insert into ogg_antiquariato (ID, Epoca) values (6758, 'antico');
+INSERT INTO ogg_antiquariato (ID, Epoca) VALUES
+    (6508, 'moderno'),
+    (6509, 'antico'),
+    (6510, 'antico'),
+    (6511, 'medievale'),
+    (6512, 'rinascimentale'),
+    (6513, 'moderno'),
+    (6514, 'moderno'),
+    (6515, 'contemporaneo'),
+    (6516, 'moderno'),
+    (6517, 'rinascimentale'),
+    (6518, 'contemporaneo'),
+    (6519, 'antico'),
+    (6520, 'antico'),
+    (6521, 'medievale'),
+    (6522, 'barocco'),
+    (6523, 'barocco'),
+    (6524, 'barocco'),
+    (6525, 'rinascimentale'),
+    (6526, 'rinascimentale'),
+    (6527, 'contemporaneo'),
+    (6528, 'moderno'),
+    (6529, 'moderno'),
+    (6530, 'moderno'),
+    (6531, 'rinascimentale'),
+    (6532, 'medievale'),
+    (6533, 'medievale'),
+    (6534, 'rinascimentale'),
+    (6535, 'moderno'),
+    (6536, 'rinascimentale'),
+    (6537, 'medievale'),
+    (6538, 'rinascimentale'),
+    (6539, 'barocco'),
+    (6540, 'moderno'),
+    (6541, 'contemporaneo'),
+    (6542, 'medievale'),
+    (6543, 'moderno'),
+    (6544, 'contemporaneo'),
+    (6545, 'moderno'),
+    (6546, 'moderno'),
+    (6547, 'rinascimentale'),
+    (6548, 'barocco'),
+    (6549, 'moderno'),
+    (6550, 'moderno'),
+    (6551, 'rinascimentale'),
+    (6552, 'moderno'),
+    (6553, 'contemporaneo'),
+    (6554, 'barocco'),
+    (6555, 'antico'),
+    (6556, 'antico'),
+    (6557, 'medievale'),
+    (6558, 'antico'),
+    (6559, 'contemporaneo'),
+    (6560, 'rinascimentale'),
+    (6561, 'antico'),
+    (6562, 'antico'),
+    (6563, 'moderno'),
+    (6564, 'barocco'),
+    (6565, 'barocco'),
+    (6566, 'medievale'),
+    (6567, 'medievale'),
+    (6568, 'medievale'),
+    (6569, 'contemporaneo'),
+    (6570, 'antico'),
+    (6571, 'medievale'),
+    (6572, 'antico'),
+    (6573, 'medievale'),
+    (6574, 'antico'),
+    (6575, 'rinascimentale'),
+    (6576, 'medievale'),
+    (6577, 'medievale'),
+    (6578, 'contemporaneo'),
+    (6579, 'antico'),
+    (6580, 'antico'),
+    (6581, 'antico'),
+    (6582, 'moderno'),
+    (6583, 'moderno'),
+    (6584, 'contemporaneo'),
+    (6585, 'rinascimentale'),
+    (6586, 'moderno'),
+    (6587, 'rinascimentale'),
+    (6588, 'barocco'),
+    (6589, 'contemporaneo'),
+    (6590, 'contemporaneo'),
+    (6591, 'medievale'),
+    (6592, 'medievale'),
+    (6593, 'barocco'),
+    (6594, 'contemporaneo'),
+    (6595, 'rinascimentale'),
+    (6596, 'moderno'),
+    (6597, 'medievale'),
+    (6598, 'rinascimentale'),
+    (6599, 'barocco'),
+    (6600, 'moderno'),
+    (6601, 'barocco'),
+    (6602, 'contemporaneo'),
+    (6603, 'rinascimentale'),
+    (6604, 'rinascimentale'),
+    (6605, 'barocco'),
+    (6606, 'barocco'),
+    (6607, 'antico'),
+    (6608, 'contemporaneo'),
+    (6609, 'contemporaneo'),
+    (6610, 'antico'),
+    (6611, 'antico'),
+    (6612, 'contemporaneo'),
+    (6613, 'moderno'),
+    (6614, 'moderno'),
+    (6615, 'barocco'),
+    (6616, 'medievale'),
+    (6617, 'rinascimentale'),
+    (6618, 'medievale'),
+    (6619, 'antico'),
+    (6620, 'contemporaneo'),
+    (6621, 'medievale'),
+    (6622, 'contemporaneo'),
+    (6623, 'rinascimentale'),
+    (6624, 'medievale'),
+    (6625, 'antico'),
+    (6626, 'rinascimentale'),
+    (6627, 'medievale'),
+    (6628, 'rinascimentale'),
+    (6629, 'moderno'),
+    (6630, 'barocco'),
+    (6631, 'rinascimentale'),
+    (6632, 'moderno'),
+    (6633, 'contemporaneo'),
+    (6634, 'rinascimentale'),
+    (6635, 'antico'),
+    (6636, 'rinascimentale'),
+    (6637, 'moderno'),
+    (6638, 'contemporaneo'),
+    (6639, 'medievale'),
+    (6640, 'antico'),
+    (6641, 'medievale'),
+    (6642, 'contemporaneo'),
+    (6643, 'rinascimentale'),
+    (6644, 'barocco'),
+    (6645, 'medievale'),
+    (6646, 'antico'),
+    (6647, 'moderno'),
+    (6648, 'medievale'),
+    (6649, 'moderno'),
+    (6650, 'contemporaneo'),
+    (6651, 'moderno'),
+    (6652, 'rinascimentale'),
+    (6653, 'barocco'),
+    (6654, 'barocco'),
+    (6655, 'barocco'),
+    (6656, 'moderno'),
+    (6657, 'medievale'),
+    (6658, 'medievale'),
+    (6659, 'contemporaneo'),
+    (6660, 'barocco'),
+    (6661, 'medievale'),
+    (6662, 'barocco'),
+    (6663, 'antico'),
+    (6664, 'moderno'),
+    (6665, 'moderno'),
+    (6666, 'medievale'),
+    (6667, 'contemporaneo'),
+    (6668, 'rinascimentale'),
+    (6669, 'contemporaneo'),
+    (6670, 'moderno'),
+    (6671, 'antico'),
+    (6672, 'antico'),
+    (6673, 'moderno'),
+    (6674, 'antico'),
+    (6675, 'rinascimentale'),
+    (6676, 'medievale'),
+    (6677, 'medievale'),
+    (6678, 'rinascimentale'),
+    (6679, 'moderno'),
+    (6680, 'barocco'),
+    (6681, 'medievale'),
+    (6682, 'antico'),
+    (6683, 'barocco'),
+    (6684, 'moderno'),
+    (6685, 'rinascimentale'),
+    (6686, 'antico'),
+    (6687, 'antico'),
+    (6688, 'barocco'),
+    (6689, 'rinascimentale'),
+    (6690, 'moderno'),
+    (6691, 'contemporaneo'),
+    (6692, 'contemporaneo'),
+    (6693, 'contemporaneo'),
+    (6694, 'rinascimentale'),
+    (6695, 'rinascimentale'),
+    (6696, 'antico'),
+    (6697, 'medievale'),
+    (6698, 'antico'),
+    (6699, 'rinascimentale'),
+    (6700, 'antico'),
+    (6701, 'barocco'),
+    (6702, 'rinascimentale'),
+    (6703, 'medievale'),
+    (6704, 'antico'),
+    (6705, 'moderno'),
+    (6706, 'antico'),
+    (6707, 'moderno'),
+    (6708, 'contemporaneo'),
+    (6709, 'moderno'),
+    (6710, 'moderno'),
+    (6711, 'barocco'),
+    (6712, 'antico'),
+    (6713, 'barocco'),
+    (6714, 'moderno'),
+    (6715, 'antico'),
+    (6716, 'rinascimentale'),
+    (6717, 'moderno'),
+    (6718, 'barocco'),
+    (6719, 'antico'),
+    (6720, 'rinascimentale'),
+    (6721, 'moderno'),
+    (6722, 'rinascimentale'),
+    (6723, 'rinascimentale'),
+    (6724, 'medievale'),
+    (6725, 'antico'),
+    (6726, 'rinascimentale'),
+    (6727, 'medievale'),
+    (6728, 'rinascimentale'),
+    (6729, 'antico'),
+    (6730, 'contemporaneo'),
+    (6731, 'contemporaneo'),
+    (6732, 'rinascimentale'),
+    (6733, 'moderno'),
+    (6734, 'barocco'),
+    (6735, 'barocco'),
+    (6736, 'antico'),
+    (6737, 'barocco'),
+    (6738, 'antico'),
+    (6739, 'moderno'),
+    (6740, 'barocco'),
+    (6741, 'antico'),
+    (6742, 'medievale'),
+    (6743, 'antico'),
+    (6744, 'antico'),
+    (6745, 'antico'),
+    (6746, 'rinascimentale'),
+    (6747, 'barocco'),
+    (6748, 'moderno'),
+    (6749, 'medievale'),
+    (6750, 'medievale'),
+    (6751, 'medievale'),
+    (6752, 'antico'),
+    (6753, 'barocco'),
+    (6754, 'rinascimentale'),
+    (6755, 'contemporaneo'),
+    (6756, 'rinascimentale'),
+    (6757, 'contemporaneo'),
+    (6758, 'antico');
