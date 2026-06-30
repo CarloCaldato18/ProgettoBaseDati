@@ -19,7 +19,8 @@ $$;
 CREATE CONSTRAINT TRIGGER trigger_check_artista
 AFTER INSERT ON ARTISTA
 DEFERRABLE INITIALLY DEFERRED
-FOR EACH ROW EXECUTE FUNCTION check_artista();
+FOR EACH ROW
+EXECUTE FUNCTION check_artista();
 
 -- 2. Quando elimino ultimo oggetto d'arte di un artista o modifico l'artista di un oggetto d'arte, controllare che non fosse l'unico associato all'artista
 
@@ -41,7 +42,9 @@ $$;
 
 CREATE TRIGGER trigger_check_ultimo_ogg
 BEFORE UPDATE OR DELETE ON OGG_ARTE
-FOR EACH ROW EXECUTE FUNCTION check_ultimo_ogg();
+FOR EACH ROW
+WHEN (OLD.Artista IS DISTINCT FROM NEW.Artista OR TG_OP = 'DELETE')
+EXECUTE FUNCTION check_ultimo_ogg();
 
 -- 3. Quando viene spostato un oggetto d'arte da un'esibizione ad un'altra controllare che non fosse l'unico associato all'esibizione 
 -- Nota: controllo solo su mostre non ancora concluse
@@ -67,7 +70,8 @@ $$;
         
 CREATE TRIGGER trigger_check_ogg_esib
 BEFORE DELETE ON OGG_ESIB -- Sostituito OGG_ARTE con OGG_ESIB
-FOR EACH ROW EXECUTE FUNCTION check_ogg_esib();
+FOR EACH ROW
+EXECUTE FUNCTION check_ogg_esib();
 
 -- 4. Controlla totalità e disgiunzione tra prestito e permanente
 
@@ -104,12 +108,20 @@ END; $$;
 CREATE CONSTRAINT TRIGGER trg_stato_prestito
 AFTER INSERT OR UPDATE OR DELETE ON PRESTITO
 DEFERRABLE INITIALLY DEFERRED
-FOR EACH ROW EXECUTE FUNCTION check_gerarchia_stato();
+FOR EACH ROW
+EXECUTE FUNCTION check_gerarchia_stato();
 
 CREATE CONSTRAINT TRIGGER trg_stato_permanente
 AFTER INSERT OR UPDATE OR DELETE ON PERMANENTE
 DEFERRABLE INITIALLY DEFERRED
-FOR EACH ROW EXECUTE FUNCTION check_gerarchia_stato();
+FOR EACH ROW
+EXECUTE FUNCTION check_gerarchia_stato();
+
+CREATE CONSTRAINT TRIGGER trg_stato_ogg_arte
+AFTER INSERT OR UPDATE ON OGG_ARTE
+DEFERRABLE INITIALLY DEFERRED
+FOR EACH ROW
+EXECUTE FUNCTION check_gerarchia_stato();
 
 -- 5. Controlla totalità e disgiunzione tra pittura, scultura, antiquariato e altro
 
@@ -146,25 +158,30 @@ $$;
 CREATE CONSTRAINT TRIGGER check_gerarchia_padre
 AFTER INSERT OR UPDATE ON OGG_ARTE
 DEFERRABLE INITIALLY DEFERRED
-FOR EACH ROW EXECUTE FUNCTION check_gerarchia_esclusiva();
+FOR EACH ROW
+EXECUTE FUNCTION check_gerarchia_esclusiva();
 
 -- Trigger sui Figli (controllano che non ci siano doppi figli o che non vengano cancellati lasciando il padre orfano)
 CREATE CONSTRAINT TRIGGER check_gerarchia_pittura
 AFTER INSERT OR UPDATE OR DELETE ON PITTURA
 DEFERRABLE INITIALLY DEFERRED
-FOR EACH ROW EXECUTE FUNCTION check_gerarchia_esclusiva();
+FOR EACH ROW
+EXECUTE FUNCTION check_gerarchia_esclusiva();
 
 CREATE CONSTRAINT TRIGGER check_gerarchia_scultura
 AFTER INSERT OR UPDATE OR DELETE ON SCULTURA
 DEFERRABLE INITIALLY DEFERRED
-FOR EACH ROW EXECUTE FUNCTION check_gerarchia_esclusiva();
+FOR EACH ROW
+EXECUTE FUNCTION check_gerarchia_esclusiva();
 
 CREATE CONSTRAINT TRIGGER check_gerarchia_antiquariato
 AFTER INSERT OR UPDATE OR DELETE ON OGG_ANTIQUARIATO
 DEFERRABLE INITIALLY DEFERRED
-FOR EACH ROW EXECUTE FUNCTION check_gerarchia_esclusiva();
+FOR EACH ROW
+EXECUTE FUNCTION check_gerarchia_esclusiva();
 
 CREATE CONSTRAINT TRIGGER check_gerarchia_altro
 AFTER INSERT OR UPDATE OR DELETE ON ALTRO
 DEFERRABLE INITIALLY DEFERRED
-FOR EACH ROW EXECUTE FUNCTION check_gerarchia_esclusiva();
+FOR EACH ROW
+EXECUTE FUNCTION check_gerarchia_esclusiva();
