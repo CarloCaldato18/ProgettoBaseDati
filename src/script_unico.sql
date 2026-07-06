@@ -19,7 +19,7 @@ CREATE TABLE artista (
     nazione VARCHAR(256),
     epoca tipo_epoca,
     descrizione VARCHAR(1024),
-    stileP VARCHAR(256) REFERENCES stile(nome),
+    stileP VARCHAR(256) REFERENCES stile(nome) NOT NULL,
     CHECK (dataMorte IS NULL OR dataMorte >= dataNascita)
 );
 
@@ -6977,7 +6977,7 @@ FROM ogg_esib AS e1
 	JOIN ogg_esib AS e2 ON e1.nomeEsibizione = e2.nomeEsibizione 
 	JOIN ogg_arte AS o1 ON e1.ID_ogg = o1.ID 
 	JOIN ogg_arte AS o2 ON e2.ID_ogg = o2.ID
-WHERE o1.ID <> o2.ID AND o1.artista < o2.artista;
+WHERE o1.ID <> o2.ID AND o1.artista < o2.artista AND o1.artista IS NOT NULL AND o2.artista IS NOT NULL;
 
 -- 3. Artista che ha partecipato al numero massimo di esibizioni 
 
