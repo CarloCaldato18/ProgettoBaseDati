@@ -7146,10 +7146,15 @@ RETURNS TRIGGER LANGUAGE plpgsql AS $$
     END;
 $$;
 
-CREATE TRIGGER trigger_check_ultimo_ogg
-BEFORE UPDATE OR DELETE ON OGG_ARTE
+CREATE TRIGGER trigger_check_ultimo_ogg_update
+BEFORE UPDATE ON OGG_ARTE
 FOR EACH ROW
-WHEN (OLD.Artista IS DISTINCT FROM NEW.Artista OR TG_OP = 'DELETE')
+WHEN (OLD.Artista <> NEW.Artista)
+EXECUTE FUNCTION check_ultimo_ogg();
+
+CREATE TRIGGER trigger_check_ultimo_ogg_delete
+BEFORE DELETE ON OGG_ARTE
+FOR EACH ROW
 EXECUTE FUNCTION check_ultimo_ogg();
 
 -- 3. Quando viene spostato un oggetto d'arte da un'esibizione ad un'altra controllare che non fosse l'unico associato all'esibizione 
